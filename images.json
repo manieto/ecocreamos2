@@ -1,0 +1,14 @@
+{
+	"page": "index.php",
+	"type": "carrousel",
+	"basedir": "assets/img/",
+	"thumbdir": "assets/img/thumbs/",
+	"images": [
+		{ "src": "ecocreamos_logo.jpg",
+			"alt": "Logo de Ecocreamos"
+		},
+		{ "src": "ecocreamos_nombre.gif",
+			"alt": "Nombre de Ecocreamos"
+		}
+	]
+}

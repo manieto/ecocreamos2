@@ -1,0 +1,8 @@
+{
+	"menu/promociones": [
+		{"es": "Promociones"},
+		{"en": "Promotions"}],
+	"menu/bioconstruccion": [
+		{"es": "Bioconstrucción"},
+		{"en": "Bioconstruction"}]
+}

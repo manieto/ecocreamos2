@@ -1,3 +1,6 @@
 User-agent: *
-Allow: /
-
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /text.php
+Disallow: /gallery.php
+Disallow: /carrousel.php
