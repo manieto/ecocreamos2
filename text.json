@@ -1,8 +1,30 @@
 {
-	"menu/promociones": [
-		{"es": "Promociones"},
-		{"en": "Promotions"}],
-	"menu/bioconstruccion": [
-		{"es": "Bioconstrucción"},
-		{"en": "Bioconstruction"}]
+	"menu/promociones": {
+		"es": "Promoción",
+		"en": "Promotion"
+	},
+	"menu/bioconstruccion": {
+		"es": "Bioconstrucción",
+		"en": "Bioconstruction"
+	},
+	"menu/passivhaus-bio": {
+		"es": "Passivhaus-Bio",
+		"en": "Passivhaus-Bio"
+	},
+	"menu/servicios": {
+		"es": "Servicios",
+		"en": "Services"
+	},
+	"menu/materiales": {
+		"es": "Materiales",
+		"en": "Materials"
+	},
+	"menu/productos": {
+		"es": "Productos",
+		"en": "Products"
+	},
+	"menu/noticias": {
+		"es": "Noticias",
+		"en": "News"
+	}
 }

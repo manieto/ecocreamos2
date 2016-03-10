@@ -1,0 +1,58 @@
+{
+	"basedir": "assets/img/",
+	"thumbdir": "thumbs/",
+	"portfolios": {
+		"tierra": [
+			{ "src": "ecocreamos_logo.jpg",
+				"alt": "Logo de Ecocreamos"
+			},
+			{ "src": "ecocreamos_nombre.gif",
+				"alt": "Nombre de Ecocreamos"
+			}
+		],
+		"passivhaus": [
+			{ "src": "ecocreamos_logo.jpg",
+				"alt": "Logo de Ecocreamos"
+			},
+			{ "src": "ecocreamos_nombre.gif",
+				"alt": "Nombre de Ecocreamos"
+			}
+		]
+	},
+	"sliders": {
+		"home": [
+			{ "src": "ecocreamos_logo.jpg",
+				"alt": "Logo de Ecocreamos"
+			},
+			{ "src": "ecocreamos_nombre.gif",
+				"alt": "Nombre de Ecocreamos"
+			}
+		],
+		"tierra": [
+			{ "src": "ecocreamos_logo.jpg",
+				"alt": "Logo de Ecocreamos"
+			},
+			{ "src": "ecocreamos_nombre.gif",
+				"alt": "Nombre de Ecocreamos"
+			}
+		]
+	},
+	"carousels": {
+		"tierra": [
+			{ "src": "proyecto_tierra.jpg",
+				"alt": "Vistas exteriores de la construcción"
+			},
+			{ "src": "proyecto_tierra.jpg",
+				"alt": "Estructura de cimentación"
+			}
+		],
+		"otro": [
+			{ "src": "proyecto_tierra.jpg",
+				"alt": "imagen 1"
+			},
+			{ "src": "proyecto_tierra.jpg",
+				"alt": "imagen 2"
+			}
+		]
+	}
+}

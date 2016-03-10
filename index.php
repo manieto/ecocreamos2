@@ -1,7 +1,7 @@
 <?php $title       = "Ecocreamos, vivienda bioecológica aaaaaa aaaa"; ?>
 <?php $description = "Bioconstrucción, construcción ecológica, estudios biológicos, materiales ecológicos"; ?>
 <?php include "header.php"; ?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
-<?php include "slider.php"; ?> <!-- TODO: incluir el tipo de slider -->
+<?php image_displaySlider("tierra"); ?>
 
 <!-- Validation: https://developers.google.com/structured-data/testing-tool/?hl=es -->
 <script type="application/ld+json">
@@ -55,7 +55,6 @@
 	</div>
 </div>
 <!--=== End Call To Action ===-->
-
 
 	<div class="one-page-inner one-red">
 		<div class="container content">

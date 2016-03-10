@@ -17,41 +17,7 @@
 		<!--=== Content Part ===-->
 		<div class="container content">
 			<div class="row portfolio-item margin-bottom-50">
-				<!-- Carousel -->
-				<div class="col-md-7">
-					<div class="carousel slide carousel-v1" id="myCarousel">
-						<div class="carousel-inner">
-							<div class="item active">
-								<img alt="" src="assets/img/proyecto_tierra.jpg">
-								<div class="carousel-caption">
-									<p>Vistas exteriores de la construcción</p>
-								</div>
-							</div>
-							<div class="item">
-								<img alt="" src="assets/img/proyecto_tierra.jpg">
-								<div class="carousel-caption">
-									<p>Estructura de cimentación</p>
-								</div>
-							</div>
-							<div class="item">
-								<img alt="" src="assets/img/proyecto_tierra.jpg">
-								<div class="carousel-caption">
-									<p>Detalle de la pared exterior y ventanal</p>
-								</div>
-							</div>
-						</div>
-
-						<div class="carousel-arrow">
-							<a data-slide="prev" href="#myCarousel" class="left carousel-control">
-								<i class="fa fa-angle-left"></i>
-							</a>
-							<a data-slide="next" href="#myCarousel" class="right carousel-control">
-								<i class="fa fa-angle-right"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-				<!-- End Carousel -->
+				<?php image_displayCarousel("tierra"); ?>
 
 				<!-- Content Info -->
 				<div class="col-md-5">

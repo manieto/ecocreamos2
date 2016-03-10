@@ -1,3 +1,7 @@
+<?php include "utils.php"; ?>
+<?php include "config.php"; ?>
+<?php include "image.php"; ?>
+<?php include "text.php"; ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
@@ -113,7 +117,7 @@
 							<!-- Proyectos -->
 							<li class="dropdown mega-menu-fullwidth">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-									Promoción
+									<?php text("menu/promociones"); ?>
 								</a>
 								<ul class="dropdown-menu">
 									<li>
