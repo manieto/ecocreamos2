@@ -23,7 +23,7 @@
 				<div class="cbp-item xxxxxxxx">
 					<div class="cbp-caption margin-bottom-20">
 						<div class="cbp-caption-defaultWrap">
-							<img src="<?php echo $src; ?>" alt="<?php echo $alt; ?>">
+							<img src="<?=$src ?>" alt="<?=$alt ?>">
 						</div>
 						<div class="cbp-caption-activeWrap">
 							<div class="cbp-l-caption-alignCenter">
@@ -37,8 +37,8 @@
 						</div>
 					</div>
 					<div class="cbp-title-dark">
-						<div class="cbp-l-grid-agency-title"><?php echo $alt; ?></div>
-						<div class="cbp-l-grid-agency-desc"><?php echo $desc; ?></div>
+						<div class="cbp-l-grid-agency-title"><?=$alt ?></div>
+						<div class="cbp-l-grid-agency-desc"><?=$desc ?></div>
 					</div>
 				</div>
 <?php
@@ -64,8 +64,8 @@
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
 			$alt = $image["alt"];
 ?>
-			<li class="revolution-mch-1" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="<?php echo $alt; ?>">
-				<img src="<?php echo $src; ?>" alt="<?php echo $alt; ?>" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+			<li class="revolution-mch-1" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="<?=$alt ?>">
+				<img src="<?=$src ?>" alt="<?=$alt ?>" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
 			</li>
 <?php
 		}
@@ -95,10 +95,10 @@
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
 			$alt = $image["alt"];
 ?>
-							<div class="item<?php echo $active ?>">
-								<img alt="<?php echo $alt; ?>" src="<?php echo $src; ?>">
+							<div class="item<?=$active ?>">
+								<img alt="<?=$alt ?>" src="<?=$src ?>">
 								<div class="carousel-caption">
-									<p><?php echo $alt; ?></p>
+									<p><?=$alt ?></p>
 								</div>
 							</div>
 <?php
@@ -119,16 +119,4 @@
 				<!-- End Carousel -->
 <?php
 	}
-?>
-
-<?php
-  /*echo "<br>";
-  echo "<br>";
-  echo "Galería número: " . $galid;
-	$files = scandir(".");
-	$fileslength = count($files);
-	for ($x = 0; $x < $fileslength; $x++) {
-			echo $files[$x];
-			echo "<br>";
-	}*/
 ?>

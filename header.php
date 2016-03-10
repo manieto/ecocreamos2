@@ -7,12 +7,12 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 	<head>
-		<title><?php echo $title ?></title>
+		<title><?=$title ?></title>
 
 		<!-- Meta -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="<?php echo $description ?>">
+		<meta name="description" content="<?=$description ?>">
 		<meta name="author" content="Eduardo Ramos">
 
 		<!-- Favicon -->
@@ -117,7 +117,7 @@
 							<!-- Proyectos -->
 							<li class="dropdown mega-menu-fullwidth">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-									<?php text("menu/promociones"); ?>
+									<?= text("menu/promociones") ?>
 								</a>
 								<ul class="dropdown-menu">
 									<li>

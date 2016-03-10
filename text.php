@@ -11,9 +11,6 @@
 	function text($id = "default") {
 		global $texts;
 		global $lang;
-		console_log($lang);
-		console_log($texts[$id]);
-		console_log($texts[$id][$lang]);
-		echo $texts[$id][$lang];
+		return $texts[$id][$lang];
 	}
 ?>
