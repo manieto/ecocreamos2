@@ -140,7 +140,7 @@ body.header-fixed-space-default {
 /*Navbar*/
 .header {
 	z-index: 99;
-	background: #faf3e3; /* TODO: sacar a un CSS de fuera */
+	background: #fff;
 	position: relative;
 	border-bottom: solid 2px #eee;
 }
@@ -679,7 +679,7 @@ body.header-fixed-space-default {
 }
 
 .header .mega-menu .dropdown-submenu .dropdown-menu {
-  	left: 50%;
+  	left: 100%;
 }
 
 .header .mega-menu .nav.pull-right .dropdown-menu {

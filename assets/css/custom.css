@@ -1,1 +1,38 @@
 /* Add here all your css styles (customizations) */
+body {
+	font-family: "Lato", sans-serif;
+  font-weight: 400;
+}
+
+.header {
+	z-index: 99;
+	background: #faf3e3;
+	position: relative;
+	border-bottom: solid 2px #eee;
+}
+
+.header .navbar-nav > li > a {
+	bottom: -2px;
+	position: relative;
+	padding: 9px 27px 9px 7px;
+}
+
+.header .mega-menu .dropdown-submenu .dropdown-menu {
+  	left: 50%;
+}
+
+.wrapper {
+	background: #faf3e3;
+}
+
+.footer-default .footer {
+	color: #dadada;
+	background: #243321;
+	padding: 20px 0 30px;
+}
+
+.footer-default .copyright {
+	font-size: 12px;
+	padding: 11px 0 7px;
+	background: #3e5340;
+}

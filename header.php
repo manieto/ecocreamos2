@@ -19,7 +19,7 @@
 		<link rel="shortcut icon" href="favicon.ico">
 
 		<!-- Web Fonts -->
-		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin">
+		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext">
 
 		<!-- CSS Global Compulsory -->
 		<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
