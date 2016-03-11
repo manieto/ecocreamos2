@@ -182,11 +182,11 @@
 							</li>
 							<!-- End Blog -->
 
-							<li><a href="proyecto_tierra.php">Passivhaus-Bio</a></li>
-							<li><a href="noticias.php">Servicios</a></li>
-							<li><a href="galeria.php">Materiales</a></li>
-							<li><a href="quienes_somos.php">Productos</a></li>
-							<li><a href="contacto.php">Noticias</a></li>
+							<li class="dropdown-none"><a href="proyecto_tierra.php">Passivhaus-Bio</a></li>
+							<li class="dropdown-none"><a href="noticias.php">Servicios</a></li>
+							<li class="dropdown-none"><a href="galeria.php">Materiales</a></li>
+							<li class="dropdown-none"><a href="quienes_somos.php">Productos</a></li>
+							<li class="dropdown-none"><a href="contacto.php">Noticias</a></li>
 						</ul>
 					</div><!--/end container-->
 				</div><!--/navbar-collapse-->

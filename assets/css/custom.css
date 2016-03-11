@@ -10,19 +10,18 @@ body {
 	background: #faf3e3;
 }
 
+.header > .container {
+	height: 65px;
+}
+
 /*.header .topbar ul.loginbar {
     margin-right: 20px;
 }*/
 
 .header .navbar-nav > li > a {
 	color: #7d684f;
-	padding: 9px 17px 9px 17px;
-}
-.header .navbar-nav > li:first-child > a {
-    padding-left: 0px;
-}
-.header .navbar-nav > li:last-child > a {
-    padding-right: 0px;
+	padding: 9px 16px 9px 16px;
+	/*text-transform: none;*/
 }
 .header .navbar-nav > li:hover > a {
 	color: green;
@@ -35,13 +34,22 @@ body {
 	border-top: solid 2px green;
 }*/
 .header .dropdown > a:after {
-    top: 9px;
-    right: 5px;
-    content: "\f107";
+	top: 9px;
+	right: 5px;
+	content: "\f107";
+}
+.header .navbar-nav > li > a:not(.dropdown-toggle) {
+	padding-right: 8px;
+}
+.header .navbar-nav > li:first-child > a {
+	padding-left: 0px;
+}
+.header .navbar-nav > li:last-child > a {
+	padding-right: 0px;
 }
 
 .header .mega-menu .dropdown-submenu .dropdown-menu {
-  	left: 50%;
+	left: 50%;
 }
 
 /* Cuerpo */
