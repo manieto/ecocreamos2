@@ -1,29 +1,57 @@
-/* Add here all your css styles (customizations) */
+/* General */
 body {
 	font-family: "Lato", sans-serif;
   font-weight: 400;
 }
 
+/* Cabecera */
+
 .header {
-	z-index: 99;
 	background: #faf3e3;
-	position: relative;
-	border-bottom: solid 2px #eee;
 }
 
+/*.header .topbar ul.loginbar {
+    margin-right: 20px;
+}*/
+
 .header .navbar-nav > li > a {
-	bottom: -2px;
-	position: relative;
-	padding: 9px 27px 9px 7px;
+	color: #7d684f;
+	padding: 9px 17px 9px 17px;
+}
+.header .navbar-nav > li:first-child > a {
+    padding-left: 0px;
+}
+.header .navbar-nav > li:last-child > a {
+    padding-right: 0px;
+}
+.header .navbar-nav > li:hover > a {
+	color: green;
+}
+/*.header .navbar-nav > li > a:hover,
+.header .navbar-nav > .active > a {
+  border-bottom-color: green;
+}
+.header .dropdown-menu {
+	border-top: solid 2px green;
+}*/
+.header .dropdown > a:after {
+    top: 9px;
+    right: 5px;
+    content: "\f107";
 }
 
 .header .mega-menu .dropdown-submenu .dropdown-menu {
   	left: 50%;
 }
 
+/* Cuerpo */
+
 .wrapper {
 	background: #faf3e3;
 }
+
+
+/* Pie */
 
 .footer-default .footer {
 	color: #dadada;

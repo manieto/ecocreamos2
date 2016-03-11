@@ -26,13 +26,6 @@ a.read-more:hover {
 
 /* Headers Default
 ------------------------------------*/
-.header .navbar-nav > li > a {
-    color: #7d684f; /* activo: #30271d ?? */
-    font-size: 15px;
-    font-weight: 400;
-    text-transform: uppercase;
-}
-
 .header .navbar-nav > .active > a {
   color: #9c8061;
 }
