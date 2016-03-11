@@ -105,7 +105,6 @@
 	<!-- JS Page Level -->
 	<script type="text/javascript" src="assets/js/app.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
-	<!--<script type="text/javascript" src="assets/js/plugins/style-switcher.js"></script>-->
 	<script type="text/javascript" src="assets/js/plugins/revolution-slider.js"></script>
 
 	<script type="text/javascript" src="assets/js/pages/page_contacts.js"></script>
