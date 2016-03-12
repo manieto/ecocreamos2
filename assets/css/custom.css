@@ -2,6 +2,12 @@
 body {
 	font-family: "Lato", sans-serif;
   font-weight: 400;
+	text-align: justify;
+}
+
+.ecocreamos-logo {
+	color: #663300; 
+	font-style: italic;
 }
 
 /* Cabecera */

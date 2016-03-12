@@ -46,7 +46,7 @@
 	<div class="container">
 		<div class="call-action-v1-box">
 			<div class="call-action-v1-in">
-				<p>En Ecocreamos, nos enorgullecemos de asesorar, promover, construir y rehabilitar viviendas y edificios de... aaa aaaa aaaaaaa aa aaaaa aaa aaaaaaa aaa aaa aaaaaa aaa aa a aaaaa.</p>
+				<p>En <span class="ecocreamos-logo">EcoCreamos</span>, nos enorgullecemos de asesorar, promover, construir y rehabilitar viviendas y edificios de... aaa aaaa aaaaaaa aa aaaaa aaa aaaaaaa aaa aaa aaaaaa aaa aa a aaaaa.</p>
 			</div>
 			<div class="call-action-v1-in inner-btn page-scroll">
 				<a href="#portfolio" class="btn-u btn-brd btn-brd-hover btn-u-dark btn-u-block">Consulta nuestra galería</a>

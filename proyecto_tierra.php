@@ -1,5 +1,6 @@
-<?php $title = "Ecocreamos - Proyecto Tierra"; ?>
+<?php $title       = "Ecocreamos - Proyecto Tierra"; ?>
 <?php $description = "............"; ?>
+<?php $menu        = "passivhaus_bio"; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
 		<!--=== Breadcrumbs v1 ===-->

@@ -115,7 +115,7 @@
 							<!-- End Home -->
 
 							<!-- Proyectos -->
-							<li class="dropdown mega-menu-fullwidth">
+							<!--<li class="dropdown mega-menu-fullwidth">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
 									<?= text("menu/promociones") ?>
 								</a>
@@ -149,11 +149,11 @@
 										</div>
 									</li>
 								</ul>
-							</li>
+							</li>-->
 							<!-- End Proyectos -->
 
 							<!-- Servicios -->
-							<li class="dropdown">
+							<!--<li class="dropdown">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
 									Bioconstrucción
 								</a>
@@ -179,14 +179,16 @@
 									<li><a href="blog_masonry_3col.html">Masonry Grid Blog</a></li>
 									<li><a href="blog_timeline.html">Blog Timeline</a></li>
 								</ul>
-							</li>
+							</li>-->
 							<!-- End Blog -->
 
-							<li class="dropdown-none"><a href="proyecto_tierra.php">Passivhaus-Bio</a></li>
-							<li class="dropdown-none"><a href="proyecto_tierra.php">Servicios</a></li>
-							<li class="dropdown-none"><a href="proyecto_tierra.php">Materiales</a></li>
-							<li class="dropdown-none"><a href="proyecto_tierra.php">Productos</a></li>
-							<li class="dropdown-none <?php if ($menu=="noticias") { echo "active"; } ?>"><a href="noticias.php">Noticias</a></li>
+							<li class="dropdown-none <?php if ($menu=="promocion_ecologica") { echo "active"; } ?>"><a href="promocion_ecologica.php"><?= text("menu/promocion") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="passivhaus_bio"     ) { echo "active"; } ?>"><a href="passivhaus_bio.php"><?= text("menu/passivhaus_bio") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="servicios"          ) { echo "active"; } ?>"><a href="servicios.php"><?= text("menu/servicios") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="materiales"         ) { echo "active"; } ?>"><a href="materiales.php"><?= text("menu/materiales") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="productos"          ) { echo "active"; } ?>"><a href="productos.php"><?= text("menu/productos") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="noticias"           ) { echo "active"; } ?>"><a href="noticias.php"><?= text("menu/noticias") ?></a></li>
 						</ul>
 					</div><!--/end container-->
 				</div><!--/navbar-collapse-->

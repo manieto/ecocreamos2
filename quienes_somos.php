@@ -14,7 +14,7 @@
 		<div class="container content">
 			<div class="row margin-bottom-40">
 				<div class="col-md-6 md-margin-bottom-40">
-					<p><img src="assets/img/ecocreamos_nombre.gif" style="height:12px;" /> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
+					<p><span class="ecocreamos-logo">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
 					<ul class="list-unstyled">
 						<li><i class="fa fa-check color-green"></i> Promoción ecológica y bioconstrucción</li>
 						<li><i class="fa fa-check color-green"></i> Asesoramiento en aaaa</li>
@@ -30,8 +30,8 @@
 					</blockquote>
 				</div>
 
-				<div class="col-md-6 md-margin-bottom-40">
-					<img src="assets/img/eduardo_ramos.gif" style="width:80%;float:right;" />
+				<div class="col-md-3 col-md-offset-1 md-margin-bottom-40">
+					<img src="assets/img/eduardo_ramos.gif" />
 				</div>
 			</div><!--/row-->
 

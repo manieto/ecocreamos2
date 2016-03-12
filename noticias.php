@@ -1,6 +1,6 @@
-<?php $title = "Ecocreamos - Noticias"; ?>
+<?php $title       = "Ecocreamos - Noticias"; ?>
 <?php $description = "Noticias de..."; ?>
-<?php $menu = "noticias"; ?>
+<?php $menu        = "noticias"; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -14,18 +14,18 @@
 		<!-- News v3 Alternative -->
 		<div class="container content">
 			<div class="row">
-				<div class="col-sm-5 sm-margin-bottom-20">
+				<div class="col-md-6 col-lg-5 sm-margin-bottom-20">
 					<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 				</div>
-				<div class="col-sm-7 news-v3">
+				<div class="col-md-6 col-lg-5 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<ul class="list-inline posted-info">
 							<li>Por Eduardo Ramos</li>
 							<li><a href="passivhaus.php">Viviendas Passivhaus</a></li>
 							<li>Diciembre de 2015</li>
 						</ul>
-						<h2><a href="#">Primera Certificación de edificio PASSIVHAUS de Baleares</a></h2>
-						<p>EcoCreamos se honra en comunicar que el proyecto "Tierra" ha obtenido la primera Certificación de edificio PASSIVHAUS de Baleares. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, "Tierra" es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
+						<h2><a href="#">Primera Certificación de edificio PASSIVHAUS de las Illes Balears</a></h2>
+						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el proyecto "Tierra" ha obtenido la primera Certificación de edificio PASSIVHAUS de las Illes Balears. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, "Tierra" es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 						<p>
 							<a href="#" class="btn-u btn-u-large">Leer noticia completa</a>
 							<a href="proyecto_tierra.php" class="btn-u btn-u-large">Ver ficha del proyecto</a>

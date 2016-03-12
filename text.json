@@ -1,5 +1,5 @@
 {
-	"menu/promociones": {
+	"menu/promocion": {
 		"es": "Promoción",
 		"en": "Promotion"
 	},
@@ -7,7 +7,7 @@
 		"es": "Bioconstrucción",
 		"en": "Bioconstruction"
 	},
-	"menu/passivhaus-bio": {
+	"menu/passivhaus_bio": {
 		"es": "Passivhaus-Bio",
 		"en": "Passivhaus-Bio"
 	},
