@@ -17,12 +17,35 @@
 					<!-- Google Map -->
 					<div id="map" class="map map-box map-box-space margin-bottom-40"></div>
 					<!-- End Google Map -->
+				</div><!--/col-md-9-->
 
+				<div class="col-md-3">
+						<!-- Contacts -->
+						<div class="headline"><h2>Datos de contacto</h2></div>
+						<div class="row">
+							<div class="col-sm-6 col-md-12">
+								<ul class="list-unstyled who">
+									<li><a href="https://maps.google.com/..."><i class="fa fa-home"></i>Carrer AAA, 123, Palma</a></li>
+									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
+									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
+								</ul>
+							</div>
+							<div class="col-sm-6 col-md-12">
+								<ul class="list-unstyled who">
+									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>www.ecocreamos.com</a></li>
+									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>Facebook</a></li>
+									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>Linkedin</a></li>
+								</ul>
+							</div>
+						</div>
+				</div><!--/col-md-3-->
+			</div><!--/row-->
+			<div class="row margin-bottom-30">
+				<div class="col-md-9 mb-margin-bottom-30">
 					<p>Si lo prefiere, puede contactar con nosotros enviando un mensaje con el siguiente formulario y nos pondremos en contacto con usted con la mayor brevedad posible.</p><br />
-
 					<form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
 						<fieldset class="no-padding">
-							<label>Name <span class="color-red">*</span></label>
+							<label>Nombre <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
@@ -31,7 +54,7 @@
 								</div>
 							</div>
 
-							<label>Email <span class="color-red">*</span></label>
+							<label>E-mail <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
@@ -40,7 +63,7 @@
 								</div>
 							</div>
 
-							<label>Message <span class="color-red">*</span></label>
+							<label>Mensaje <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-11 col-md-offset-0">
 									<div>
@@ -57,35 +80,7 @@
 							<p>Mensaje enviado correctamente</p>
 						</div>
 					</form>
-				</div><!--/col-md-9-->
-
-				<div class="col-md-3">
-					<!-- Contacts -->
-					<div class="headline"><h2>Datos de contacto</h2></div>
-					<ul class="list-unstyled who margin-bottom-30">
-						<li><a href="https://maps.google.com/..."><i class="fa fa-home"></i>Carrer AAA, 123, Palma</a></li>
-						<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
-						<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
-						<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>www.ecocreamos.com</a></li>
-					</ul>
-
-					<!-- Business Hours -->
-					<div class="headline"><h2>Horario</h2></div>
-					<ul class="list-unstyled margin-bottom-30">
-						<li><strong>Lunes-Viernes:</strong> de 9 h a 19 h</li>
-						<li><strong>Sábado:</strong> de 10 h a 14 h</li>
-						<li><strong>Domingo:</strong> Cerrado</li>
-					</ul>
-
-					<!-- Why we are? -->
-					<!--<div class="headline"><h2>Why we are?</h2></div>
-					<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
-					<ul class="list-unstyled">
-						<li><i class="fa fa-check color-green"></i> Odio dignissimos ducimus</li>
-						<li><i class="fa fa-check color-green"></i> Blanditiis praesentium volup</li>
-						<li><i class="fa fa-check color-green"></i> Eos et accusamus</li>
-					</ul>-->
-				</div><!--/col-md-3-->
+				</div>
 			</div><!--/row-->
 
 			<!-- Owl Clients v1 -->

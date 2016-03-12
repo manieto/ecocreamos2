@@ -1,37 +1,35 @@
 var ContactPage = function () {
 
-    return {
-        
-    	//Basic Map
-        initMap: function () {
+	return {
+		//Basic Map
+		initMap: function () {
 			var map;
-			$(document).ready(function(){
-			  map = new GMaps({
-				div: '#map',
-				scrollwheel: false,				
-				lat: 40.748866,
-				lng: -73.988366
-			  });
-			  
-			  var marker = map.addMarker({
-				lat: 40.748866,
-				lng: -73.988366,
-	            title: 'Company, Inc.'
-		       });
+			$(document).ready(function () {
+				map = new GMaps({
+					div: '#map',
+					scrollwheel: true,
+					lat: 40.748866,
+					lng: -73.988366
+				});
+
+				var marker = map.addMarker({
+					lat: 40.748866,
+					lng: -73.988366,
+					title: "EcoCreamos"
+				});
 			});
-        },
+		},
+		//Panorama Map
+		initPanorama: function () {
+			var panorama;
+			$(document).ready(function () {
+				panorama = GMaps.createPanorama({
+					el: '#panorama',
+					lat: 40.748866,
+					lng: -73.988366
+				});
+			});
+		}
 
-        //Panorama Map
-        initPanorama: function () {
-		    var panorama;
-		    $(document).ready(function(){
-		      panorama = GMaps.createPanorama({
-		        el: '#panorama',
-		        lat : 40.748866,
-		        lng : -73.988366
-		      });
-		    });
-		}        
-
-    };
+	};
 }();

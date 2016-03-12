@@ -78,6 +78,10 @@ body {
     /*text-transform: none;*/
 }
 
+.map-box {
+	height: 250px;
+}
+
 
 /* Pie */
 
