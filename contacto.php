@@ -1,18 +1,14 @@
 <?php $title = "Ecocreamos - Contacto"; ?>
+<?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: aaaaa , formulario de contacto."; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
-		<!--=== Breadcrumbs v2 ===-->
+		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">
 			<div class="container">
 				<h1>Contacte con nosotros</h1>
-				<!--<ul class="breadcrumb-v2 list-inline">
-					<li><a href="index.html"><i class="rounded-x fa fa-angle-right"></i>Home</a></li>
-					<li><a href=""><i class="rounded-x fa fa-angle-right"></i>Page</a></li>
-					<li class="active"><i class="rounded-x fa fa-angle-right"></i>F.A.Q</li>
-				</ul>-->
 			</div>
 		</div>
-		<!--=== End Breadcrumbs v2 ===-->
+		<!--=== End Breadcrumbs v1 ===-->
 
 		<!--=== Content Part ===-->
 		<div class="container content">

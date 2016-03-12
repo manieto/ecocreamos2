@@ -116,7 +116,7 @@
 			<!--=== Job Partners ===-->
 			<div class="container content job-partners">
 				<div class="title-box-v2">
-					<h2>Nuestros <span class="color-green">proveedores</span></h2>
+					<h2>Nuestros <span class="color-green">&nbsp;proveedores</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
 					<li>

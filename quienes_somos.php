@@ -1,17 +1,14 @@
+<?php $title = "Ecocreamos - Quiénes somos"; ?>
+<?php $description = "Somos una empresa de..."; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
-		<!--=== Breadcrumbs v2 ===-->
+		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">
 			<div class="container">
 				<h1>Quiénes somos</h1>
-				<!--<ul class="breadcrumb-v2 list-inline">
-					<li><a href="index.html"><i class="rounded-x fa fa-angle-right"></i>Home</a></li>
-					<li><a href=""><i class="rounded-x fa fa-angle-right"></i>Page</a></li>
-					<li class="active"><i class="rounded-x fa fa-angle-right"></i>F.A.Q</li>
-				</ul>-->
 			</div>
 		</div>
-		<!--=== End Breadcrumbs v2 ===-->
+		<!--=== End Breadcrumbs v1 ===-->
 
 		<!--=== Content Part ===-->
 		<div class="container content">
@@ -43,7 +40,7 @@
 			<!--=== Job Partners ===-->
 			<div class="container content job-partners">
 				<div class="title-box-v2">
-					<h2>Nuestros&nbsp;&nbsp;<span class="color-green">proveedores</span></h2>
+					<h2>Nuestros <span class="color-green">&nbsp;proveedores</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
 					<li>

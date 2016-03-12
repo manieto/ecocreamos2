@@ -26,6 +26,9 @@ body {
 .header .navbar-nav > li:hover > a {
 	color: green;
 }
+.header .navbar-nav > .active > a {
+  color: green;
+}
 /*.header .navbar-nav > li > a:hover,
 .header .navbar-nav > .active > a {
   border-bottom-color: green;
@@ -56,6 +59,17 @@ body {
 
 .wrapper {
 	background: #faf3e3;
+}
+
+.breadcrumbs-v1 {
+    padding: 20px 0;
+}
+
+.breadcrumbs-v1 h1 {
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 0;
+    /*text-transform: none;*/
 }
 
 

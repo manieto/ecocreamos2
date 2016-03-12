@@ -9,13 +9,13 @@
 							<div class="posts">
 								<div class="headline"><h2>Últimas actualizaciones</h2></div>
 								<dl class="dl-horizontal">
-									<dt><a href="#"><img src="assets/img/sliders/elastislide/6.jpg" alt="" /></a></dt>
+									<dt><a href="#"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
 									<dd>
 										<p><a href="#">Proyecto Tierra es el primer...</a></p>
 									</dd>
 								</dl>
 								<dl class="dl-horizontal">
-									<dt><a href="#"><img src="assets/img/sliders/elastislide/10.jpg" alt="" /></a></dt>
+									<dt><a href="#"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
 									<dd>
 										<p><a href="#">Eduardo Ramos inicia su camino como asesor en bioconstrucción y...</a></p>
 									</dd>

@@ -1,18 +1,14 @@
 <?php $title = "Ecocreamos - Proyecto Tierra"; ?>
+<?php $description = "............"; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
-		<!--=== Breadcrumbs v2 ===-->
+		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">
 			<div class="container">
 				<h1>Proyecto Tierra</h1>
-				<!--<ul class="breadcrumb-v2 list-inline">
-					<li><a href="index.html"><i class="rounded-x fa fa-angle-right"></i>Home</a></li>
-					<li><a href=""><i class="rounded-x fa fa-angle-right"></i>Page</a></li>
-					<li class="active"><i class="rounded-x fa fa-angle-right"></i>F.A.Q</li>
-				</ul>-->
 			</div>
 		</div>
-		<!--=== End Breadcrumbs v2 ===-->
+		<!--=== End Breadcrumbs v1 ===-->
 
 		<!--=== Content Part ===-->
 		<div class="container content">
@@ -31,8 +27,9 @@
 					</ul>
 					<a href="#" class="btn-u btn-u-large">Ver dossier</a>
 					<a href="#" class="btn-u btn-u-large">Ver noticia</a>
-					<a href="#" class="btn-u btn-u-large">Ver artículo técnico</a>
+					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="pdf" class="btn-u btn-u-large">Ver artículo técnico</a>
 					<br /><br />
+					<a href="#" class="btn-u btn-u-large">Ver certificación</a>
 					<a href="#" class="btn-u btn-u-large">Ver proyectos Passivhaus</a>
 				</div>
 				<!-- End Content Info -->

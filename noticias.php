@@ -1,4 +1,6 @@
 <?php $title = "Ecocreamos - Noticias"; ?>
+<?php $description = "Noticias de..."; ?>
+<?php $menu = "noticias"; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -10,7 +12,7 @@
 		<!--=== End Breadcrumbs v1 ===-->
 
 		<!-- News v3 Alternative -->
-		<div class="container content-md">
+		<div class="container content">
 			<div class="row">
 				<div class="col-sm-5 sm-margin-bottom-20">
 					<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
@@ -35,11 +37,11 @@
 		<!-- End News v3 Alternative -->
 
 		<!-- News v1 Gray -->
-		<div class="container content-md" style="padding-top:40px;padding-bottom:60px;"> <!-- TODO: poner en clases CSS -->
+		<div class="container content">
 			<div class="row news-v1">
 				<div class="col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img11.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
@@ -52,7 +54,7 @@
 				</div>
 				<div class="col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img18.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">We build your website to realise your vision and best product</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
@@ -65,7 +67,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img4.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
@@ -81,11 +83,11 @@
 		<!-- End News v1 Gray -->
 
 		<!-- News v1 Gray -->
-		<div class="container content-md" style="padding-top:40px;padding-bottom:60px;"> <!-- TODO: poner en clases CSS -->
+		<div class="container content">
 			<div class="row news-v1">
 				<div class="col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img11.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
@@ -98,7 +100,7 @@
 				</div>
 				<div class="col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img18.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">We build your website to realise your vision and best product</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
@@ -111,7 +113,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="assets/img/main/img4.jpg" alt="">
+						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
 						<ul class="list-inline news-v1-info">
