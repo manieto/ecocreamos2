@@ -1,5 +1,7 @@
-<?php $title = "Ecocreamos - Contacto"; ?>
+<?php $title       = "Ecocreamos - Contacto"; ?>
 <?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: aaaaa , formulario de contacto."; ?>
+<?php $menu        = "contacto"; ?>
+<?php $plugins     = "maps,forms"; ?>
 <?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -13,9 +15,9 @@
 		<!--=== Content Part ===-->
 		<div class="container content">
 			<div class="row margin-bottom-30">
-				<div class="col-md-9 mb-margin-bottom-30">
+				<div class="col-md-9">
 					<!-- Google Map -->
-					<div id="map" class="map map-box map-box-space margin-bottom-40"></div>
+					<div id="map" class="map map-box map-box-space margin-bottom-20"></div>
 					<!-- End Google Map -->
 				</div><!--/col-md-9-->
 
@@ -33,17 +35,17 @@
 							<div class="col-sm-6 col-md-12">
 								<ul class="list-unstyled who">
 									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>www.ecocreamos.com</a></li>
-									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>Facebook</a></li>
-									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>Linkedin</a></li>
+									<li><a href="https://www.facebook.com/ecocreamos"><i class="fa fa-facebook-official"></i>facebook/ecocreamos</a></li>
+									<li><a href="https://es.linkedin.com/company/ecocreamos"><i class="fa fa-linkedin"></i>linkedin/ecocreamos</a></li>
 								</ul>
 							</div>
 						</div>
 				</div><!--/col-md-3-->
 			</div><!--/row-->
 			<div class="row margin-bottom-30">
-				<div class="col-md-9 mb-margin-bottom-30">
+				<div class="col-md-9">
 					<p>Si lo prefiere, puede contactar con nosotros enviando un mensaje con el siguiente formulario y nos pondremos en contacto con usted con la mayor brevedad posible.</p><br />
-					<form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
+					<form action="contacto_enviar_mensaje.php" method="post" id="enviar-mensaje" class="sky-form contact-style">
 						<fieldset class="no-padding">
 							<label>Nombre <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
@@ -82,40 +84,7 @@
 					</form>
 				</div>
 			</div><!--/row-->
-
-			<!-- Owl Clients v1 -->
-			<!--<div class="headline"><h2>Nuestros proveedores</h2></div>
-			<div class="owl-clients-v1">
-				<div class="item">
-					<img src="assets/img/clients4/1.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/2.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/3.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/4.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/5.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/6.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/7.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/8.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/9.png" alt="">
-				</div>
-			</div>
-			<!-- End Owl Clients v1 -->
 		</div><!--/container-->
 		<!--=== End Content Part ===-->
 
-<?php include "footer.php";?>
+<?php include "footer.php"; ?>

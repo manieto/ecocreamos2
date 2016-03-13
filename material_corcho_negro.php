@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Materiales"; ?>
+<?php $title       = "Ecocreamos - Materiales - Corcho negro"; ?>
 <?php $description = "............"; ?>
 <?php $menu        = "materiales"; ?>
 <?php include "header.php";?>

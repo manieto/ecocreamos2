@@ -92,12 +92,16 @@
 	<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
 	<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+	<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 
+	<?php if (includePlugin($plugins, "maps")) { ?>
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
-	<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+	<script type="text/javascript" src="assets/js/maps.js"></script>
+	<?php } if (includePlugin($plugins, "forms")) { ?>
 	<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+	<?php } ?>
 
 	<script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 	<!-- JS Customization -->
@@ -107,7 +111,6 @@
 	<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/revolution-slider.js"></script>
 
-	<script type="text/javascript" src="assets/js/pages/page_contacts.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
 
 	<script type="text/javascript" src="assets/js/plugins/cube-portfolio/cube-portfolio-3.js"></script>
@@ -119,7 +122,7 @@
 			//StyleSwitcher.initStyleSwitcher();
 			RevolutionSlider.initRSfullWidth();
 
-			ContactPage.initMap();
+			<?php if (includePlugin($plugins, "maps")) { ?> ContactPage.initMap(); <?php } ?>
 			//LoginForm.initLoginForm();
 			OwlCarousel.initOwlCarousel();
 		});

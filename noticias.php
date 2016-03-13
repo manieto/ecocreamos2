@@ -37,9 +37,9 @@
 		<!-- End News v3 Alternative -->
 
 		<!-- News v1 Gray -->
-		<div class="container content">
+		<div class="container content" style="padding-top: 0px;">
 			<div class="row news-v1">
-				<div class="col-md-4 md-margin-bottom-40">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40" style="padding-bottom: 20px;">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
@@ -52,7 +52,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-4 md-margin-bottom-40">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40" style="padding-bottom: 20px;">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">We build your website to realise your vision and best product</a></h3>
@@ -65,7 +65,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40" style="padding-bottom: 20px;">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
@@ -78,14 +78,7 @@
 						</ul>
 					</div>
 				</div>
-			</div>
-		</div>
-		<!-- End News v1 Gray -->
-
-		<!-- News v1 Gray -->
-		<div class="container content">
-			<div class="row news-v1">
-				<div class="col-md-4 md-margin-bottom-40">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
@@ -98,7 +91,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-4 md-margin-bottom-40">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">We build your website to realise your vision and best product</a></h3>
@@ -111,7 +104,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-40">
 					<div class="news-v1-in">
 						<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 						<h3><a href="#">Focused on helping our clients to build a successful business</a></h3>

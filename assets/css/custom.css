@@ -2,12 +2,25 @@
 body {
 	font-family: "Lato", sans-serif;
   font-weight: 400;
+	font-size: 14px;
 	text-align: justify;
 }
 
 .ecocreamos-logo {
-	color: #663300; 
+	color: #663300;
 	font-style: italic;
+}
+
+.padding-top-20 {
+	padding-top: 20px;
+}
+
+.padding-bottom-20 {
+	padding-bottom: 20px;
+}
+
+.img-responsive {
+	margin: auto;
 }
 
 /* Cabecera */
@@ -28,6 +41,9 @@ body {
 	color: #7d684f;
 	padding: 9px 16px 9px 16px;
 	/*text-transform: none;*/
+}
+.header .dropdown-menu li a {
+	color: #7d684f;
 }
 .header .navbar-nav > li:hover > a {
 	color: green;
@@ -68,14 +84,14 @@ body {
 }
 
 .breadcrumbs-v1 {
-    padding: 20px 0;
+	padding: 20px 0;
 }
 
 .breadcrumbs-v1 h1 {
-    font-size: 30px;
-    line-height: 35px;
-    margin-bottom: 0;
-    /*text-transform: none;*/
+	font-size: 30px;
+	line-height: 35px;
+	margin-bottom: 0;
+	/*text-transform: none;*/
 }
 
 .map-box {

@@ -45,8 +45,10 @@
 		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen"><![endif]-->
 		
 		<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+		<?php if (includePlugin($plugins, "forms")) { ?>
 		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+		<?php } ?>
 		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
 
 		<!-- CSS Pages Style -->
@@ -186,8 +188,24 @@
 							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="passivhaus_bio"     ) { echo "active"; } ?>"><a href="passivhaus_bio.php"><?= text("menu/passivhaus_bio") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="servicios"          ) { echo "active"; } ?>"><a href="servicios.php"><?= text("menu/servicios") ?></a></li>
-							<li class="dropdown-none <?php if ($menu=="materiales"         ) { echo "active"; } ?>"><a href="materiales.php"><?= text("menu/materiales") ?></a></li>
-							<li class="dropdown-none <?php if ($menu=="productos"          ) { echo "active"; } ?>"><a href="productos.php"><?= text("menu/productos") ?></a></li>
+							<li class="dropdown      <?php if ($menu=="materiales"         ) { echo "active"; } ?>">
+								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/materiales") ?></a>
+								<ul class="dropdown-menu">
+									<li><a href="material_lana.php">Lana</a></li>
+									<li><a href="material_corcho_negro.php">Corcho negro</a></li>
+									<li><a href="material_ecoclay.php">Ecoclay</a></li>
+									<li><a href="material_pro_clima.php">pro clima</a></li>
+									<li><a href="#">¿Gutex, Naturhaus?</a></li>
+								</ul>
+							</li>
+							<li class="dropdown      <?php if ($menu=="productos"          ) { echo "active"; } ?>">
+								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/productos") ?></a>
+								<ul class="dropdown-menu">
+									<li><a href="producto_biomasa.php">Biomasa</a></li>
+									<li><a href="producto_agua_viva.php">Agua Viva</a></li>
+									<li><a href="producto_pranan.php">Pranan</a></li>
+								</ul>
+							</li>
 							<li class="dropdown-none <?php if ($menu=="noticias"           ) { echo "active"; } ?>"><a href="noticias.php"><?= text("menu/noticias") ?></a></li>
 						</ul>
 					</div><!--/end container-->
