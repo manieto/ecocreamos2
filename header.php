@@ -71,7 +71,7 @@
 					<!-- Logo -->
 					<a class="logo" href="index.php">
 						<img src="assets/img/ecocreamos_logo.jpg" style="height:30px;" alt="Ecocreamos"/>
-						<img src="assets/img/ecocreamos_nombre.gif" style="height:25px;" alt="Ecocreamos"/>
+						<span class="ecocreamos-logo" style="font-size: 32px; vertical-align: middle;">EcoCreamos</span>
 					</a>
 					<!-- End Logo -->
 
@@ -191,19 +191,19 @@
 							<li class="dropdown      <?php if ($menu=="materiales"         ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/materiales") ?></a>
 								<ul class="dropdown-menu">
-									<li><a href="material_lana.php">Lana</a></li>
-									<li><a href="material_corcho_negro.php">Corcho negro</a></li>
-									<li><a href="material_ecoclay.php">Ecoclay</a></li>
-									<li><a href="material_pro_clima.php">pro clima</a></li>
+									<li <?php if ($submenu=="lana"        ) { echo "class=\"active\""; } ?>><a href="material_lana.php">Lana</a></li>
+									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho negro</a></li>
+									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Ecoclay</a></li>
+									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">pro clima</a></li>
 									<li><a href="#">¿Gutex, Naturhaus?</a></li>
 								</ul>
 							</li>
 							<li class="dropdown      <?php if ($menu=="productos"          ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/productos") ?></a>
 								<ul class="dropdown-menu">
-									<li><a href="producto_biomasa.php">Biomasa</a></li>
-									<li><a href="producto_agua_viva.php">Agua Viva</a></li>
-									<li><a href="producto_pranan.php">Pranan</a></li>
+									<li <?php if ($submenu=="biomasa"  ) { echo "class=\"active\""; } ?>><a href="producto_biomasa.php">Biomasa</a></li>
+									<li <?php if ($submenu=="agua_viva") { echo "class=\"active\""; } ?>><a href="producto_agua_viva.php">Agua Viva</a></li>
+									<li <?php if ($submenu=="pranan"   ) { echo "class=\"active\""; } ?>><a href="producto_pranan.php">Pranan</a></li>
 								</ul>
 							</li>
 							<li class="dropdown-none <?php if ($menu=="noticias"           ) { echo "active"; } ?>"><a href="noticias.php"><?= text("menu/noticias") ?></a></li>

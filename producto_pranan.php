@@ -1,6 +1,7 @@
 <?php $title       = "Ecocreamos - Productos - Pranan"; ?>
 <?php $description = "............"; ?>
 <?php $menu        = "productos"; ?>
+<?php $submenu     = "pranan"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -19,9 +20,10 @@
 					<p>Nuestra tecnología está basada en los principios matemáticos de la Física cuántica y radiónica solar. Funcionan como convertidores pasivos de banda ancha de los campos "físicos finos". Es decir, son estructuras geométricas complejas de aleaciones de metales nobles.</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-3 col-md-offset-0 col-lg-2">
-					<a target="pranan" href="http://www.pranan.com/"><img src="http://www.pranan.com/wp-content/uploads/2015/10/pranan2.jpg" class="img-responsive margin-bottom-10" alt="Acceso a la web de Agua Viva"></a>
+					<a target="pranan" href="http://www.pranan.com/"><img src="http://www.pranan.com/wp-content/uploads/2015/10/pranan2.jpg" class="img-responsive padding-bottom-20" alt="Acceso a la web de Agua Viva"></a>
+					<img src="http://www.pranan.com/wp-content/uploads/2011/09/lab2048-2.jpg" class="img-responsive" />
 				</div>
-			</div>		
+			</div>
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-10 col-lg-8 col-lg-offset-2 padding-bottom-20">
 					<h2 class="title-v2 padding-top-20">Productos</h2>

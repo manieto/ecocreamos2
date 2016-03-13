@@ -1,6 +1,7 @@
 <?php $title       = "Ecocreamos - Productos - Biomasa"; ?>
 <?php $description = "............"; ?>
 <?php $menu        = "productos"; ?>
+<?php $submenu     = "biomasa"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->

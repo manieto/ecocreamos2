@@ -1,6 +1,7 @@
 <?php $title       = "Ecocreamos - Productos - Agua Viva"; ?>
 <?php $description = "............"; ?>
 <?php $menu        = "productos"; ?>
+<?php $submenu     = "agua_viva"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -20,7 +21,8 @@
 					<p>Nosotros nos hemos informado por usted y hemos encontrado varias soluciones que nos gustaría ofrecerle en esta página: <a target="aguaviva" href="http://www.agua-viva.info/">http://www.agua-viva.info</a>.</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
-					<a target="aguaviva" href="http://www.agua-viva.info/"><img src="http://www.agua-viva.info/img/agua-viva-logo-1436182203.jpg" class="img-responsive margin-bottom-10" alt="Acceso a la web de Agua Viva"></a>
+					<a target="aguaviva" href="http://www.agua-viva.info/"><img src="http://www.agua-viva.info/img/agua-viva-logo-1436182203.jpg" class="img-responsive padding-bottom-20" alt="Acceso a la web de Agua Viva"></a>
+					<img src="http://www.universal.org.ec/wp-content/uploads/2015/10/aguaviva.png" class="img-responsive" />
 				</div>
 			</div>
 		</div>
