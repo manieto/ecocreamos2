@@ -22,7 +22,7 @@
 					<p><a href="#" target="corcho_negro" class="btn-u btn-u-large margin-top-20">Ver documento y características técnicas</a></p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-1 col-lg-4">
-					<a href="http://www.amorimisolamentos.com/" target="corcho_negro" /><img src="http://www.amorimisolamentos.com/images/logo_amorim_isolamentos_2016.png" class="img-responsive padding-bottom-20" alt="Amorim Isolamientos" /></a>
+					<a href="assets/img/logos/amorim_isolamentos.png" target="corcho_negro" /><img src="assets/img/logos/amorim_isolamentos.png" class="img-responsive padding-bottom-20" alt="Amorim Isolamientos" /></a>
 					<img src="assets/img/materiales/aislamiento_corcho_negro.png" class="img-responsive" alt="Placas de aislante con corcho negro" />
 				</div>
 			</div>

@@ -70,7 +70,7 @@
 				<div class="container">
 					<!-- Logo -->
 					<a class="logo" href="index.php">
-						<img src="assets/img/ecocreamos_logo.jpg" style="height:30px;" alt="Ecocreamos"/>
+						<img src="assets/img/logos/ecocreamos.jpg" style="height:30px;" alt="Ecocreamos"/>
 						<span class="ecocreamos-logo" style="font-size: 32px; vertical-align: middle;">EcoCreamos</span>
 					</a>
 					<!-- End Logo -->

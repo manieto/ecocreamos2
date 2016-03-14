@@ -3,36 +3,36 @@
 	"thumbdir": "thumbs/",
 	"portfolios": {
 		"tierra": [
-			{ "src": "ecocreamos_logo.jpg",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Logo de Ecocreamos"
 			},
-			{ "src": "ecocreamos_nombre.gif",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Nombre de Ecocreamos"
 			}
 		],
 		"passivhaus": [
-			{ "src": "ecocreamos_logo.jpg",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Logo de Ecocreamos"
 			},
-			{ "src": "ecocreamos_nombre.gif",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Nombre de Ecocreamos"
 			}
 		]
 	},
 	"sliders": {
 		"home": [
-			{ "src": "ecocreamos_logo.jpg",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Logo de Ecocreamos"
 			},
-			{ "src": "ecocreamos_nombre.gif",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Nombre de Ecocreamos"
 			}
 		],
 		"tierra": [
-			{ "src": "ecocreamos_logo.jpg",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Logo de Ecocreamos"
 			},
-			{ "src": "ecocreamos_nombre.gif",
+			{ "src": "logos/ecocreamos.jpg",
 				"alt": "Nombre de Ecocreamos"
 			}
 		]

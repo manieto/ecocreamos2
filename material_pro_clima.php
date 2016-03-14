@@ -24,11 +24,9 @@
 					<p>FALTA ACTUALIZAR EL CATÁLOGO Y DECIDIR SI INCLUIMOS LA SECCIÓN DE PRODUCTOS Y TÉCNICAS DE UNIÓN</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-3 col-md-offset-1 col-lg-3 col-lg-offset-0">
-					<a href="https://proclima.com/" target="pro_clima"><img src="https://proclima.com/media/static/proclima.de/images/slogan_en.png" class="img-responsive padding-bottom-20" alt="pro clima" /></a>
-					<!--<img src="https://proclima.com/media/gallery/en_innen-luftdicht_Kopie_1.jpg.674x126_q95_crop_box-0_36_1800_373_image_id-274.jpg.200x80_q95_crop_box-76%2C0%2C391%2C126_image_id-5547.jpg" class="img-responsive padding-bottom-20" />-->
-					<img src="https://proclima.com/media/gallery/3d-INTELLO_beige.jpg.200x80_q95_crop_box-1036%2C487%2C1922%2C842_image_id-5542.jpg" class="img-responsive padding-bottom-20" />
-					<!--<img src="https://proclima.com/media/gallery/en_aussen-winddicht_Kopie.jpg.674x126_q95_crop_box-0_31_1800_368_image_id-276.jpg.200x80_q95_crop_box-104%2C7%2C381%2C118_image_id-5539.jpg" class="img-responsive padding-bottom-20" />-->
-					<img src="https://proclima.com/media/gallery/3d-SOLITEX-beige_Kopie_1.jpg.200x80_q95_crop_box-363%2C363%2C1763%2C921_image_id-5534.jpg" class="img-responsive padding-bottom-20" />
+					<a href="https://proclima.com/" target="pro_clima"><img src="assets/img/logos/pro_clima.jpg" class="img-responsive padding-bottom-20" alt="pro clima" /></a>
+					<!--<img src="assets/img/materiales/pro_clima_1.jpg" class="img-responsive padding-bottom-20" />
+					<img src="assets/img/materiales/pro_clima_2.jpg" class="img-responsive padding-bottom-20" />-->
 				</div>
 			</div>
 		</div>

@@ -26,7 +26,7 @@
 				</div>
 				<div class="col-sm-5 col-lg-4 col-lg-offset-1">
 					<p></p>
-					<a target="lacunza" href="http://www.lacunza.net/"><img src="http://www.lacunza.net/img/logo_lacunza_es.png" class="img-responsive margin-bottom-10" alt="Acceso a la web de Lacunza"></a>
+					<a target="lacunza" href="http://www.lacunza.net/"><img src="assets/img/logos/lacunza.png" class="img-responsive margin-bottom-10" alt="Acceso a la web de Lacunza"></a>
 				</div>
 			</div>
 		</div>

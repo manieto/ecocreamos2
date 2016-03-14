@@ -13,7 +13,7 @@
 		<!--=== Content Part ===-->
 		<div class="container content">
 			<div class="row margin-bottom-40">
-				<div class="col-md-6 md-margin-bottom-40">
+				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
 					<p><span class="ecocreamos-logo">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
 					<ul class="list-unstyled">
 						<li><i class="fa fa-check color-green"></i> Promoción ecológica y bioconstrucción</li>
@@ -35,77 +35,32 @@
 				</div>
 			</div><!--/row-->
 
-
-
 			<!--=== Job Partners ===-->
 			<div class="container content job-partners">
 				<div class="title-box-v2">
-					<h2>Nuestros <span class="color-green">&nbsp;proveedores</span></h2>
+					<h2>Nuestros <span class="color-green">&nbsp;amigos</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
 					<li>
-						<figure>
-							<img src="assets/img/clients2/inspiring.png" alt="">
-							<div class="img-hover">
-								<h4>Inspiring</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/passivhaus.jpg" alt="Passivhaus"><div class="img-hover"><h4>Passivhaus</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/ucweb.png" alt="">
-							<div class="img-hover">
-								<h4>UcWeb</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"><div class="img-hover"><h4>Amorim Isolamentos</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/corepreserves.png" alt="">
-							<div class="img-hover">
-								<h4>Core Preserves</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"><div class="img-hover"><h4>Ecoclay</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/getaround.png" alt="">
-							<div class="img-hover">
-								<h4>GetAround</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"><div class="img-hover"><h4>pro clima</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/baderbrau.png" alt="">
-							<div class="img-hover">
-								<h4>Baderbrau</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/lacunza.png" alt="Lacunza"><div class="img-hover"><h4>Lacunza</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/fddw.png" alt="">
-							<div class="img-hover">
-								<h4>Field Days</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"><div class="img-hover"><h4>Agua Viva</h4></div></figure>
 					</li>
 					<li>
-						<figure>
-							<img src="assets/img/clients2/marianos.png" alt="">
-							<div class="img-hover">
-								<h4>Mariano's</h4>
-							</div>
-						</figure>
-					</li>
-					<li>
-						<figure>
-							<img src="assets/img/clients2/grifting-tree.png" alt="">
-							<div class="img-hover">
-								<h4>The Grifting Tree</h4>
-							</div>
-						</figure>
+						<figure><img src="assets/img/logos/pranan.jpg" alt="Pranan"><div class="img-hover"><h4>Pranan</h4></div></figure>
 					</li>
 				</ul>
 			</div><!--/container-->
