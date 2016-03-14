@@ -14,7 +14,7 @@
 		
 		<div class="container content">
 			<div class="row">
-				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-6 padding-bottom-20">
+				<div class="col-xs-10 col-xs-offset-1 col-md-6 col-lg-6 padding-bottom-20">
 					<p><span class="ecocreamos-logo">EcoCreamos</span> fabrica y distribuye aislamiento de lana de oveja en las Illes Balears.</p>
 					<p>Desde <span class="ecocreamos-logo">EcoCreamos</span>, apostamos por la sostenibilidad, entendiendo como uno de nuestros mejores productos la fabricación de aislamiento con lana de oveja balear.</p>
 					<p>La lana de oveja es un producto que ofrece un excelente resultado acústico y térmico, siendo un aislamiento con uno de los mejores comportamientos higrotérmicos en comparación con otros aislamientos. <strong>Sano, sostenible, natural y 100% reciclable</strong>, con un Ciclo de Vida (ACV) respetuoso con el medio ambiente.</p>
@@ -22,7 +22,7 @@
 					<p>Este aislamiento puede utilizarse tanto en pared, como en techo y suelo.</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
-					<img src="http://www.agua-viva.info/img/agua-viva-logo-1436182203.jpg" class="img-responsive margin-bottom-10" alt="Aislamiento con fieltros de lana de oveja unidos entre sí mecánicamente" />
+					<img src="assets/img/materiales/aislamiento_lana_de_oveja.png" class="img-responsive margin-bottom-10" alt="Aislamiento con fieltros de lana de oveja unidos entre sí mecánicamente" />
 				</div>
 			</div>
 		</div>

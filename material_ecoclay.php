@@ -14,8 +14,8 @@
 		
 		<div class="container content">
 			<div class="row">
-				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-6 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos de <a href="http://www.ecoclay.es/" target="ecoclay">Ecoclay</a> en las Illes Balears.</p>
+				<div class="col-xs-10 col-xs-offset-1 col-md-6 col-lg-6 padding-bottom-20">
+					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://www.ecoclay.es/" target="ecoclay">Ecoclay</a> en las Illes Balears.</p>
 					<p>aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa, aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa, aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa, aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa.</p>
 					<p>aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa, aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa, aaaaa aaaa aaaaaa aa aaaa a aaaaaaaaaaaaa aaaa aaaaaa aa aaaa a aaaaaaaa aaaaa aaaa aaaaaa aa aaaa a aaaaaaaa.</p>
 				</div>
