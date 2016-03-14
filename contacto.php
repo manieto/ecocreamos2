@@ -25,14 +25,14 @@
 						<!-- Contacts -->
 						<div class="headline"><h2>Datos de contacto</h2></div>
 						<div class="row">
-							<div class="col-xs-6 col-md-12">
+							<div class="col-sm-6 col-md-12">
 								<ul class="list-unstyled who">
 									<li><a href="https://maps.google.com/..."><i class="fa fa-home"></i>Carrer AAA, 123<br><span style="padding-left: 24px;">Palma, Illes Balears</span></a></li>
 									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
 									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
 								</ul>
 							</div>
-							<div class="col-xs-6 col-md-12">
+							<div class="col-sm-6 col-md-12">
 								<ul class="list-unstyled who">
 									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>www.ecocreamos.com</a></li>
 									<li><a href="https://www.facebook.com/ecocreamos"><i class="fa fa-facebook-official"></i>facebook/ecocreamos</a></li>
