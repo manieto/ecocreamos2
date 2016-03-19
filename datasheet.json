@@ -1,0 +1,68 @@
+{
+	"basedir": "assets/img/",
+	"thumbdir": "thumbs/",
+	"noticias": [
+		{ "src": "proyecto_tierra.jpg",
+			"alt": "Logo de Ecocreamos",
+			"title": "Prueba",
+			"description": "Texto más largo",
+			"extra1": "Marratxí",
+			"extra2": "Marzo 2016",
+			"extra3": "..."
+		},
+		{ "src": "proyecto_tierra.jpg",
+			"alt": "Logo de Ecocreamos",
+			"title": "Prueba",
+			"description": "Texto más largo",
+			"extra1": "Marratxí",
+			"extra2": "Marzo 2016"
+		},
+		{ "src": "proyecto_tierra.jpg",
+			"alt": "Logo de Ecocreamos",
+			"title": "Prueba",
+			"description": "Texto más largo",
+			"extra1": "Marratxí",
+			"extra2": "Marzo 2016"
+		},
+		{ "src": "proyecto_tierra.jpg",
+			"alt": "Logo de Ecocreamos",
+			"title": "Prueba",
+			"description": "Texto más largo",
+			"extra1": "Marratxí",
+			"extra2": "Marzo 2016"
+		}
+	],
+	
+	"material_corcho_negro": [
+		{ "src": "materiales/amorim_corkboard.png",
+			"alt": "Amorim Aglomerado de corcho expandido",
+			"title": "Aglomerado de corcho expandido",
+			"description": "Solución de alto rendimiento in thermal, acoustic and anti-vibration insulation, especially suitable for use in external, internal and cavity walls; slabs; flat and pitched roofs and radiant floor.",
+			"extra1": "<a href=\"assets/pdf/material_amorim/DoP_Declaration_of_Performance__ICB_AISOL_EN.pdf\" target=\"corcho_negro\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/amorim_lambourde.png",
+			"alt": "Amorim Lambourdé",
+			"title": "Lambourdé",
+			"description": "Sistema de rápida aplicación diseñado para soluciones de aislamiento con grosor fino y rehabilitación de inmuebles. En suelo y paredes, asegura un excelente aislamiento térmico y acústico.",
+			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Lambourde_EN.pdf\" target=\"corcho_negro\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/amorim_corkoco.png",
+			"alt": "Amorim Corkoco",
+			"title": "Corkoco",
+			"description": "Solución que utiliza dos productos naturales con características únicas, corcho y coco, y consigue un aislamiento acústico de alto rendimiento. Especialmente diseñado para techos, paredes y suelos.",
+			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Corkoco_EN.pdf\" target=\"corcho_negro\" class=\"btn-u btn-u-large0\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/amorim_coco.png",
+			"alt": "Amorim Coco",
+			"title": "Coco",
+			"description": "Solución natural de la familia of the hard fibers with unmatched stiffness and hardness. It is a versatile product given its strength durability and resilience that ensures high performance in sound insulation.",
+			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Coco_EN.pdf\" target=\"corcho_negro\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/amorim_granulado.png",
+			"alt": "Amorim Granulado de corcho expandido",
+			"title": "Granulado de corcho expandido",
+			"description": "Solución de relleno ligero with acoustic insulation properties for use in screeds, flooring and interior cavity walls.",
+			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Granulado_Expandido_EN.pdf\" target=\"corcho_negro\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		}
+	]
+}

@@ -35,6 +35,14 @@ body {
 	padding-bottom: 20px;
 }
 
+.padding-left-30 {
+	padding-left: 30px;
+}
+
+.padding-right-30 {
+	padding-right: 30px;
+}
+
 .img-responsive {
 	margin: auto;
 }
@@ -114,7 +122,7 @@ body {
 /* Cuerpo */
 
 .wrapper {
-	background: #faf3e3 url("../img/fondos/fondo1.jpg") repeat;
+	background: #faf3e3; /* url("../img/fondos/fondo1.jpg") repeat; */
 }
 
 .breadcrumbs-v1 {
