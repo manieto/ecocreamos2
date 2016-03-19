@@ -70,14 +70,21 @@
 				<div class="container">
 					<!-- Logo -->
 					<a class="logo" href="index.php">
-						<img src="assets/img/logos/ecocreamos.jpg" style="height:30px;" alt="Ecocreamos"/>
-						<span class="ecocreamos-logo" style="font-size: 32px; vertical-align: middle;">EcoCreamos</span>
+						<img src="assets/img/logos/ecocreamos_pequenyo.png" style="height: 62px;" alt="Ecocreamos"/>
+						<span class="ecocreamos-logo only-big-screen" style="font-size: 110%;">EcoCreamos</span>
 					</a>
 					<!-- End Logo -->
 
+					<!-- Toggle get grouped for better mobile display -->
+					<button type="button" class="navbar-toggle" style="margin-left: 20px;" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="fa fa-bars"></span>
+					</button>
+					<!-- End Toggle -->
+
 					<!-- Topbar -->
 					<div class="topbar">
-						<ul class="loginbar pull-right">
+						<ul class="loginbar pull-right" style="text-align: left;">
 							<!--<li class="hoverSelector">
 								<i class="fa fa-globe"></i>
 								<a>Idioma</a>
@@ -95,13 +102,6 @@
 						</ul>
 					</div>
 					<!-- End Topbar -->
-
-					<!-- Toggle get grouped for better mobile display -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="fa fa-bars"></span>
-					</button>
-					<!-- End Toggle -->
 				</div><!--/end container-->
 
 				<!-- Collect the nav links, forms, and other content for toggling -->

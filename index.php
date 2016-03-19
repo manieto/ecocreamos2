@@ -1,7 +1,7 @@
 <?php $title       = "Ecocreamos, vivienda bioecológica aaaaaa aaaa"; ?>
 <?php $description = "Bioconstrucción, construcción ecológica, estudios biológicos, materiales ecológicos"; ?>
 <?php include "header.php"; ?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
-<?php image_displaySlider("tierra"); ?>
+<?php image_displaySlider("inicio"); ?>
 
 <!-- Validation: https://developers.google.com/structured-data/testing-tool/?hl=es -->
 <script type="application/ld+json">
@@ -60,7 +60,6 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-6">
-					<h2>Quiénes somos</h2>
 					<p><span class="ecocreamos-logo">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
 					<ul class="list-unstyled">
 						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Promoción ecológica y bioconstrucción</li>
@@ -87,27 +86,16 @@
 					<h2>Nuestros <span class="color-green">&nbsp;amigos</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
-					<li>
-						<figure><img src="assets/img/logos/passivhaus.jpg" alt="Passivhaus"><div class="img-hover"><h4>Passivhaus</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"><div class="img-hover"><h4>Amorim Isolamentos</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"><div class="img-hover"><h4>Ecoclay</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"><div class="img-hover"><h4>pro clima</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/lacunza.png" alt="Lacunza"><div class="img-hover"><h4>Lacunza</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"><div class="img-hover"><h4>Agua Viva</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/pranan.jpg" alt="Pranan"><div class="img-hover"><h4>Pranan</h4></div></figure>
-					</li>
+					<li><img src="assets/img/logos/passivhaus.jpg" alt="Passivhaus"></li>
+					<li><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></li>
+					<li><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"></li>
+					<li><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"></li>
+					<li><img src="assets/img/logos/lacunza.png" alt="Lacunza"></li>
+					<li><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"></li>
+					<li><img src="assets/img/logos/pranan.jpg" alt="Pranan"></li>
+					<li><img src="assets/img/logos/gutex.png" alt="Gutex"></li>
+					<li><img src="assets/img/logos/naturhaus.jpg" alt="Naturhaus"></li>
+					<li><img src="assets/img/logos/biohaus.gif" alt="Biohaus"></li>
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

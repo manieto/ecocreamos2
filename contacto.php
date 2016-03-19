@@ -56,7 +56,7 @@
 								</div>
 							</div>
 
-							<label>E-mail <span class="color-red">*</span></label>
+							<label>E-mail o teléfono <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>

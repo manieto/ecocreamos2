@@ -20,11 +20,14 @@
 		]
 	},
 	"sliders": {
-		"home": [
-			{ "src": "logos/ecocreamos.jpg",
+		"inicio": [
+			{ "src": "sliders/inicio/flores_cerezo.jpg",
 				"alt": "Logo de Ecocreamos"
 			},
-			{ "src": "logos/ecocreamos.jpg",
+			{ "src": "sliders/inicio/exterior_construccion_biologica.jpg",
+				"alt": "Nombre de Ecocreamos"
+			},
+			{ "src": "sliders/inicio/proyecto_tierra.jpg",
 				"alt": "Nombre de Ecocreamos"
 			}
 		],

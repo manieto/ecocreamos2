@@ -6,9 +6,25 @@ body {
 	text-align: justify;
 }
 
+@font-face {
+	font-family: "Dakota";
+	font-stretch: normal;
+  src: url("../fonts/Dakota.ttf");
+}
 .ecocreamos-logo {
+	font-family: "Dakota";
 	color: #663300;
-	font-style: italic;
+	font-size: 12px;
+	font-weight: 900;
+	vertical-align: middle;
+	padding-right: 2px;
+}
+
+@media (max-width: 1200px) {
+	.only-big-screen {
+		display: none;
+		max-height: 0; 
+	}
 }
 
 .padding-top-20 {
@@ -31,6 +47,17 @@ body {
 
 .header > .container {
 	height: 65px;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	.header .logo {
+		position: relative;
+		left:-40px;
+	}
+}
+
+.header .logo img {
+	margin: 0;
 }
 
 /*.header .topbar ul.loginbar {
@@ -87,7 +114,7 @@ body {
 /* Cuerpo */
 
 .wrapper {
-	background: #faf3e3;
+	background: #faf3e3 url("../img/fondos/fondo1.jpg") repeat;
 }
 
 .breadcrumbs-v1 {
@@ -104,6 +131,25 @@ body {
 
 .map-box {
 	height: 250px;
+}
+
+.our-clients li {
+	height: 140px;
+  width: 175px;
+	line-height: 120px;
+	vertical-align: middle;
+	background: #f5f5f5;
+}
+
+.our-clients img {
+	padding: 10px;
+	height: auto;
+	width: auto;
+	margin: auto;
+	max-width: 100%;
+	max-height: 100%;
+	position: relative;
+	vertical-align: middle;
 }
 
 
