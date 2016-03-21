@@ -62,3 +62,30 @@ function includePlugin($plugins, $id) {
 <?php
 	}
 ?>
+<?php
+	function accordion_begin($parent, $id, $title, $expanded) {
+?>
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h4 class="panel-title">
+									<a class="accordion-toggle<?=($expanded)?"":" collapsed" ?>" data-toggle="collapse" data-parent="#accordion-<?=$parent ?>" href="#collapse-<?=$id ?>"><?=$title ?></a>
+								</h4>
+							</div>
+							<div id="collapse-<?=$id ?>" class="panel-collapse collapse<?=($expanded)?" in":"" ?> ">
+								<div class="panel-body">
+									<div class="row">
+										<div class="col-md-12">
+<?php
+	}
+?>
+<?php
+	function accordion_end() {
+?>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+<?php
+	}
+?>

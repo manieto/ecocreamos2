@@ -15,12 +15,12 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-6 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo en las Illes Balears de los productos <a target="pranan" href="http://www.pranan.com/">PRANAN</a>.</p>
+					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo en las Illes Balears de los productos <a target="_blank" href="http://www.pranan.com/">PRANAN</a>.</p>
 					<p>Pranan Technologies es una empresa dedicada a la investigación y desarrollo de dispositivos destinados a favorecer el bienestar.</p>
 					<p>Nuestra tecnología está basada en los principios matemáticos de la Física cuántica y radiónica solar. Funcionan como convertidores pasivos de banda ancha de los campos "físicos finos". Es decir, son estructuras geométricas complejas de aleaciones de metales nobles.</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
-					<a target="pranan" href="http://www.pranan.com/"><img src="assets/img/logos/pranan.jpg" class="img-responsive padding-bottom-20" alt="Acceso a la web de Pranan"></a>
+					<a target="_blank" href="http://www.pranan.com/"><img src="assets/img/logos/pranan.jpg" class="img-responsive padding-bottom-20" alt="Acceso a la web de Pranan"></a>
 				</div>
 			</div>
 			<div class="row">
@@ -31,19 +31,15 @@
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-6 padding-bottom-20">
 					<ul class="list-unstyled who">
-            <li><a target="pranan" href="http://www.pranan.com/portfolio-view/phiwaves-2/"><i class="fa fa-check"></i>PHIWAVES: Protector personal de las radiaciones electromagnéticas</a></li>
-						<li><a target="pranan" href="http://www.pranan.com/portfolio-view/prueba/"><i class="fa fa-check"></i>PHIONE: Neutraliza los efectos de las radiaciones emitidas por el móvil</a></li>
-						<li><a target="pranan" href="http://www.pranan.com/portfolio-view/descans/"><i class="fa fa-check"></i>DESCANS@: Facilita el descanso y nos protege de las radiaciones cuando dormimos</a></li>
-						<li><a target="pranan" href="http://www.pranan.com/portfolio-view/relax-8-r-5/"><i class="fa fa-check"></i>RELAX: Para inducir a estados de relajación y descanso</a></li>
-						<li><a target="pranan" href="http://www.pranan.com/portfolio-view/pack-3-proteccion-2/"><i class="fa fa-check"></i>PACK 3 PROTECCIÓN: Pack 3 (PHIWAVES + PHIONE + RELAX)</a></li>
-						<li>Antiguos...??</li>
-						<li><a target="pranan" href="http://www.pranan.com/tranquilidad.html"><i class="fa fa-check"></i>PRANAN 8-R-5: Para facilitar e inducir estados de relajación y descanso.</a></li>
-            <li><a target="pranan" href="http://www.pranan.com/vitalizador.html" ><i class="fa fa-check"></i>PRANAN 8-V-11: Potencia y armoniza la energía vital del organismo.</a></li>
-            <li><a target="pranan" href="http://www.pranan.com/rendimiento.html" ><i class="fa fa-check"></i>PRANAN 8-AR-11: Máximo rendimiento en situaciones de gran esfuerzo.</a></li>
+            <li><a target="_blank" href="http://www.pranan.com/portfolio-view/phiwaves-2/"><i class="fa fa-check"></i>PHIWAVES: Protector personal de las radiaciones electromagnéticas</a></li>
+						<li><a target="_blank" href="http://www.pranan.com/portfolio-view/prueba/"><i class="fa fa-check"></i>PHIONE: Neutraliza los efectos de las radiaciones emitidas por el móvil</a></li>
+						<li><a target="_blank" href="http://www.pranan.com/portfolio-view/descans/"><i class="fa fa-check"></i>DESCANS@: Facilita el descanso y nos protege de las radiaciones cuando dormimos</a></li>
+						<li><a target="_blank" href="http://www.pranan.com/portfolio-view/relax-8-r-5/"><i class="fa fa-check"></i>RELAX: Para inducir a estados de relajación y descanso</a></li>
+						<li><a target="_blank" href="http://www.pranan.com/portfolio-view/pack-3-proteccion-2/"><i class="fa fa-check"></i>PACK 3 PROTECCIÓN: Pack 3 (PHIWAVES + PHIONE + RELAX)</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
-					<img src="assets/img/productos/pranan_1.jpg" class="img-responsive" />
+					<img src="assets/img/productos/pranan_productos.png" class="img-responsive" />
 				</div>
 			</div>
 			<div class="row">
@@ -53,7 +49,7 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-4">
-					<img src="assets/img/productos/pranan_2.jpg" class="img-responsive" />
+					<img src="assets/img/productos/pranan_caracteristicas.jpg" class="img-responsive" />
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-6 padding-bottom-20">
 					<p>Transforman las anomalías electromagnéticas de la Física fina en la frecuencia de nuestro organismo. Por ello, una de las propiedades que incorpora la tecnología de los dispositivos desarrollados por Pranan Tecnologies es que neutralizan las geopatías del terreno y armonizan las microondas emitidas por la telefonía, tendidos eléctricos, Wi-Fi, etc.</p>
@@ -74,7 +70,7 @@
 					</ul>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
-					<img src="assets/img/productos/pranan_3.jpg" class="img-responsive" />
+					<img src="assets/img/productos/pranan_funcionamiento.jpg" class="img-responsive" />
 				</div>
 			</div>
 		</div>

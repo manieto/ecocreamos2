@@ -28,7 +28,7 @@
 					</ul>
 					<a href="#" class="btn-u btn-u-large">Ver dossier</a>
 					<a href="#" class="btn-u btn-u-large">Ver noticia</a>
-					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="pdf" class="btn-u btn-u-large">Ver artículo técnico</a>
+					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large">Ver artículo técnico</a>
 					<br /><br />
 					<a href="#" class="btn-u btn-u-large">Ver certificación</a>
 					<a href="#" class="btn-u btn-u-large">Ver proyectos Passivhaus</a>
