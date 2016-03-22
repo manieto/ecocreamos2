@@ -28,13 +28,14 @@ function includePlugin($plugins, $id) {
 ?>
 		<!-- News v1 Gray -->
 		<div class="container content" style="padding-top: 0px;">
-			<div class="row news-v1">
+			<div class="row row-flex news-v1">
 <?php
 		foreach ($collection as $datasheet) {
 			$img_src = $datasheets["basedir"] . /* $id . "/" . */ $datasheet["src"];
 			$img_alt = $datasheet["alt"];
-			$title       = $datasheet["title"];
-			$description = $datasheet["description"];
+			$title        = $datasheet["title"];
+			$description  = $datasheet["description"];
+			$description2 = $datasheet["description2"];
 			$extra1 = $datasheet["extra1"];
 			$extra2 = $datasheet["extra2"];
 			$extra3 = $datasheet["extra3"];
@@ -44,12 +45,15 @@ function includePlugin($plugins, $id) {
 						<img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>" style="height: 250px;">
 						<h3><a href="#"><?=$title ?></a></h3>
 						<p><?=$description ?></p>
+						<?php if (isset($description2)) { ?><p class="text-align-left"><?=$description2 ?></p><?php } ?>
+						<?php if (isset($extra1) or isset($extra2) or isset($extra3)) { ?>
 						<ul class="list-inline news-v1-info">
 							<li><span><?=$extra1 ?></span></li>
 							<?php if (isset($extra2)) { ?><li>|</li>
 							<li><i class="fa fa-clock-o"></i>&nbsp;&nbsp;<?=$extra2 ?></li><?php } ?>
 							<?php if (isset($extra3)) { ?><li>|</li>
 							<?=$extra3 ?></li><?php } ?>
+						<?php } ?>
 						</ul>
 					</div>
 				</div>

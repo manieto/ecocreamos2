@@ -71,7 +71,7 @@
 					<!-- Logo -->
 					<a class="logo" href="index.php">
 						<img src="assets/img/logos/ecocreamos_pequenyo.png" style="height: 62px;" alt="Ecocreamos"/>
-						<span class="ecocreamos-logo only-big-screen" style="font-size: 110%;">EcoCreamos</span>
+						<span class="ecocreamos-logo only-big-screen" style="font-size: 115%;">EcoCreamos</span>
 					</a>
 					<!-- End Logo -->
 

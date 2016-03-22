@@ -11,7 +11,7 @@
 								<dl class="dl-horizontal">
 									<dt><a href="#"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
 									<dd>
-										<p><a href="#">Proyecto Tierra es el primer...</a></p>
+										<p><a href="#"><em>Proyecto Tierra</em> es el primer...</a></p>
 									</dd>
 								</dl>
 								<dl class="dl-horizontal">

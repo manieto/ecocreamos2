@@ -85,7 +85,7 @@
 		$carousel = $images["carousels"][$id];
 ?>
 				<!-- Carousel -->
-				<div class="col-md-7">
+				<div class="col-md-7 margin-bottom-20">
 					<div class="carousel slide carousel-v1" id="myCarousel">
 						<div class="carousel-inner">
 
