@@ -1,7 +1,8 @@
 <?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
 <?php $description = "Noticias de..."; ?>
 <?php $menu        = "noticias"; ?>
-<?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
+<?php $submenu     = "primer_passivhaus"; ?>
+<?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">

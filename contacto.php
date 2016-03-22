@@ -2,7 +2,7 @@
 <?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: aaaaa , formulario de contacto."; ?>
 <?php $menu        = "contacto"; ?>
 <?php $plugins     = "maps,forms"; ?>
-<?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
+<?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">

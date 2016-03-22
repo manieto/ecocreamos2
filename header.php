@@ -77,7 +77,7 @@
 
 					<!-- Toggle get grouped for better mobile display -->
 					<button type="button" class="navbar-toggle" style="margin-left: 20px;" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-						<span class="sr-only">Toggle navigation</span>
+						<span class="sr-only">Cambiar navegación</span>
 						<span class="fa fa-bars"></span>
 					</button>
 					<!-- End Toggle -->
@@ -108,82 +108,6 @@
 				<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
 					<div class="container">
 						<ul class="nav navbar-nav">
-							<!-- Home -->
-							<!--<li class="active">
-								<a href="javascript:void(0);">
-									Inicio
-								</a>
-							</li>-->
-							<!-- End Home -->
-
-							<!-- Proyectos -->
-							<!--<li class="dropdown mega-menu-fullwidth">
-								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-									<?= text("menu/promociones") ?>
-								</a>
-								<ul class="dropdown-menu">
-									<li>
-										<div class="mega-menu-content disable-icons">
-											<div class="container">
-												<div class="row equal-height">
-													<div class="col-md-4 equal-height-in">
-														<ul class="list-unstyled equal-height-list">
-															<li><h3>Proyecto Tierra</h3></li>
-															<li><h3><img src="assets/img/proyecto_tierra.jpg" alt="Proyecto Tierra" height="200"/></h3></li>
-														</ul>
-													</div>
-													<div class="col-md-4 equal-height-in">
-														<ul class="list-unstyled equal-height-list">
-															<li><h3>Proyecto Tierra</h3></li>
-															<li><h3><img src="assets/img/proyecto_tierra.jpg" alt="Proyecto Tierra" height="200"/></h3></li>
-														</ul>
-													</div>
-													<div class="col-md-4 equal-height-in">
-														<ul class="list-unstyled equal-height-list">
-															<li><h3>Otras obras</h3></li>
-															<li><a href="shortcode_icon_general.html"><img src="assets/img/proyecto_tierra.jpg" height="50" /> Casa rural en Llucmajor</a></li>
-															<li><a href="shortcode_icon_fa.html"><img src="assets/img/proyecto_tierra.jpg" height="50" /> Rehabilitación en Sineu</a></li>
-															<li><a href="shortcode_icon_line.html"><img src="assets/img/proyecto_tierra.jpg" height="50" /> Chalet en Calvià</a></li>
-														</ul>
-													</div>
-												</div>
-											</div>
-										</div>
-									</li>
-								</ul>
-							</li>-->
-							<!-- End Proyectos -->
-
-							<!-- Servicios -->
-							<!--<li class="dropdown">
-								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-									Bioconstrucción
-								</a>
-								<ul class="dropdown-menu">
-									<li class="dropdown-submenu">
-										<a href="javascript:void(0);">Blog Large Image</a>
-										<ul class="dropdown-menu">
-											<li><a href="blog_large_right_sidebar1.html">Right Sidebar</a></li>
-											<li><a href="blog_large_left_sidebar1.html">Left Sidebar</a></li>
-											<li><a href="blog_large_full_width1.html">Full Width</a></li>
-										</ul>
-									</li>
-									<li class="dropdown-submenu">
-										<a href="javascript:void(0);">Blog Simple Pages</a>
-										<ul class="dropdown-menu">
-											<li><a href="blog_large_right_sidebar.html">Right Sidebar Large</a></li>
-											<li><a href="blog_medium_right_sidebar.html">Right Sidebar Medium</a></li>
-											<li><a href="blog_large_full_width.html">Full Width</a></li>
-											<li><a href="blog_large_right_sidebar_item.html">Right Sidebar Item</a></li>
-											<li><a href="blog_large_full_width_item.html">Full Width Item</a></li>
-										</ul>
-									</li>
-									<li><a href="blog_masonry_3col.html">Masonry Grid Blog</a></li>
-									<li><a href="blog_timeline.html">Blog Timeline</a></li>
-								</ul>
-							</li>-->
-							<!-- End Blog -->
-
 							<li class="dropdown-none <?php if ($menu=="promocion_ecologica") { echo "active"; } ?>"><a href="promocion_ecologica.php"><?= text("menu/promocion") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="passivhaus_bio"     ) { echo "active"; } ?>"><a href="passivhaus_bio.php"><?= text("menu/passivhaus_bio") ?></a></li>
@@ -207,7 +131,13 @@
 									<li <?php if ($submenu=="pranan"   ) { echo "class=\"active\""; } ?>><a href="producto_pranan.php">Pranan</a></li>
 								</ul>
 							</li>
-							<li class="dropdown-none <?php if ($menu=="noticias"           ) { echo "active"; } ?>"><a href="noticias.php"><?= text("menu/noticias") ?></a></li>
+							<li class="dropdown      <?php if ($menu=="noticias"           ) { echo "active"; } ?>">
+								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/noticias") ?></a>
+								<ul class="dropdown-menu">
+									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Noticias</a></li>
+									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos</a></li>
+								</ul>
+							</li>
 						</ul>
 					</div><!--/end container-->
 				</div><!--/navbar-collapse-->

@@ -23,7 +23,7 @@ body {
 @media (max-width: 1200px) {
 	.only-big-screen {
 		display: none;
-		max-height: 0; 
+		max-height: 0;
 	}
 }
 
@@ -141,11 +141,13 @@ body {
 	/*text-transform: none;*/
 }
 
-.row-flex {
-	display: -webkit-flex;
-	display: flex;
-	-webkit-flex-wrap: wrap;
-	flex-wrap: wrap;  
+@media (min-width: 768px) {
+	.sm-row-flex {
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
 }
 
 .map-box {

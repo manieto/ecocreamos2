@@ -28,12 +28,13 @@ function includePlugin($plugins, $id) {
 ?>
 		<!-- News v1 Gray -->
 		<div class="container content" style="padding-top: 0px;">
-			<div class="row row-flex news-v1">
+			<div class="row sm-row-flex news-v1">
 <?php
 		foreach ($collection as $datasheet) {
 			$img_src = $datasheets["basedir"] . /* $id . "/" . */ $datasheet["src"];
 			$img_alt = $datasheet["alt"];
-			$title        = $datasheet["title"];
+			$title   = $datasheet["title"];
+			$link    = $datasheet["link"];
 			$description  = $datasheet["description"];
 			$description2 = $datasheet["description2"];
 			$extra1 = $datasheet["extra1"];
@@ -42,9 +43,9 @@ function includePlugin($plugins, $id) {
 ?>
 				<div class="col-sm-6 col-md-4 md-margin-bottom-40" style="padding-bottom: 20px;">
 					<div class="news-v1-in">
-						<img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>" style="height: 250px;">
-						<h3><a href="#"><?=$title ?></a></h3>
-						<p><?=$description ?></p>
+						<?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>" style="height: 250px;"><?php if (isset($link )) { ?></a><?php } ?>
+						<h3><?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><?=$title ?><?php if (isset($link )) { ?></a><?php } ?></h3>
+						<?php if (isset($description )) { ?><p><?=$description ?></p><?php } ?>
 						<?php if (isset($description2)) { ?><p class="text-align-left"><?=$description2 ?></p><?php } ?>
 						<?php if (isset($extra1) or isset($extra2) or isset($extra3)) { ?>
 						<ul class="list-inline news-v1-info">

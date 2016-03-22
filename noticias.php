@@ -1,7 +1,8 @@
 <?php $title       = "Ecocreamos - Noticias"; ?>
 <?php $description = "Noticias de..."; ?>
 <?php $menu        = "noticias"; ?>
-<?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
+<?php $submenu     = "noticias"; ?>
+<?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">

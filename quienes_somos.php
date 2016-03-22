@@ -1,6 +1,7 @@
-<?php $title = "Ecocreamos - Quiénes somos"; ?>
+<?php $title       = "Ecocreamos - Quiénes somos"; ?>
 <?php $description = "Somos una empresa de..."; ?>
-<?php include "header.php";?> <!-- TODO: incluir el tipo de página (p. ej., home, contacto (por el mapa)...) -->
+<?php $menu        = "quienes_somos"; ?>
+<?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1">
