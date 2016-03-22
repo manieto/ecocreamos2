@@ -11,6 +11,7 @@ body {
 	font-stretch: normal;
   src: url("../fonts/Dakota.ttf");
 }
+
 .ecocreamos-logo {
 	font-family: "Dakota";
 	color: #663300;
@@ -20,8 +21,36 @@ body {
 	padding-right: 2px;
 }
 
-@media (max-width: 1200px) {
-	.only-big-screen {
+@media (min-width: 1200px) {
+	.hide-lg {
+		display: none;
+		max-height: 0;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.hide-md {
+		display: none;
+		max-height: 0;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.hide-sm {
+		display: none;
+		max-height: 0;
+	}
+}
+
+@media (max-width: 767px) {
+	.hide-xs {
+		display: none;
+		max-height: 0;
+	}
+}
+
+@media (max-width: 629px) {
+	.hide-xxs {
 		display: none;
 		max-height: 0;
 	}
@@ -64,12 +93,19 @@ body {
 @media (min-width: 992px) and (max-width: 1200px) {
 	.header .logo {
 		position: relative;
-		left:-40px;
+		left:-30px;
 	}
 }
 
 .header .logo img {
 	margin: 0;
+	height: 62px;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	.header .logo img {
+		height: 50px;
+	}
 }
 
 /*.header .topbar ul.loginbar {
@@ -78,7 +114,7 @@ body {
 
 .header .navbar-nav > li > a {
 	color: #7d684f;
-	padding: 9px 16px 9px 16px;
+	padding: 9px 15px 9px 15px;
 	/*text-transform: none;*/
 }
 .header .dropdown-menu li a {
@@ -114,13 +150,22 @@ body {
 }
 /*.header .navbar-nav > li:first-child > a {
 	padding-left: 0px;
-}*/
+}
 .header .navbar-nav > li:last-child > a {
 	padding-right: 0px;
-}
+}*/
 
 .header .mega-menu .dropdown-submenu .dropdown-menu {
 	left: 50%;
+}
+
+@media (max-width: 991px) {
+	.header .topbar {
+		padding-top: 25px;
+	}
+	.navbar-toggle {
+    margin-top: 16px;
+	}
 }
 
 /* Cuerpo */

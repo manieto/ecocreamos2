@@ -70,8 +70,8 @@
 				<div class="container">
 					<!-- Logo -->
 					<a class="logo" href="index.php">
-						<img src="assets/img/logos/ecocreamos_pequenyo.png" style="height: 62px;" alt="Ecocreamos"/>
-						<span class="ecocreamos-logo only-big-screen" style="font-size: 115%;">EcoCreamos</span>
+						<img src="assets/img/logos/ecocreamos_pequenyo.png" alt="Ecocreamos"/>
+						<span class="ecocreamos-logo hide-md hide-xxs" style="font-size: 115%;">EcoCreamos</span>
 					</a>
 					<!-- End Logo -->
 
@@ -134,8 +134,8 @@
 							<li class="dropdown      <?php if ($menu=="noticias"           ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/noticias") ?></a>
 								<ul class="dropdown-menu">
-									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Noticias</a></li>
-									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos</a></li>
+									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Eventos y noticias</a></li>
+									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos en prensa</a></li>
 								</ul>
 							</li>
 						</ul>
