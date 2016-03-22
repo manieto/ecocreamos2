@@ -14,7 +14,7 @@
 		<!-- News v3 Alternative -->
 		<div class="container content">
 			<div class="row">
-				<div class="col-md-6 col-lg-5 sm-margin-bottom-20">
+				<div class="col-md-6 sm-margin-bottom-20">
 					<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 				</div>
 				<div class="col-md-6 col-lg-5 news-v3">
