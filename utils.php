@@ -53,7 +53,7 @@ function includePlugin($plugins, $id) {
 							<?php if (isset($extra2)) { ?><li>|</li>
 							<li><i class="fa fa-clock-o"></i>&nbsp;&nbsp;<?=$extra2 ?></li><?php } ?>
 							<?php if (isset($extra3)) { ?><li>|</li>
-							<?=$extra3 ?></li><?php } ?>
+							<li><?=$extra3 ?></li><?php } ?>
 						<?php } ?>
 						</ul>
 					</div>
