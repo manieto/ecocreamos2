@@ -69,10 +69,12 @@
 			<div class="header">
 				<div class="container">
 					<!-- Logo -->
-					<a class="logo" href="index.php">
-						<img src="assets/img/logos/ecocreamos_pequenyo.png" alt="Ecocreamos"/>
-						<span class="ecocreamos-logo hide-md hide-xxs" style="font-size: 115%;">EcoCreamos</span>
-					</a>
+					<span class="logo">
+						<a href="index.php" style="text-decoration: none;">
+							<img src="assets/img/logos/ecocreamos_pequenyo.png" alt="Ecocreamos"/>
+							<span class="ecocreamos-logo hide-md hide-xxs" style="font-size: 105%;">EcoCreamos</span>
+						</a>
+					</span>
 					<!-- End Logo -->
 
 					<!-- Toggle get grouped for better mobile display -->
@@ -106,7 +108,7 @@
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
-					<div class="container">
+					<div class="container col-md-offset-2">
 						<ul class="nav navbar-nav">
 							<li class="dropdown-none <?php if ($menu=="promocion_ecologica") { echo "active"; } ?>"><a href="promocion_ecologica.php"><?= text("menu/promocion") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>

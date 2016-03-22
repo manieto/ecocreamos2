@@ -36,36 +36,6 @@
 				</div>
 			</div><!--/row-->
 
-			<!--=== Job Partners ===-->
-			<div class="container content job-partners">
-				<div class="title-box-v2">
-					<h2>Nuestros <span class="color-green">&nbsp;amigos</span></h2>
-				</div>
-				<ul class="list-inline our-clients" id="effect-2">
-					<li>
-						<figure><img src="assets/img/logos/passivhaus.jpg" alt="Passivhaus"><div class="img-hover"><h4>Passivhaus</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"><div class="img-hover"><h4>Amorim Isolamentos</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"><div class="img-hover"><h4>Ecoclay</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"><div class="img-hover"><h4>pro clima</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/lacunza.png" alt="Lacunza"><div class="img-hover"><h4>Lacunza</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"><div class="img-hover"><h4>Agua Viva</h4></div></figure>
-					</li>
-					<li>
-						<figure><img src="assets/img/logos/pranan.jpg" alt="Pranan"><div class="img-hover"><h4>Pranan</h4></div></figure>
-					</li>
-				</ul>
-			</div><!--/container-->
-			<!--=== End Job Partners ===-->
 		</div><!--/container-->
 		<!--=== End Content Part ===-->
 
