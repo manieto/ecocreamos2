@@ -49,7 +49,9 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-4">
-					<img src="assets/img/productos/pranan_caracteristicas.jpg" class="img-responsive" />
+					<div class="responsive-video">
+						<iframe width="100%" src="https://www.youtube.com/embed/fpaTLK-KUt8" frameborder="0" allowfullscreen></iframe>
+					</div>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-6 padding-bottom-20">
 					<p>Transforman las anomalías electromagnéticas de la Física fina en la frecuencia de nuestro organismo. Por ello, una de las propiedades que incorpora la tecnología de los dispositivos desarrollados por Pranan Tecnologies es que neutralizan las geopatías del terreno y armonizan las microondas emitidas por la telefonía, tendidos eléctricos, Wi-Fi, etc.</p>

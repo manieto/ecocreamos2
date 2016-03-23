@@ -14,6 +14,6 @@
 	
 		<div class="container content padding-bottom-20"></div>
 		
-		<?php datasheet_displayCollection("articulos"); ?>
+		<?php datasheet_displayCollection("articulos", "padding-bottom-40"); ?>
 
 <?php include "footer.php";?>

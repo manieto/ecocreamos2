@@ -36,6 +36,6 @@
 		</div>
 		<!-- End News v3 Alternative -->
 
-	<?php datasheet_displayCollection("noticias"); ?>
+	<?php datasheet_displayCollection("noticias", "padding-bottom-40"); ?>
 
 <?php include "footer.php";?>

@@ -1,4 +1,6 @@
-/* General */
+
+/** General **/
+
 body {
 	font-family: "Lato", sans-serif;
   font-weight: 400;
@@ -68,6 +70,10 @@ body {
 	padding-bottom: 20px;
 }
 
+.padding-bottom-40 {
+	padding-bottom: 40px;
+}
+
 .padding-left-30 {
 	padding-left: 30px;
 }
@@ -76,11 +82,16 @@ body {
 	padding-right: 30px;
 }
 
+.margin-top-10 {
+	margin-top: 10px;
+}
+
 .img-responsive {
 	margin: auto;
 }
 
-/* Cabecera */
+
+/** Cabecera **/
 
 .header {
 	background: #faf3e3;
@@ -153,6 +164,11 @@ body {
   color: green;
 }
 
+.header .navbar-nav .open .dropdown-menu > .active > a, .header .navbar-nav .open .dropdown-menu > .active > a:hover, .header .navbar-nav .open .dropdown-menu > .active > a:focus {
+	background-color: #e7e7e7;
+	color: green;
+}
+
 .header .dropdown > a:after {
 	top: 9px;
 	right: 5px;
@@ -180,11 +196,14 @@ body {
 	}
 }
 
-/* Cuerpo */
+
+/** Cuerpo **/
 
 .wrapper {
 	background: #faf3e3; /* url("../img/fondos/fondo1.jpg") repeat; */
 }
+
+.tp-bannertimer , .tp-bottom { visibility: hidden; }
 
 .breadcrumbs-v1 {
 	padding: 20px 0;
@@ -205,10 +224,6 @@ body {
 		-webkit-flex-wrap: wrap;
 		flex-wrap: wrap;
 	}
-}
-
-.map-box {
-	height: 250px;
 }
 
 .our-clients li {
@@ -246,7 +261,31 @@ body {
 	margin-bottom: 5px;
 }
 
-/* Pie */
+
+/** Mapa **/
+
+.map {
+	width: 100%; 
+	height: 250px;
+	border-top: solid 1px #eee;
+	border-bottom: solid 1px #eee;
+}
+
+/* important! bootstrap sets max-width on img to 100% which conflicts with google map canvas*/
+.map img {
+	max-width: none;
+}
+
+.map-box {
+	height: 250px;
+}
+
+.map-box-space {
+	margin-top: 15px;
+}
+
+
+/** Pie **/
 
 .footer-default .footer {
 	color: #dadada;
@@ -258,4 +297,8 @@ body {
 	font-size: 12px;
 	padding: 11px 0 7px;
 	background: #3e5340;
+}
+
+.posts .dl-horizontal dt img {
+  height: auto;
 }

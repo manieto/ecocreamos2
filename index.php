@@ -1,6 +1,7 @@
 <?php $title       = "Ecocreamos, vivienda bioecológica aaaaaa aaaa"; ?>
 <?php $description = "Bioconstrucción, construcción ecológica, estudios biológicos, materiales ecológicos"; ?>
 <?php $menu        = "inicio"; ?>
+<?php $plugins     = "slider"; ?>
 <?php include "header.php"; ?>
 <?php image_displaySlider("inicio"); ?>
 

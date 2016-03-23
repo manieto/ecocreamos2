@@ -119,12 +119,10 @@
 		jQuery(document).ready(function () {
 			App.init();
 			FancyBox.initFancybox();
-			//StyleSwitcher.initStyleSwitcher();
-			RevolutionSlider.initRSfullWidth();
-
-			<?php if (includePlugin($plugins, "maps")) { ?> ContactPage.initMap(); <?php } ?>
+			<?php if (includePlugin($plugins, "slider"  )) { ?>RevolutionSlider.initRSfullWidth();<?php } ?>
+			<?php if (includePlugin($plugins, "maps"    )) { ?>ContactPage     .initMap        ();<?php } ?>
+			<?php if (includePlugin($plugins, "carousel")) { ?>OwlCarousel     .initOwlCarousel();<?php } ?>
 			//LoginForm.initLoginForm();
-			OwlCarousel.initOwlCarousel();
 		});
 	</script>
 	<!--[if lt IE 9]>

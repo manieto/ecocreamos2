@@ -37,23 +37,23 @@
 		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
 		<link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css">
-		<link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
 		
 		<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
 		<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
 
+		<?php if (includePlugin($plugins, "slider")) { ?>
+		<link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
 		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen"><![endif]-->
-		
-		<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+		<?php } ?>
+		<?php if (includePlugin($plugins, "carousel")) { ?><link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css"><?php } ?>
 		<?php if (includePlugin($plugins, "forms")) { ?>
 		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
-		<?php } ?>
 		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
+		<?php } ?>
 
 		<!-- CSS Pages Style -->
 		<link rel="stylesheet" href="assets/css/pages/page_one.css">
-		<link rel="stylesheet" href="assets/css/pages/page_contact.css">
 
 		<!-- CSS Theme -->
 		<link rel="stylesheet" href="assets/css/ecocreamos.css" id="style_color">
@@ -107,8 +107,8 @@
 				</div><!--/end container-->
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
-					<div class="container col-md-offset-2">
+				<div class="collapse navbar-collapse navbar-responsive-collapse">
+					<div class="container">
 						<ul class="nav navbar-nav">
 							<li class="dropdown-none <?php if ($menu=="promocion_ecologica") { echo "active"; } ?>"><a href="promocion_ecologica.php"><?= text("menu/promocion") ?></a></li>
 							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>

@@ -179,32 +179,65 @@
 		{ "src": "materiales/amorim_corkboard.png",
 			"alt": "Amorim Aglomerado de corcho expandido",
 			"title": "Aglomerado de corcho expandido",
-			"description": "Solución de alto rendimiento in thermal, acoustic and anti-vibration insulation, especially suitable for use in external, internal and cavity walls; slabs; flat and pitched roofs and radiant floor.",
+			"description": "Solución de alto rendimiento en aislamiento térmico, acústico y antivibración, especialmente diseñado para su uso en paredes (exteriores, interiores y dobles), losas, tejados (planos e inclinados) y calefacción por suelo radiante.",
 			"extra1": "<a href=\"assets/pdf/material_amorim/DoP_Declaration_of_Performance__ICB_AISOL_EN.pdf\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
 		},
 		{ "src": "materiales/amorim_lambourde.png",
 			"alt": "Amorim Lambourdé",
 			"title": "Lambourdé",
-			"description": "Sistema de rápida aplicación diseñado para soluciones de aislamiento con grosor fino y rehabilitación de inmuebles. En suelo y paredes, asegura un excelente aislamiento térmico y acústico.",
+			"description": "Sistema de rápida aplicación diseñado para soluciones de aislamiento de poco grosor y rehabilitación de inmuebles. En suelo y paredes, asegura un excelente aislamiento térmico y acústico.",
 			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Lambourde_EN.pdf\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
 		},
-		{ "src": "materiales/amorim_corkoco.png",
+		{ "src": "materiales/amorim_corkoco.jpg",
 			"alt": "Amorim Corkoco",
 			"title": "Corkoco",
-			"description": "Solución que utiliza dos productos naturales con características únicas, corcho y coco, y consigue un aislamiento acústico de alto rendimiento. Especialmente diseñado para techos, paredes y suelos.",
+			"description": "Solución que utiliza dos productos naturales con características únicas, corcho y coco, y consigue un aislamiento acústico de alto rendimiento. Especialmente diseñado para techo, paredes y suelo.",
 			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Corkoco_EN.pdf\" target=\"_blank\" class=\"btn-u btn-u-large0\">Ver ficha técnica</a>"
 		},
-		{ "src": "materiales/amorim_coco.png",
+		{ "src": "materiales/amorim_coco.jpg",
 			"alt": "Amorim Coco",
 			"title": "Coco",
-			"description": "Solución natural de la familia of the hard fibers with unmatched stiffness and hardness. It is a versatile product given its strength durability and resilience that ensures high performance in sound insulation.",
+			"description": "Solución natural de la familia de fibras duras, con características excepcionales de rigidez y dureza. Es un producto versátil gracias a su resistencia, durabilidad y resilencia, que además asegura un alto rendimiento en aislamiento acústico.",
 			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Coco_EN.pdf\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
 		},
-		{ "src": "materiales/amorim_granulado.png",
+		{ "src": "materiales/amorim_granulado.jpg",
 			"alt": "Amorim Granulado de corcho expandido",
 			"title": "Granulado de corcho expandido",
-			"description": "Solución de relleno ligero with acoustic insulation properties for use in screeds, flooring and interior cavity walls.",
+			"description": "Solución de relleno ligero con propiedades de aislamiento acústico para su uso en pavimentos, suelos y paredes interiores dobles.",
 			"extra1": "<a href=\"assets/pdf/material_amorim/Amorim_Isolamentos_FT_-_Granulado_Expandido_EN.pdf\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		}
+	],
+	
+	"ecoclay": [
+		{ "src": "materiales/ecoclay_base_fibra.jpg",
+			"alt": "Mortero de arcilla ECOCLAY BASE+FIBRA",
+			"title": "Mortero de arcilla ECOCLAY BASE+FIBRA",
+			"description": "El mortero de arcilla ecoclay BASE+FIBRA está especialmente indicado para acabados rugosos y paredes radiantes. Proporcionan el agarre a la pared y el espesor necesario para que la arcilla cumpla su función.",
+			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=3\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/ecoclay_base.jpg",
+			"alt": "Mortero de arcilla ECOCLAY BASE",
+			"title": "Mortero de arcilla ECOCLAY BASE",
+			"description": "El mortero de arcilla ecoclay BASE es idóneo para refinar y dar planaridad a la la capa de ecoclay BASE+FIBRA.",
+			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=1\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/ecoclay_acabado.jpg",
+			"alt": "Mortero de arcilla ECOCLAY ACABADO",
+			"title": "Mortero de arcilla ECOCLAY ACABADO",
+			"description": "Los colores son totalmente naturales y los confieren las diferentes arcillas que utilizamos para fabricarlos, no están pigmentados. Se puede conseguir un acabado liso, estuco brillante o rugoso, que depende del trabajo de aplicación. Para un acabado totalmente uniforme sin aguas, aconsejamos la utilización de las pinturas de arcilla ecoclay PAINT.",
+			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=5\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/ecoclay_plac.png",
+			"alt": "ecoclayPLAC placa de arcilla",
+			"title": "ecoclayPLAC placa de arcilla",
+			"description": "Placa de arcilla para panelado en seco, sobre montantes. Compuesto por ecoclay BASE+FIBRA y malla de yute aprestada con fécula.",
+			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=16\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		},
+		{ "src": "materiales/ecoclay_paint.jpg",
+			"alt": "ECOCLAY PAINT pinturas de arcilla",
+			"title": "ECOCLAY PAINT pinturas de arcilla",
+			"description": "Pintura de arcilla al silicato de un sólo componente, libre de COVs, libre de olores, aceites, disolventes y dióxido de titanio. Creadora de ambientes confortables ya que está producida con colores naturales de la tierra. Adecuada para paredes y techos interiores. Presenta acabado mate y permite transpirar a la pared.",
+			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=16\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
 		}
 	]
 }

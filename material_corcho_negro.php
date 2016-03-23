@@ -33,7 +33,32 @@
 			</div>
 			
 			<?php datasheet_displayCollection("material_corcho_negro"); ?>
-						
+			
+			<div class="row">
+				<div class="col-xs-12 padding-left-30">
+					<h2 class="title-v2">Proceso de fabricación</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 padding-bottom-20 padding-left-30 padding-right-30">
+					<p>En el siguiente vídeo, <a href="http://www.amorimisolamentos.com/" target="_blank" />Amorim Isolamentos</a> muestra el proceso industrial de la fabricación del aglomerado de corcho expandido:</p>
+					<ul class="list-unstyled who">
+						<li><i class="fa fa-check"></i> Gestión del stock de materia prima</li>
+						<li><i class="fa fa-check"></i> Triturado</li>
+						<li><i class="fa fa-check"></i> Aglomeración en Autoclave</li>
+						<li><i class="fa fa-check"></i> Estabilización</li>
+						<li><i class="fa fa-check"></i> Marco y serrín</li>
+						<li><i class="fa fa-check"></i> Embalaje y envío</li>
+					</ul>
+					<p>El vídeo dispone de subtítulos en inglés y en portugués.</p>
+					<p><a href="http://www.amorimisolamentos.com/o-processo/processo-produtivo/" target="_blank" class="btn-u btn-u-large margin-top-20">Ver más información</a></p>
+				</div>
+				<div class="col-md-6 padding-bottom-20 padding-left-30 padding-right-30">
+					<div class="responsive-video">
+						<iframe width="100%" src="https://www.youtube.com/embed/oXdumRapcC0" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
 		</div>
 
 <?php include "footer.php";?>

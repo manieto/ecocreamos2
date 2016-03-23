@@ -22,12 +22,12 @@ function includePlugin($plugins, $id) {
 ?>
 
 <?php
-	function datasheet_displayCollection($id = "default") {
+	function datasheet_displayCollection($id = "default", $class_container = "padding-bottom-20") {
 		global $datasheets;
 		$collection = $datasheets[$id];
 ?>
 		<!-- News v1 Gray -->
-		<div class="container content" style="padding-top: 0px;">
+		<div class="container content padding-top-5 <?=$class_container ?>">
 			<div class="row sm-row-flex news-v1">
 <?php
 		foreach ($collection as $datasheet) {
@@ -41,7 +41,7 @@ function includePlugin($plugins, $id) {
 			$extra2 = $datasheet["extra2"];
 			$extra3 = $datasheet["extra3"];
 ?>
-				<div class="col-sm-6 col-md-4 md-margin-bottom-40" style="padding-bottom: 20px;">
+				<div class="col-sm-6 col-md-4 md-margin-bottom-20 padding-bottom-20">
 					<div class="news-v1-in">
 						<?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>" style="height: 250px;"><?php if (isset($link )) { ?></a><?php } ?>
 						<h3><?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><?=$title ?><?php if (isset($link )) { ?></a><?php } ?></h3>
@@ -54,8 +54,10 @@ function includePlugin($plugins, $id) {
 							<li><i class="fa fa-clock-o"></i>&nbsp;&nbsp;<?=$extra2 ?></li><?php } ?>
 							<?php if (isset($extra3)) { ?><li>|</li>
 							<li><?=$extra3 ?></li><?php } ?>
-						<?php } ?>
 						</ul>
+						<?php } else { ?>
+						<div class="padding-top-5"></div>
+						<?php } ?>
 					</div>
 				</div>
 <?php

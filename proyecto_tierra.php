@@ -2,6 +2,7 @@
 <?php $description = "............"; ?>
 <?php $menu        = "passivhaus_bio"; ?>
 <?php $submenu     = "proyecto_tierra"; ?>
+<?php $plugins     = "carousel"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
