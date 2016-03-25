@@ -5,9 +5,14 @@
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
-		<div class="breadcrumbs-v1">
-			<div class="container">
-				<h1>Artículos en prensa</h1>
+		<div class="breadcrumbs-v1"
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabecera/articulos.jpg') no-repeat scroll center center / cover ;">
+			<div class="container padding-left-30">
+				<div class="row">
+					<div>
+						<h1>Artículos</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->
