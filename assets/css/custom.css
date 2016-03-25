@@ -62,6 +62,14 @@ body {
 	text-align: left;
 }
 
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
 .padding-top-20 {
 	padding-top: 20px;
 }
@@ -210,8 +218,8 @@ body {
 }
 
 .breadcrumbs-v1 h1 {
-	font-size: 30px;
-	line-height: 35px;
+	font-size: 40px;
+	line-height: 100px;
 	margin-bottom: 0;
 	text-align: left;
 	/*text-transform: none;*/
@@ -247,6 +255,7 @@ body {
 
 .tab-v3 .nav-pills li a {
 	font-size: 15px;
+	text-align: left;
 }
 
 .news-v1 h3 {

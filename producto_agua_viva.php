@@ -5,9 +5,14 @@
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
-		<div class="breadcrumbs-v1">
+		<div class="breadcrumbs-v1"
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabecera/producto_agua_viva.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
-				<h1>Agua Viva</h1>
+				<div class="row">
+					<div class="col-xs-10 col-xs-offset-1">
+						<h1>Agua Viva</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->

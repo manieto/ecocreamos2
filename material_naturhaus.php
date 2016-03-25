@@ -21,7 +21,7 @@
 					<p>Nosotros sabemos lo que necesita su madera. Los productos <em>Naturhaus</em> protegen, conservan, limpian, cuidan y reavivan la superficie de madera de forma absolutamente adecuada; esto quiere decir de manera totalmente natural (como la propia madera).</p>
 					<p>Fieles a nuestra premisa "Los materiales naturales se tratan de forma natural", utilizamos únicamente materias primas renovables en la elaboración de nuestros productos y esto a su madera le sienta bien. Ya sea para exteriores o interiores, madera clara o madera oscura, para suelos o para muebles. Tenemos el producto idóneo para cada exigencia.</p>
 				</div>
-				<div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 col-md-offset-1">
+				<div class="col-xs-6 col-xs-offset-3 col-md-5 col-md-offset-0 col-lg-4 col-lg-offset-1">
 					<a href="http://naturhaus.net/" target="_blank"><img src="assets/img/logos/naturhaus.jpg" class="img-responsive margin-bottom-10" alt="Naturhaus" /></a>
 				</div>
 			</div>
@@ -30,6 +30,78 @@
 				<div class="col-xs-12">
 					<h2 class="title-v2 padding-top-20">Productos</h2>
 				</div>
+				
+				<div class="col-xs-12">
+				
+					<!--Basic Table Option (Spacing)-->
+					<div class="panel panel-brown margin-bottom-40">
+						<div class="panel-heading">
+							<h3 class="panel-title"><i class="fa fa-briefcase"></i> Preparación del soporte</h3>
+						</div>
+						<div class="panel-body">
+							<table class="table">
+								<thead>
+									<tr>
+										<th class="hidden-sm">Base</th>
+										<th class="text-align-center">Artículo</th>
+										<th>Nombre</th>
+										<th colspan="3">Más información</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td class="hidden-sm">Aceite</td>
+										<td class="text-align-center">210</td>
+										<td>Aceite duro</td>
+										<td colspan="3">
+											<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_210_200510.pdf" class="btn-u btn-u-xs" target="_blank"><i class="fa fa-table"></i>&nbsp;&nbsp; Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_210_200510.pdf" class="btn-u btn-u-xs" target="_blank"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;Ficha técnica</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm"></td>
+										<td></td>
+										<td colspan="4">
+											<p>Es un fondo para superficies de madera de interiores expuestas a un intenso sometimiento (p. ej., escaleras, suelos, tableros de trabajo, mesas de comedor, muebles). Según el tipo de aplicación, con este producto se puede obtener una superficie sedosa mate o sedosa brillante. La madera solo es ligeramente avivada y muestra con el paso del tiempo un ligero amarillamiento. Por esta razón, el producto también es muy adecuado para maderas claras (p. ej., haya, arce). El aceite duro <em>Naturhaus</em> actúa cerrando la superficie y como repelente del agua.</p>
+										</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm">Aceite</td>
+										<td class="text-align-center">250</td>
+										<td>Aceite duro especial</td>
+										<td colspan="3">@twitter</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm">Aceite</td>
+										<td class="text-align-center">200</td>
+										<td>Imprimación de fondo</td>
+										<td colspan="3">@twitter</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm">Aceite</td>
+										<td class="text-align-center">208</td>
+										<td>Fondo de imprimación con antiazulado</td>
+										<td colspan="3">@twitter</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm">Alcohol</td>
+										<td class="text-align-center">92809</td>
+										<td>Fondo de resina natural</td>
+										<td colspan="3">@twitter</td>
+									</tr>
+									<tr>
+										<td class="hidden-sm">Agua</td>
+										<td class="text-align-center">220</td>
+										<td>Fondo duro</td>
+										<td colspan="3">@twitter</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+					<!--End Basic Table-->
+				</div>
+				
 				<div class="col-xs-12">
 					<!-- Tab v3 -->
 					<div class="row tab-v3">
@@ -40,7 +112,7 @@
 								<li><a href="#productos_acabados"    data-toggle="tab"><i class="fa fa-smile-o"  ></i> Acabados</a></li>
 								<li><a href="#productos_disolventes" data-toggle="tab"><i class="fa fa-tint"     ></i> Disolventes</a></li>
 								<li><a href="#productos_limpieza"    data-toggle="tab"><i class="fa fa-star-o"   ></i> Limpieza</a></li>
-								<li><a href="#productos_cuidados"    data-toggle="tab"><i class="fa fa-heart-o"  ></i> Cuidados y restauración de superficies</a></li>
+								<li><a href="#productos_cuidados"    data-toggle="tab"><i class="fa fa-heart-o"  ></i> Cuidados y restauración</a></li>
 							</ul>
 						</div>
 						<div class="col-sm-8">
