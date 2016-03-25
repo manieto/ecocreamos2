@@ -4,9 +4,14 @@
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
-		<div class="breadcrumbs-v1">
+		<div class="breadcrumbs-v1"
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabecera/bioconstruccion.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
-				<h1>Bioconstrucción</h1>
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<h1>Bioconstrucción</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->
@@ -19,7 +24,7 @@
 						<img src="assets/img/proyecto_tierra.jpg" class="img-responsive margin-bottom-10" alt="">
 					</div>
 					<p><span class="ecocreamos-logo">EcoCreamos</span> realiza obra nueva... aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa. </p>
-					<p><span class="ecocreamos-logo">EcoCreamos</span> realiza obra nueva... aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa. </p>
+					<p>aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa, aaa aaa aaaaaaa aaa aaaaaaaaa aaa a aaaa aaaaaaa aaaa. </p>
 				</div>
 			</div>
 		</div>

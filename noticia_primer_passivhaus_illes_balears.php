@@ -1,7 +1,7 @@
 <?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
 <?php $description = "Noticias de..."; ?>
 <?php $menu        = "noticias"; ?>
-<?php $submenu     = "primer_passivhaus"; ?>
+<?php $submenu     = "noticias"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -21,8 +21,8 @@
 							<li>Llucmajor</li>
 							<li>Diciembre de 2015</li>
 						</ul>
-						<h2><a href="#">Primera Certificación de edificio PASSIVHAUS de las Illes Balears</a></h2>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio PASSIVHAUS de las Illes Balears.</p>
+						<h2><a href="#">Primera Certificación de edificio <em>Passivhaus</em> de las Illes Balears</a></h2>
+						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears.</p>
 						<p>Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 					</div>
 				</div>
@@ -31,10 +31,10 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-6 col-xs-offset-3 col-md-5 col-md-offset-0 col-lg-4 col-lg-offset-1 margin-bottom-20">
+				<div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-0 col-lg-3 col-lg-offset-1 margin-bottom-20">
 					<img class="img-responsive" src="assets/img/logos/passivhaus.jpg" style="max-height: 260px;" alt="Passivhaus">
 				</div>
-				<div class="col-md-7 col-lg-6 news-v3">
+				<div class="col-xs-12 col-md-8 col-lg-7 news-v3">
 					<p>Es por ello que <span class="ecocreamos-logo">EcoCreamos</span> quiere reconocer al equipo técnico que ha participado y asesorado en el proyecto, empezando por el arquitecto de la certificación, <b>Amarante Barambio</b>, el arquitecto técnico y especialista en bioconstrucción, <b>Joan Brunet</b>, el asesor energético <b>Miquel Arbona</b>, de Nord Arbona Piza, suministrador el sistema de ventilación Zehnder, y a <b>Neus García</b>, arquitecta del proyecto y especialista en arquitectura tradicional.</p>
 					<p>Y, cómo no, a los responsables de la implementación, instalación y programación <b>Gabriel Amengual</b> y <b>Alberto García</b> de Instal 3.0, a <b>Roselló e Hijos</b>, expertos en protecciones solares, <b>Biohaus Goierri</b>, distribuidor de materiales ecológicos, <b>Unicmall</b>, como fabricante y suministrador de productos de cal, <b>Laboratorios BlauQ</b>, por los ensayos realizados y <b>Jordi Ribas</b>, por sus trabajos de carpintería.</p>
 				</div>

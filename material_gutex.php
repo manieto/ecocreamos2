@@ -9,7 +9,7 @@
 				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabecera/material_gutex.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-offset-1">
+					<div class="col-xs-10 col-md-offset-1">
 						<h1>Gutex</h1>
 					</div>
 				</div>

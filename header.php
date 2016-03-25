@@ -119,7 +119,7 @@
 								<ul class="dropdown-menu">
 									<li <?php if ($submenu=="lana"        ) { echo "class=\"active\""; } ?>><a href="material_lana.php">Lana</a></li>
 									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho negro</a></li>
-									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Ecoclay</a></li>
+									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">ecoclay</a></li>
 									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">pro clima</a></li>
 									<li <?php if ($submenu=="gutex"       ) { echo "class=\"active\""; } ?>><a href="material_gutex.php">Gutex</a></li>
 									<li <?php if ($submenu=="naturhaus"   ) { echo "class=\"active\""; } ?>><a href="material_naturhaus.php">Naturhaus</a></li>
