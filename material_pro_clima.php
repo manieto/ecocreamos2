@@ -6,7 +6,7 @@
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1"
-				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabecera/material_pro_clima.jpg') no-repeat scroll center center / cover ;">
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabeceras/material_pro_clima.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1">
