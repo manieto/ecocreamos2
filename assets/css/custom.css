@@ -304,7 +304,6 @@ body {
 /** Error */
 
 .error-bg {
-	background: url(../../img/fondos/error.jpg) no-repeat scroll center center / cover;
 	padding-bottom: 0px;
 }
 

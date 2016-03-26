@@ -5,7 +5,8 @@
 <?php include "header.php";?>
 
 		<!--=== Error V7 ===-->
-		<div class="error-bg">
+		<div class="error-bg"
+				 style="background: url(assets/img/fondos/error.jpg) no-repeat scroll center center / cover;">
 			<div class="container">
 				<!--Error Block-->
 				<div class="row">
