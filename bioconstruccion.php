@@ -40,7 +40,7 @@
 			<div class="row">
 				<div class="sm-margin-bottom-20 col-md-10 col-md-offset-1">
 					<div class="col-sm-6" style="padding-left: 0px;">
-						<img src="assets/img/proyecto_tierra.jpg" class="img-responsive margin-bottom-10" alt="">
+						<img src="assets/img/bioconstruccion/rehabilitacion.jpg" class="img-responsive margin-bottom-10" alt="">
 					</div>
 					<p>El siguiente paso es determinar aquellas orientaciones que nos permitirán un mejor aprovechamiento de la energía solar, adaptando técnicas y sistemas con el fin de obtener un mayor ahorro energético, con menos emisiones, y ofreciendo sistemas que permitirán tener climatización con energías naturales (solar, geotermia, biomasa), pudiéndonos proporcionar un ahorro de más de un <strong>60% de energía</strong>.</p>
 					<p>Continuaremos con la elección de los materiales que intervienen en la rehabilitación, realizando un meticuloso estudio de todos los factores que serán decisivos para un correcto aprovechamiento de la energía en sus diferentes procesos, analizando los componentes del material, asegurándonos que sean no contaminantes y reciclables, seguido de la obtención del material, su elaboración, y puesta en obra del mismo, colaborando así, con aquellas empresas que elaboran productos ecológicos en la zona, reduciendo la huella ecológica y fomentando la sostenibilidad.</p>

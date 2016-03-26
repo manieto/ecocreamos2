@@ -4,9 +4,14 @@
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
-		<div class="breadcrumbs-v1">
+		<div class="breadcrumbs-v1"
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabeceras/bioconstruccion.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
-				<h1>Promoción ecológica</h1>
+				<div class="row">
+					<div class="col-lg-10 col-lg-offset-1">
+						<h1>Promoción ecológica</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->
@@ -20,7 +25,7 @@
 					<p>Visite la obra que actualmente estamos <strong>construyendo en Llucmajor</strong>. Puede llamarnos para concretar una visita.</p>
 				</div>
 				<div class="col-md-5 col-lg-4">
-					<img src="assets/img/proyecto_tierra.jpg" class="img-responsive margin-bottom-10" alt="">
+					<img src="assets/img/promocion_ecologica/flores_cerezo.jpg" class="img-responsive margin-bottom-10" alt="">
 				</div>
 			</div>
 		</div>

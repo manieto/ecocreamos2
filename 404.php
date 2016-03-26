@@ -6,7 +6,7 @@
 
 		<!--=== Error V7 ===-->
 		<div class="error-bg"
-				 style="background: url(assets/img/fondos/error.jpg) no-repeat scroll center center / cover;">
+				 style="background: url('assets/img/fondos/error.jpg') no-repeat scroll center center / cover;">
 			<div class="container">
 				<!--Error Block-->
 				<div class="row">
