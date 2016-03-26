@@ -136,7 +136,7 @@
 							<li class="dropdown      <?php if ($menu=="noticias"           ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/noticias") ?></a>
 								<ul class="dropdown-menu">
-									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Eventos y noticias</a></li>
+									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Noticias y eventos</a></li>
 									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos en prensa</a></li>
 								</ul>
 							</li>
