@@ -53,7 +53,7 @@
 		<?php } ?>
 
 		<!-- CSS Pages Style -->
-		<link rel="stylesheet" href="assets/css/pages/page_one.css">
+		<link rel="stylesheet" href="assets/css/pages/page_404_error6.css">
 
 		<!-- CSS Theme -->
 		<link rel="stylesheet" href="assets/css/ecocreamos.css" id="style_color">

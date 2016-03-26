@@ -211,6 +211,11 @@ body {
 	background: #faf3e3; /* url("../img/fondos/fondo1.jpg") repeat; */
 }
 
+.one-page .one-page-inner {
+	padding: 30px 0;
+	min-height: 300px;
+}
+
 .tp-bannertimer , .tp-bottom { visibility: hidden; }
 
 .breadcrumbs-v1 {
@@ -293,6 +298,50 @@ body {
 
 .map-box-space {
 	margin-top: 15px;
+}
+
+
+/** Error */
+
+.error-bg {
+	background: url(../../img/fondos/error.jpg) no-repeat scroll center center / cover;
+	padding-bottom: 0px;
+}
+
+.error-v7 {
+	text-align: center;
+	padding: 60px 0;
+}
+
+.error-v7 h1 {
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 1.2;
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+.error-v7 span.sorry {
+	color: #666;
+	display: block;
+	font-size: 16px;
+	font-weight: 300;
+	padding-bottom: 50px;
+}
+
+.error-v7 .h1 {
+	color: #fff;
+	font-size: 280px;
+	line-height: 1;
+	font-weight: 300;
+	text-shadow: 2.828px 2.828px 4px rgba(0, 0, 0, 0.04);
+}
+
+/*For Mobile Devices*/
+@media (max-width: 600px) {
+	.error-v7 .h1 {
+		font-size: 170px;
+	}
 }
 
 
