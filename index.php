@@ -24,7 +24,7 @@
 		"addressCountry" : "ES",
 		"addressRegion" : "Illes Balears",
 		"postalCode" : "07009",
-		"streetAddress" : "Gremi Tintorers, 18"
+		"streetAddress" : "Gremi de Tintorers, 18"
 	}],
   "contactPoint": [{
     "@type" : "ContactPoint",

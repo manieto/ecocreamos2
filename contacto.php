@@ -27,7 +27,7 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-12">
 								<ul class="list-unstyled who">
-									<li><a href="https://www.google.es/maps/place/Carrer+Gremi+de+Tintorers,+18,+07009+Palma,+Illes+Balears" target="_blank"><i class="fa fa-home"></i>Gremi Tintorers, 18<br><span style="padding-left: 24px;">Palma, Illes Balears</span></a></li>
+									<li><a href="https://www.google.es/maps/place/Carrer+Gremi+de+Tintorers,+18,+07009+Palma,+Illes+Balears" target="_blank"><i class="fa fa-home"></i>Gremi de Tintorers, 18<br><span style="padding-left: 24px;">Palma, Illes Balears</span></a></li>
 									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
 									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
 								</ul>
