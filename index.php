@@ -23,8 +23,8 @@
 	"address": [{
 		"addressCountry" : "ES",
 		"addressRegion" : "Illes Balears",
-		"postalCode" : "07008",
-		"streetAddress" : "Calle ABC, 123"
+		"postalCode" : "07009",
+		"streetAddress" : "Gremi Tintorers, 18"
 	}],
   "contactPoint": [{
     "@type" : "ContactPoint",
@@ -85,19 +85,18 @@
 			<!--=== Job Partners ===-->
 			<div class="container content job-partners">
 				<div class="title-box-v2">
-					<h2>Nuestros <span class="color-green">&nbsp;amigos</span></h2>
+					<h2>Nuestras <span class="color-green">&nbsp;distribuciones</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
-					<li><img src="assets/img/logos/passivhaus.jpg" alt="Passivhaus"></li>
-					<li><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></li>
-					<li><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"></li>
-					<li><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"></li>
-					<li><img src="assets/img/logos/lacunza.png" alt="Lacunza"></li>
-					<li><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"></li>
-					<li><img src="assets/img/logos/pranan.jpg" alt="Pranan"></li>
 					<li><img src="assets/img/logos/gutex.png" alt="Gutex"></li>
+					<li><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"></li>
 					<li><img src="assets/img/logos/naturhaus.jpg" alt="Naturhaus"></li>
 					<li><img src="assets/img/logos/biohaus.gif" alt="Biohaus"></li>
+					<li><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></li>
+					<li><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"></li>
+					<li><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"></li>
+					<li><img src="assets/img/logos/lacunza.png" alt="Lacunza"></li>
+					<li><img src="assets/img/logos/pranan.jpg" alt="Pranan"></li>
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

@@ -40,7 +40,7 @@
 							<!-- Contact Us -->
 							<div class="headline"><h2>Contacte con nosotros</h2></div>
 							<address class="md-margin-bottom-40">
-								Carrer dirección número <a href="https://maps.google.com/..." class="">(ver mapa)</a><br />
+								Gremi Tintorers, 18 <a href="https://www.google.es/maps/place/Carrer+Gremi+de+Tintorers,+18,+07009+Palma,+Illes+Balears" target="_blank" class="">(ver mapa)</a><br />
 								Palma, Illes Balears<br />
 								Tel: <a href="tel:+34629118619">629 11 86 19</a><br />
 								Email: <a href="mailto:info@ecocreamos.com" class="">info@ecocreamos.com</a>
