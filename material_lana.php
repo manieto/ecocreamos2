@@ -25,6 +25,7 @@
 					<p>La lana de oveja es un producto que ofrece un excelente resultado acústico y térmico, siendo un aislamiento con uno de los mejores comportamientos higrotérmicos en comparación con otros aislamientos. <strong>Sano, sostenible, natural y 100% reciclable</strong>, con un Ciclo de Vida (ACV) respetuoso con el medio ambiente.</p>
 					<p>Tal y como indica su nombre, es un <strong>aislamiento 100% natural</strong> compuesto por fieltros de lana de oveja. Los fieltros se unen entre sí mecánicamente, sin necesidad de uso de horno ni ligante químico.</p>
 					<p>Este aislamiento puede utilizarse tanto en pared, como en techo y suelo.</p>
+					<p><a href="contacto.php">Contacte con nosotros</a> para informarse de nuestros precios.</p>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-4">
 					<img src="assets/img/materiales/lana_ovejas.jpg" class="img-responsive padding-bottom-20" alt="Ovejas mallorquinas" />

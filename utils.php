@@ -43,7 +43,7 @@ function includePlugin($plugins, $id) {
 ?>
 				<div class="col-sm-6 col-md-4 md-margin-bottom-20 padding-bottom-20">
 					<div class="news-v1-in">
-						<?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>" style="height: 250px;"><?php if (isset($link )) { ?></a><?php } ?>
+						<?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><img class="img-responsive" src="<?=$img_src ?>" alt="<?=$img_alt ?>"><?php if (isset($link )) { ?></a><?php } ?>
 						<h3><?php if (isset($link )) { ?><a href="<?=$link ?>" target="_blank"><?php } ?><?=$title ?><?php if (isset($link )) { ?></a><?php } ?></h3>
 						<?php if (isset($description )) { ?><p><?=$description ?></p><?php } ?>
 						<?php if (isset($description2)) { ?><p class="text-align-left"><?=$description2 ?></p><?php } ?>

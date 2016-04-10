@@ -8,10 +8,15 @@ var RevolutionSlider = function () {
 	        jQuery(document).ready(function() {
 	            revapi = jQuery('.tp-banner').revolution(
 	            {
-	                delay:9000,
+	                delay:6000,
 	                startwidth:1170,
-	                startheight:500,
+	                startheight:380,
+									hideTimerBar:"on",
+									onHoverStop: "off",
+									dottedOverlay: "none",
+									shadow: 0,
 	                hideThumbs:10,
+									navigationInGrid:"on",
 									navigationStyle:"preview4"
 	            });
 	        });
@@ -23,9 +28,9 @@ var RevolutionSlider = function () {
 	        jQuery(document).ready(function() {
 	           revapi = jQuery('.tp-banner').revolution(
 	            {
-	                delay:15000,
+	                delay:10000,
 	                startwidth:1170,
-	                startheight:400,
+	                startheight:300,
 	                hideThumbs:10,
 	                fullWidth:"off",
 	                fullScreen:"on",

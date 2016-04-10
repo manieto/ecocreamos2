@@ -109,19 +109,16 @@ body {
 	height: 65px;
 }
 
-@media (min-width: 992px) and (max-width: 1200px) {
-	.header .logo {
-		position: relative;
-		left:-30px;
-	}
-}
-
 .header .logo img {
 	margin: 0;
 	height: 62px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
+	.header .logo {
+		position: relative;
+		left: -30px;
+	}
 	.header .logo img {
 		height: 50px;
 	}

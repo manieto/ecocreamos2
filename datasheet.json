@@ -208,7 +208,7 @@
 		}
 	],
 	
-	"ecoclay": [
+	"material_ecoclay": [
 		{ "src": "materiales/ecoclay_base_fibra.jpg",
 			"alt": "Mortero de arcilla ECOCLAY BASE+FIBRA",
 			"title": "Mortero de arcilla ECOCLAY BASE+FIBRA",
@@ -238,6 +238,24 @@
 			"title": "ECOCLAY PAINT pinturas de arcilla",
 			"description": "Pintura de arcilla al silicato de un sólo componente, libre de COVs, libre de olores, aceites, disolventes y dióxido de titanio. Creadora de ambientes confortables ya que está producida con colores naturales de la tierra. Adecuada para paredes y techos interiores. Presenta acabado mate y permite transpirar a la pared.",
 			"description2": "<a href=\"http://www.ecoclay.es/index.php?id=13&tx_productos_pi1[producto]=16\" target=\"_blank\" class=\"btn-u btn-u-large\">Ver ficha técnica</a>"
+		}
+	],
+		
+	"material_pro_clima": [
+		{ "src": "materiales/pro_clima_productos.jpg",
+			"alt": "Productos pro clima",
+			"title": "Productos",
+			"link": "assets/pdf/material_pro_clima/pro_clima_productos.pdf"
+		},
+		{ "src": "materiales/pro_clima_medios_union.jpg",
+			"alt": "Medios de unión pro clima",
+			"title": "Medios de unión",
+			"link": "assets/pdf/material_pro_clima/pro_clima_medios_union.pdf"
+		},
+		{ "src": "materiales/pro_clima_accesorios_calidad.jpg",
+			"alt": "Accesorios y calidad pro clima",
+			"title": "Accesorios y calidad",
+			"link": "assets/pdf/material_pro_clima/pro_clima_accesorios_calidad.pdf"
 		}
 	]
 }

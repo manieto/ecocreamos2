@@ -55,7 +55,7 @@
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-4">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/fpaTLK-KUt8" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/fpaTLK-KUt8&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 col-lg-6 padding-bottom-20">

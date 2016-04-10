@@ -55,12 +55,11 @@
 						<li><i class="fa fa-check"></i> Marco y serrín</li>
 						<li><i class="fa fa-check"></i> Embalaje y envío</li>
 					</ul>
-					<p>El vídeo dispone de subtítulos en inglés y en portugués.</p>
 					<p><a href="http://www.amorimisolamentos.com/o-processo/processo-produtivo/" target="_blank" class="btn-u btn-u-large margin-top-20">Ver más información</a></p>
 				</div>
 				<div class="col-md-6 padding-bottom-20 padding-left-30 padding-right-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/oXdumRapcC0" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/oXdumRapcC0?cc_load_policy=1&cc_lang_pref=en&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
