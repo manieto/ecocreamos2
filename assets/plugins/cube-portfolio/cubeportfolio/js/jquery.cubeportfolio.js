@@ -1591,7 +1591,7 @@ jQuery.fn.cubeportfolio.options = {
      *  Markup of the lightbox counter
      *  Values: html markup
      */
-    lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} of {{total}}</div>',
+    lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} de {{total}}</div>',
 
     /**
      *  This is used to define any clickable elements you wish to use to trigger singlePage popup on click.
@@ -1615,7 +1615,7 @@ jQuery.fn.cubeportfolio.options = {
      *  Markup of the singlePage counter
      *  Values: html markup
      */
-    singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
+    singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} de {{total}}</div>',
 
     /**
      *  Defines which animation to use when singlePage appear

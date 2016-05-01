@@ -1,22 +1,73 @@
 {
 	"basedir": "assets/img/",
 	"thumbdir": "thumbs/",
+	"portfolio_list": [
+		{ "id": "proyecto_tierra"  , "nombre": "Proyecto Tierra" },
+		{ "id": "santanyi"         , "nombre": "Santanyí" },
+		{ "id": "mancor_de_la_vall", "nombre": "Mancor de la Vall" }
+	],
 	"portfolios": {
-		"tierra": [
-			{ "src": "logos/ecocreamos.jpg",
-				"alt": "Logo de Ecocreamos"
-			},
-			{ "src": "logos/ecocreamos.jpg",
-				"alt": "Nombre de Ecocreamos"
-			}
+		"proyecto_tierra": [
+			{ "src": "galerias/proyecto_tierra/001.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/002.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/003.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/004.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/005.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/006.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/007.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/008.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/009.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/010.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/proyecto_tierra/011.jpg" , "desc": "Texto de prueba" }
 		],
-		"passivhaus": [
-			{ "src": "logos/ecocreamos.jpg",
-				"alt": "Logo de Ecocreamos"
-			},
-			{ "src": "logos/ecocreamos.jpg",
-				"alt": "Nombre de Ecocreamos"
-			}
+		"santanyi": [
+			{ "src": "galerias/santanyi/001.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/002.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/003.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/004.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/005.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/006.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/007.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/008.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/009.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/010.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/011.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/012.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/santanyi/013.jpg" , "desc": "Texto de prueba" }
+		],
+		"mancor_de_la_vall": [
+			{ "src": "galerias/mancor_de_la_vall/001.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/002.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/003.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/004.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/005.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/006.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/007.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/008.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/009.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/010.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/011.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/012.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/013.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/014.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/015.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/016.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/017.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/018.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/019.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/020.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/021.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/022.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/023.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/024.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/025.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/026.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/027.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/028.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/029.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/030.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/031.jpg" , "desc": "Texto de prueba" },
+			{ "src": "galerias/mancor_de_la_vall/032.jpg" , "desc": "Texto de prueba" }
 		]
 	},
 	"sliders": {

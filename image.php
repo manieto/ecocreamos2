@@ -6,34 +6,75 @@
 	$images = image_readJson();
 ?>
 
+
 <?php
-	function image_displayPortfolio($id = "default") {
+  /**
+	 * Genera el HTML para todos los portafolios definidos en JSON.
+	 * 
+	 * @param $idDefault la galería seleccionada por defecto
+	 */
+	function image_displayAllPortfolios($idDefault = "") {
 		global $images;
-		$portfolio = $images["portfolios"][$id];
+		$portfolio_list = $images["portfolio_list"];
 ?>
 		<!--=== Cube-Portfdlio ===-->
 		<div class="cube-portfolio container margin-bottom-60">
+			<div class="content-xs">
+				<div id="filters-container" class="cbp-l-filters-text content-xs">
+<?php
+		foreach ($portfolio_list as $portfolio) {
+			$activo = ($idDefault===$portfolio["id"]);
+			$clasePortfolio = ($activo)?"cbp-filter-item-active":"";
+?>
+					<div data-filter=".<?=$portfolio["id"] ?>" class="<?=$clasePortfolio ?> cbp-filter-item"> <?=$portfolio["nombre"] ?> </div> |
+<?php
+		}
+?>
+				</div><!--/end Filters Container-->
+			</div>
 			<div id="grid-container" class="cbp-l-grid-agency">
+<?php
+			foreach ($portfolio_list as $portfolio) {
+				$activo = ($idDefault===$portfolio["id"]);
+				image_displayPortfolio($portfolio["id"], $activo, FALSE);
+			}
+?>
+			</div><!--/end Grid Container-->
+		</div>
+		<!--=== End Cube-Portfdlio ===-->
+<?php
+	}
+?>
+
+<?php
+  /**
+	 * Genera el HTML para un portafolio.
+	 * 
+	 * @param $id el código de la galería de imágenes
+	 * @param $includeParentDiv debe ser false cuando se llama desde image_displayAllPortfolio()
+	 */
+	function image_displayPortfolio($id = "default", $display = TRUE, $includeParentDiv = TRUE) {
+		global $images;
+		$portfolio = $images["portfolios"][$id];
+?>
+<?php if ($includeParentDiv) { ?>
+		<!--=== Cube-Portfdlio ===-->
+		<div class="cube-portfolio container margin-bottom-60">
+			<div id="grid-container" class="cbp-l-grid-agency">
+<?php } ?>
 <?php
 		foreach ($portfolio as $image) {
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
 			$alt = $image["alt"];
 			$desc = $image["desc"];
+			$claseDisplay = ($display)?"zzz":"yyy cbp-item-off";
 ?>
-				<div class="cbp-item xxxxxxxx">
+				<div class="cbp-item <?=$id ?> <?=$claseDisplay ?>">
 					<div class="cbp-caption margin-bottom-20">
 						<div class="cbp-caption-defaultWrap">
+							<a href="<?=$src ?>" class="cbp-lightbox" data-title="<?=$alt ?>">
 							<img src="<?=$src ?>" alt="<?=$alt ?>">
-						</div>
-						<div class="cbp-caption-activeWrap">
-							<div class="cbp-l-caption-alignCenter">
-								<div class="cbp-l-caption-body">
-									<ul class="link-captions no-bottom-space">
-										<li><a href="portfolio_single_item.html"><i class="rounded-x fa fa-link"></i></a></li>
-										<li><a href="assets/img/main/img3.jpg" class="cbp-lightbox" data-title="Design Object"><i class="rounded-x fa fa-search"></i></a></li>
-									</ul>
-								</div>
-							</div>
+							</a>
 						</div>
 					</div>
 					<div class="cbp-title-dark">
@@ -44,10 +85,13 @@
 <?php
 		}
 ?>
+<?php
+		if ($includeParentDiv) { ?>
 			</div><!--/end Grid Container-->
 		</div>
 		<!--=== End Cube-Portfdlio ===-->
 <?php
+		}
 	}
 ?>
 <?php

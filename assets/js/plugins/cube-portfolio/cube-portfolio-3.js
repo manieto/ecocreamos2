@@ -13,7 +13,7 @@
         layoutMode: 'grid',
         rewindNav: true,
         scrollByPage: false,
-        defaultFilter: '*',
+        defaultFilter: '.proyecto_tierra', // TODO: parametrizar desde llamada externa
         animationType: 'slideLeft',
         gapHorizontal: 20,
         gapVertical: 20,
