@@ -31,9 +31,7 @@
 
 		<!-- CSS Implementing Plugins -->
 		<link rel="stylesheet" href="assets/plugins/animate.css">
-		<!--<link rel="stylesheet" href="assets/plugins/bxslider/jquery.bxslider.css">-->
 		<link rel="stylesheet" href="assets/plugins/fancybox/source/jquery.fancybox.css">
-		<!--<link rel="stylesheet" href="assets/plugins/flexslider/flexslider.css">-->
 		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
 		<link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css">
@@ -42,8 +40,7 @@
 		<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
 
 		<?php if (includePlugin($plugins, "slider")) { ?>
-		<link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
-		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen"><![endif]-->
+		<link rel="stylesheet" href="assets/plugins/layer-slider/layerslider/css/layerslider.css" type="text/css" media="screen">
 		<?php } ?>
 		<?php if (includePlugin($plugins, "carousel")) { ?><link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css"><?php } ?>
 		<?php if (includePlugin($plugins, "forms")) { ?>

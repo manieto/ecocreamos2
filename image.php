@@ -51,28 +51,24 @@
 	}
 ?>
 <?php
+  // Transiciones 2D y 3D en http://www.docs.purethemes.net/sukces/layerslider/examples/transitiongallery.html
 	function image_displaySlider($id = "default") {
 		global $images;
 		$slider = $images["sliders"][$id];
 ?>
 <!--=== Slider ===-->
-<div class="tp-banner-container">
-	<div class="tp-banner">
-		<ul>
+<div id="layerslider" style="width: 100%; height: 350px;">
 <?php
 		foreach ($slider as $image) {
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
 			$alt = $image["alt"];
 ?>
-			<li class="revolution-mch-1" data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="<?=$alt ?>">
-				<img src="<?=$src ?>" alt="<?=$alt ?>" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-			</li>
+	<div class="ls-slide" style="slidedelay: 5000; slidedirection: fade; transition2d: 5; ">
+		<img src="<?=$src ?>" class="ls-bg" alt="<?=$alt ?>" />
+	</div>
 <?php
 		}
 ?>
-		</ul>
-		<div class="tp-bannertimer tp-bottom"></div>
-	</div>
 </div>
 <!--=== End Slider ===-->
 <?php

@@ -88,12 +88,14 @@
 	<!-- JS Implementing Plugins -->
 	<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
 	<script type="text/javascript" src="assets/plugins/smoothScroll.js"></script>
-	<!--<script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>-->
 	<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
-	<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-	<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 
+	<?php if (includePlugin($plugins, "slider")) { ?>
+	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/greensock.js"></script>
+	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.transitions.js"></script>
+	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+	<?php } ?>
 	<?php if (includePlugin($plugins, "maps")) { ?>
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
@@ -109,7 +111,7 @@
 	<!-- JS Page Level -->
 	<script type="text/javascript" src="assets/js/app.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
-	<script type="text/javascript" src="assets/js/plugins/revolution-slider.js"></script>
+	<script type="text/javascript" src="assets/js/plugins/layer-slider.js"></script>
 
 	<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
 
@@ -119,9 +121,9 @@
 		jQuery(document).ready(function () {
 			App.init();
 			FancyBox.initFancybox();
-			<?php if (includePlugin($plugins, "slider"  )) { ?>RevolutionSlider.initRSfullWidth();<?php } ?>
-			<?php if (includePlugin($plugins, "maps"    )) { ?>ContactPage     .initMap        ();<?php } ?>
-			<?php if (includePlugin($plugins, "carousel")) { ?>OwlCarousel     .initOwlCarousel();<?php } ?>
+			<?php if (includePlugin($plugins, "slider"  )) { ?>LayerSlider.initLayerSlider();<?php } ?>
+			<?php if (includePlugin($plugins, "maps"    )) { ?>ContactPage.initMap        ();<?php } ?>
+			<?php if (includePlugin($plugins, "carousel")) { ?>OwlCarousel.initOwlCarousel();<?php } ?>
 			//LoginForm.initLoginForm();
 		});
 	</script>
