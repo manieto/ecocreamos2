@@ -28,7 +28,7 @@
 						<li></li>
 					</ul>
 					<div class="text-align-left">
-						<a href="#" class="btn-u btn-u-large margin-bottom-5">Ver dossier</a>
+						<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large margin-bottom-5">Ver dossier</a>
 						<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Leer noticia</a>
 						<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver artículo técnico</a>
 						<a href="#" class="btn-u btn-u-large margin-bottom-5">Ver certificación</a>

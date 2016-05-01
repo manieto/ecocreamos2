@@ -32,7 +32,7 @@
 						<h2><a href="#">Proyecto Tierra</a></h2>
 						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 						<p>
-							<a href="#" class="btn-u btn-u-large">Ver dossier</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver dossier</a>
 							<a href="proyecto_tierra.php" class="btn-u btn-u-large">Ver ficha del proyecto</a>
 						</p>
 					</div>
@@ -47,7 +47,7 @@
 						<h2><a href="#">Mancor de la Vall</a></h2>
 						<p>Vivienda unifamiliar aislada, construida con criterios Passivhaus-Bio. Es la primera vivienda construida en las Illes Balears en la que Bioconstrucción y la eficiencia energética del estándar Passivhaus se unen, obteniendo un proyecto altamente eficiente y ecológico.</p>
 						<p>
-							<a href="#" class="btn-u btn-u-large">Ver galería</a>
+							<a href="galeria.php?id=mancor_de_la_vall" class="btn-u btn-u-large">Ver galería</a>
 						</p>
 					</div>
 				</div>
@@ -70,7 +70,7 @@
 						<h2><a href="#">Santanyí</a></h2>
 						<p><span class="ecocreamos-logo">EcoCreamos</span> realiza la primera rehabilitación ecológica que se realiza en el término municipal de Santanyí, aplicando los conceptos de la construcción <em>Passivhaus</em>, respetando la tipología y el carácter de la construcción existente en exteriores, así como integrando un sistema de recuperación de aire y biomasa en el proceso constructivo.</p>
 						<p>
-							<a href="#" class="btn-u btn-u-large">Ver galería</a>
+							<a href="galeria.php?id=santanyi" class="btn-u btn-u-large">Ver galería</a>
 						</p>
 					</div>
 				</div>
