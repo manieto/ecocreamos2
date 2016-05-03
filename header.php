@@ -36,21 +36,19 @@
 		<link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
 		<link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css">
 		
-		<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
-		<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
-
-		<?php if (includePlugin($plugins, "slider")) { ?>
-		<link rel="stylesheet" href="assets/plugins/layer-slider/layerslider/css/layerslider.css" type="text/css" media="screen">
+		<?php   if (includePlugin($plugins, "slider")) { ?>
+			<link rel="stylesheet" href="assets/plugins/layer-slider/layerslider/css/layerslider.css">
+		<?php } if (includePlugin($plugins, "maps")) { ?>
+		<?php } if (includePlugin($plugins, "carousel")) { ?>
+			<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+		<?php } if (includePlugin($plugins, "forms")) { ?>
+			<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+			<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+			<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
+		<?php } if (includePlugin($plugins, "portfolio")) { ?>
+			<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+			<link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
 		<?php } ?>
-		<?php if (includePlugin($plugins, "carousel")) { ?><link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css"><?php } ?>
-		<?php if (includePlugin($plugins, "forms")) { ?>
-		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
-		<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
-		<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
-		<?php } ?>
-
-		<!-- CSS Pages Style -->
-		<link rel="stylesheet" href="assets/css/pages/page_404_error6.css">
 
 		<!-- CSS Theme -->
 		<link rel="stylesheet" href="assets/css/ecocreamos.css" id="style_color">

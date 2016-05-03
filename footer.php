@@ -89,41 +89,41 @@
 	<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
 	<script type="text/javascript" src="assets/plugins/smoothScroll.js"></script>
 	<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
-	<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 
-	<?php if (includePlugin($plugins, "slider")) { ?>
-	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/greensock.js"></script>
-	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.transitions.js"></script>
-	<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
-	<?php } ?>
-	<?php if (includePlugin($plugins, "maps")) { ?>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-	<script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
-	<script type="text/javascript" src="assets/js/maps.js"></script>
+	<?php   if (includePlugin($plugins, "slider")) { ?>
+		<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/greensock.js"></script>
+		<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.transitions.js"></script>
+		<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+	<?php } if (includePlugin($plugins, "maps")) { ?>
+		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+		<script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
+		<script type="text/javascript" src="assets/js/maps.js"></script>
+	<?php } if (includePlugin($plugins, "carousel")) { ?>
+		<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 	<?php } if (includePlugin($plugins, "forms")) { ?>
-	<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-	<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+	<?php } if (includePlugin($plugins, "portfolio")) { ?>
+		<script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 	<?php } ?>
-
-	<script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 	<!-- JS Customization -->
 	<script type="text/javascript" src="assets/js/custom.js"></script>
 	<!-- JS Page Level -->
 	<script type="text/javascript" src="assets/js/app.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
-	<script type="text/javascript" src="assets/js/plugins/layer-slider.js"></script>
-
-	<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
-
-	<script type="text/javascript" src="assets/js/plugins/cube-portfolio/cube-portfolio-3.js"></script>
+	
+	<?php if (includePlugin($plugins, "slider"   )) { ?><script type="text/javascript" src="assets/js/plugins/layer-slider.js"></script><?php } ?>
+	<?php if (includePlugin($plugins, "carousel" )) { ?><script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script><?php } ?>
+	<?php if (includePlugin($plugins, "portfolio")) { ?><script type="text/javascript" src="assets/js/plugins/cube-portfolio/cube-portfolio-3.js"></script><?php } ?>
 
 	<script type="text/javascript">
 		jQuery(document).ready(function () {
 			App.init();
 			FancyBox.initFancybox();
-			<?php if (includePlugin($plugins, "slider"  )) { ?>LayerSlider.initLayerSlider();<?php } ?>
-			<?php if (includePlugin($plugins, "maps"    )) { ?>ContactPage.initMap        ();<?php } ?>
-			<?php if (includePlugin($plugins, "carousel")) { ?>OwlCarousel.initOwlCarousel();<?php } ?>
+			<?php if (includePlugin($plugins, "slider"   )) { ?>LayerSlider.initLayerSlider();<?php } ?>
+			<?php if (includePlugin($plugins, "maps"     )) { ?>ContactPage.initMap        ();<?php } ?>
+			<?php if (includePlugin($plugins, "carousel" )) { ?>OwlCarousel.initOwlCarousel();<?php } ?>
+			<?php if (includePlugin($plugins, "portfolio")) { ?>Portfolio  .initPortfolio  ('<?=$idGaleria ?>');<?php } ?>
 			//LoginForm.initLoginForm();
 		});
 	</script>
@@ -131,7 +131,7 @@
 		<script src="assets/plugins/respond.js"></script>
 		<script src="assets/plugins/html5shiv.js"></script>
 		<script src="assets/plugins/placeholder-IE-fixes.js"></script>
-		<![endif]-->
+	<![endif]-->
 
 </body>
 </html>

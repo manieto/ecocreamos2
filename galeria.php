@@ -2,6 +2,8 @@
 <?php $description = "Galería de imágenes"; ?>
 <?php $menu        = "fotos"; ?>
 <?php $submenu     = "fotos"; ?>
+<?php $plugins     = "portfolio"; ?>
+<?php $idGaleria   = $_GET["id"]; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -17,6 +19,6 @@
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->
 
-		<?php image_displayAllPortfolios("proyecto_tierra"); ?>
+		<?php image_displayAllPortfolios($idGaleria); ?>
 
 <?php include "footer.php";?>
