@@ -5,7 +5,7 @@ var Portfolio = function () {
 				//Portfolio
 				initPortfolio: function(defaultFilter) {
 
-					defaultFilter = '.' + (defaultFilter ? defaultFilter : "*");
+					defaultFilter = defaultFilter ? ('.' + defaultFilter) : '*';
 					
 					var gridContainer = $('#grid-container'),
 							filtersContainer = $('#filters-container'),
