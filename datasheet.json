@@ -257,5 +257,46 @@
 			"title": "Accesorios y calidad",
 			"link": "assets/pdf/material_pro_clima/pro_clima_accesorios_calidad.pdf"
 		}
+	],
+	"material_gutex_sistemas_url": "http://gutex-espana.eu/gama-de-productos/sistemas/",
+	"material_gutex_sistemas": [
+	],
+	"material_gutex_productos_url" : "http://gutex-espana.eu/gama-de-productos/productos/",
+	"material_gutex_productos": [
+		{ "src": "materiales/gutex_thermowall_durio.jpg",
+			"alt": "GUTEX Thermowall<sup>&reg;</sup> Durio",
+			"title": "GUTEX Thermowall<sup>&reg;</sup> Durio",
+			"description": "Tablero especial para el sistema de aislamiento de fachadas GUTEX Durio<sup>&reg;</sup><br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 70 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1800x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermowall-durio/"
+		},
+		{ "src": "materiales/gutex_multiplex_top.jpg",
+			"alt": "GUTEX Multiplex-top<sup>&reg;</sup>",
+			"title": "GUTEX Multiplex-top<sup>&reg;</sup>",
+			"description": "Tablero bajo-teja impermeable<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 18 / 22 / 28 / 35 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 2500x750 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,044",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-multiplex-top/"
+		},
+		{ "src": "materiales/gutex_ultratherm.jpg",
+			"alt": "GUTEX Ultratherm<sup>&reg;</sup>",
+			"title": "GUTEX Ultratherm<sup>&reg;</sup>",
+			"description": "Tablero bajo-teja impermeable con gran capacidad aislante<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 50 / 60/ 80/ 100/ 120 / 140 / 160 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1780x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,042",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-ultratherm/"
+		},
+		{ "src": "materiales/gutex_multitherm.jpg",
+			"alt": "GUTEX Multitherm<sup>&reg;</sup>",
+			"title": "GUTEX Multitherm<sup>&reg;</sup>",
+			"description": "Tablero aislante protegido contra la humedad<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 20 / 40 / 60 / 80 / 100 / 120 / 140 / 160 / 180 / 200 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1760x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-multitherm/"
+		},
+		{ "src": "materiales/gutex_thermosafe_homogen.jpg",
+			"alt": "GUTEX Thermosafe-homogen<sup>&reg;</sup>",
+			"title": "GUTEX Thermosafe-homogen<sup>&reg;</sup>",
+			"description": "El tablero universal aislante de densidad homogénea<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 40 / 60 / 80 / 100 / 120 / 140 / 160 / 180 / 200 / 220 / 240 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x625 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,037",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermosafe-homogen/"
+		}
+	],
+	"material_gutex_accesorios_url" : "http://gutex-espana.eu/gama-de-productos/productos/",
+	"material_gutex_accesorios": [
+		
 	]
+	
 }
