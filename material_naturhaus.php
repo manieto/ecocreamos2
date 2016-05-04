@@ -37,7 +37,7 @@
 				</div>
 				
 				<div class="col-xs-12">
-				
+					
 					<!--Basic Table Option (Spacing)-->
 					<div class="panel panel-brown margin-bottom-40">
 						<div class="panel-heading">
@@ -47,58 +47,82 @@
 							<table class="table">
 								<thead>
 									<tr>
-										<th class="hidden-sm">Base</th>
+										<th class="hidden-xs">Base</th>
 										<th class="text-align-center">Artículo</th>
-										<th>Nombre</th>
-										<th colspan="3">Más información</th>
+										<th>Producto</th>
+										<th class="hidden-xs">Más información</th>
 									</tr>
 								</thead>
 								<tbody>
 									<tr>
-										<td class="hidden-sm">Aceite</td>
-										<td class="text-align-center">210</td>
-										<td>Aceite duro</td>
-										<td colspan="3">
-											<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_210_200510.pdf" class="btn-u btn-u-xs" target="_blank"><i class="fa fa-table"></i>&nbsp;&nbsp; Descripción</a>
-											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_210_200510.pdf" class="btn-u btn-u-xs" target="_blank"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;Ficha técnica</a>
+										<td onclick="$('#desc210').toggleClass('hidden');" class="hidden-xs">Aceite</td>
+										<td onclick="$('#desc210').toggleClass('hidden');" class="text-align-center">210</td>
+										<td onclick="$('#desc210').toggleClass('hidden');">Aceite duro</td>
+										<td>
+											<a onclick="$('#desc210').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_210_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
 										</td>
 									</tr>
-									<tr>
-										<td class="hidden-sm"></td>
+									<tr id="desc210" class="hidden" onclick="$('#desc210').toggleClass('hidden');">
+										<td class="hidden-xs"></td>
 										<td></td>
-										<td colspan="4">
+										<td colspan="2" class="text-justify">
 											<p>Es un fondo para superficies de madera de interiores expuestas a un intenso sometimiento (p. ej., escaleras, suelos, tableros de trabajo, mesas de comedor, muebles). Según el tipo de aplicación, con este producto se puede obtener una superficie sedosa mate o sedosa brillante. La madera solo es ligeramente avivada y muestra con el paso del tiempo un ligero amarillamiento. Por esta razón, el producto también es muy adecuado para maderas claras (p. ej., haya, arce). El aceite duro <em>Naturhaus</em> actúa cerrando la superficie y como repelente del agua.</p>
 										</td>
 									</tr>
 									<tr>
-										<td class="hidden-sm">Aceite</td>
-										<td class="text-align-center">250</td>
-										<td>Aceite duro especial</td>
-										<td colspan="3">@twitter</td>
+										<td onclick="$('#desc250').toggleClass('hidden');"  class="hidden-xs">Aceite</td>
+										<td onclick="$('#desc250').toggleClass('hidden');"  class="text-align-center">250</td>
+										<td onclick="$('#desc250').toggleClass('hidden');" >Aceite duro especial</td>
+										<td>
+											<a onclick="$('#desc250').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_250_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
+										</td>
+									</tr>
+									<tr id="desc250" class="hidden" onclick="$('#desc250').toggleClass('hidden');">
+										<td class="hidden-xs"></td>
+										<td></td>
+										<td colspan="2" class="text-justify">
+											<p>Es un fondo para superficies de madera de interiores expuestas a un intenso sometimiento (p. ej., escaleras, suelos, tableros de trabajo, mesas de comedor, muebles). El producto fue desarrollado específicamente para avivar lo menos posible las maderas claras (p. ej., haya, arce) y mantener en la medida de lo posible el tono claro con el paso del tiempo.</p>
+											<p>El <em>Aceite duro Naturhaus especial</em> penetra muy bien, reduce la capacidad de absorción y actúa como repelente del agua. Se recomienda sobre todo, como primer fondo para haya y para otras maderas muy absorbentes. Si se desea un efecto blanqueador adicional recomendamos la utilización de <em>Aceite duro Naturhaus</em> especial blanco (referencia 00251).</p>
+											<p>El <em>Aceite duro Naturhaus</em> puede ser coloreado con lasures <em>Naturhaus</em> o con pinturas al aceite convencionales. Debido a las reducidas posibilidades de reparación, no se ha de aplicar el <em>Aceite duro Naturhaus especial</em> en escaleras ni suelos.</p>
+										</td>
 									</tr>
 									<tr>
-										<td class="hidden-sm">Aceite</td>
+										<td class="hidden-xs">Aceite</td>
 										<td class="text-align-center">200</td>
 										<td>Imprimación de fondo</td>
-										<td colspan="3">@twitter</td>
+										<td>
+											<a onclick="$('#desc200').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_200_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
+										</td>
 									</tr>
 									<tr>
-										<td class="hidden-sm">Aceite</td>
+										<td class="hidden-xs">Aceite</td>
 										<td class="text-align-center">208</td>
 										<td>Fondo de imprimación con antiazulado</td>
-										<td colspan="3">@twitter</td>
+										<td>
+											<a onclick="$('#desc208').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_208_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
+										</td>
 									</tr>
 									<tr>
-										<td class="hidden-sm">Alcohol</td>
+										<td class="hidden-xs">Alcohol</td>
 										<td class="text-align-center">92809</td>
 										<td>Fondo de resina natural</td>
-										<td colspan="3">@twitter</td>
+										<td>
+											<a onclick="$('#desc92809').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_92809_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
+										</td>
 									</tr>
 									<tr>
-										<td class="hidden-sm">Agua</td>
+										<td class="hidden-xs">Agua</td>
 										<td class="text-align-center">220</td>
 										<td>Fondo duro</td>
-										<td colspan="3">@twitter</td>
+										<td>
+											<a onclick="$('#desc220').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a>
+											&nbsp;<a href="assets/pdf/material_naturhaus/catalogo_naturhaus_220_200510.pdf" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a>
+										</td>
 									</tr>
 								</tbody>
 							</table>
