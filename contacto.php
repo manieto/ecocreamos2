@@ -45,22 +45,28 @@
 			<div class="row margin-bottom-30">
 				<div class="col-md-9">
 					<p>Si lo prefiere, puede contactar con nosotros enviando un mensaje con el siguiente formulario y nos pondremos en contacto con usted con la mayor brevedad posible.</p><br />
-					<form action="contacto_enviar_mensaje.php" method="post" id="enviar-mensaje" class="sky-form contact-style">
+					<form action="contacto_enviar_mensaje.php" method="post" id="enviar_mensaje" class="sky-form contact-style" target="ifrm_enviar_mensaje">
 						<fieldset class="no-padding">
-							<label>Nombre <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<input type="text" name="name" id="name" class="form-control">
+										<label style="width: 60px;">Nombre <span class="color-red">*</span></label> <input type="text" name="nombre" id="nombre" class="form-control" style="display: inline; width: 250px;">
 									</div>
 								</div>
 							</div>
 
-							<label>E-mail o teléfono <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<input type="text" name="email" id="email" class="form-control">
+										<label style="width: 60px;">E-mail</label> <input type="text" name="email" id="email" class="form-control" style="display: inline; width: 250px;">
+									</div>
+								</div>
+							</div>
+
+							<div class="row sky-space-20">
+								<div class="col-md-7 col-md-offset-0">
+									<div>
+										<label style="width: 60px;">Teléfono</label> <input type="text" name="telefono" id="telefono" class="form-control" style="display: inline; width: 150px;">
 									</div>
 								</div>
 							</div>
@@ -69,19 +75,28 @@
 							<div class="row sky-space-20">
 								<div class="col-md-11 col-md-offset-0">
 									<div>
-										<textarea rows="8" name="message" id="message" class="form-control"></textarea>
+										<textarea rows="5" name="mensaje" id="mensaje" class="form-control"></textarea>
 									</div>
 								</div>
 							</div>
 
-							<p><button type="submit" class="btn-u">Enviar mensaje</button></p>
+							<p><label>Deseo recibir una copia</label> <input type="checkbox" name="copia" value="si" /></p>
+							<p><button type="submit" class="btn-u">Enviar mensaje</button>
+								<span id="message_ok" class="alert alert-success fade in">
+									<i class="rounded-x fa fa-check"></i> Mensaje enviado correctamente
+								</span>
+								<span id="message_fail" class="alert alert-danger">
+									<i class="rounded-x fa fa-times"></i> Mensaje no enviado por problemas en el servidor
+								</span>
+							</p>
 						</fieldset>
 
-						<div class="message">
-							<i class="rounded-x fa fa-check"></i>
-							<p>Mensaje enviado correctamente</p>
+						<div id="message_fail" class="message">
+							<i class="rounded-x fa fa-thumbs-o-down"></i>
+							<p>Mensaje no enviado por problemas en el servidor</p>
 						</div>
 					</form>
+					<iframe id="ifrm_enviar_mensaje" style="display:none;" />
 				</div>
 			</div><!--/row-->
 		</div><!--/container-->

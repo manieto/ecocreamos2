@@ -23,17 +23,33 @@
 					<h2 class="title-v2">OBRA NUEVA</h2>
 				</div>
 			</div>
-			<div class="row padding-bottom-20">
+			<div class="row">
 				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
 					<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
 				</div>
 				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-0 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Proyecto Tierra</a></h2>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
-						<p>
-							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver dossier</a>
-							<a href="proyecto_tierra.php" class="btn-u btn-u-large">Ver ficha del proyecto</a>
+						<p>Es el resultado de varios años de trabajo que reúne en sí mismo un ejemplo de vivienda singular en la que se demuestra que un proyecto ecológico, sostenible, con la mayor eficiencia energética y económicamente viable, es posible.</p>
+						<p><span class="ecocreamos-logo">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también la primera a nivel nacional en obtener la calificación Plus.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row padding-top-20 padding-bottom-20">
+				<div class="col-sm-12 col-lg-10 col-lg-offset-1 news-v3">
+					<div class="news-v3-in-sm no-padding">
+						<h4>Características principales</h4>
+						<p>Diseño del proyecto por la arquitecta Neus García Iñesta, especialista en construcción vernacular, en el que conjuga un diseño típico de la zona con proporciones de geometría natural y bioclimática.</p>
+						<p>Siendo su principal característica como bien indica su nombre la estructura, realizada con tierra, bloque BTC (bloque de tierra comprimida) proveniente de la misma finca. Envolvente realizada con láminas <a href="material_pro_clima.php">Proclima</a> y aislamiento de madera <a href="material_gutex.php">Gutex</a>, revestimiento con mortero de cal en el exterior y mortero de barro en el interior.</p>
+						<p>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos, que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</p>
+						<p>Tratamiento de aguas grises, aprovechamiento de pluviales y sistema de ecológico de tratamiento de agua para piscina.</p>
+						<p class="text-align-left">
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver galería</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver dossier (???)</a>
+							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Leer noticia</a>
+							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver artículo técnico</a>
+							<a href="assets/pdf/proyecto_tierra/articulo_conferencia.pdf" alt="Proyecto Tierra - Artículo conferencia Plataforma Passivhaus - Madrid 2014 " target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver artículo Passivhaus Madrid 2014 (???)</a>
+							<a href="#" class="btn-u btn-u-large margin-bottom-5">Ver certificación (???)</a>
 						</p>
 					</div>
 				</div>
