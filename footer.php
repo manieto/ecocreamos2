@@ -103,6 +103,7 @@
 	<?php } if (includePlugin($plugins, "forms")) { ?>
 		<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
 		<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="assets/js/contacto.js"></script>
 	<?php } if (includePlugin($plugins, "portfolio")) { ?>
 		<script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 	<?php } ?>
@@ -124,6 +125,7 @@
 			<?php if (includePlugin($plugins, "maps"     )) { ?>ContactPage.initMap        ();<?php } ?>
 			<?php if (includePlugin($plugins, "carousel" )) { ?>OwlCarousel.initOwlCarousel();<?php } ?>
 			<?php if (includePlugin($plugins, "portfolio")) { ?>Portfolio  .initPortfolio  ('<?=$idGaleria ?>');<?php } ?>
+			<?php if (includePlugin($plugins, "forms"    )) { ?>ContactForm.initContactForm();<?php } ?>
 			//LoginForm.initLoginForm();
 		});
 	</script>
