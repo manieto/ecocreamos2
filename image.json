@@ -92,20 +92,32 @@
 		]
 	},
 	"carousels": {
-		"tierra": [
-			{ "src": "proyecto_tierra.jpg",
-				"alt": "Vistas exteriores de la construcción"
-			},
-			{ "src": "proyecto_tierra.jpg",
-				"alt": "Estructura de cimentación"
-			}
+		"proyecto_tierra": [
+			{ "src": "sliders/proyecto_tierra/01.jpg"},
+			{ "src": "sliders/proyecto_tierra/02.jpg"},
+			{ "src": "sliders/proyecto_tierra/03.jpg"},
+			{ "src": "sliders/proyecto_tierra/04.jpg"},
+			{ "src": "sliders/proyecto_tierra/05.jpg"}
 		],
-		"otro": [
+		"mancor_de_la_vall": [
+			{ "src": "sliders/mancor_de_la_vall/01.jpg"},
+			{ "src": "sliders/mancor_de_la_vall/02.jpg"},
+			{ "src": "sliders/mancor_de_la_vall/03.jpg"},
+			{ "src": "sliders/mancor_de_la_vall/04.jpg"},
+			{ "src": "sliders/mancor_de_la_vall/05.jpg"}
+		],
+		"santanyi": [
+			{ "src": "sliders/santanyi/01.jpg"},
+			{ "src": "sliders/santanyi/02.jpg"},
+			{ "src": "sliders/santanyi/03.jpg"},
+			{ "src": "sliders/santanyi/04.jpg"}
+		],
+		"dummy": [
 			{ "src": "proyecto_tierra.jpg",
-				"alt": "imagen 1"
+				"alt": "Imagen 1"
 			},
 			{ "src": "proyecto_tierra.jpg",
-				"alt": "imagen 2"
+				"alt": "Imagen 2"
 			}
 		]
 	}

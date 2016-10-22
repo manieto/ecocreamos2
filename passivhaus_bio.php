@@ -1,6 +1,7 @@
 <?php $title       = "Ecocreamos - Proyectos Passivhaus-Bio"; ?>
 <?php $description = "............"; ?>
 <?php $menu        = "passivhaus_bio"; ?>
+<?php $plugins     = "carousel"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -30,7 +31,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
-					<img class="img-responsive" src="assets/img/proyecto_tierra.jpg" alt="">
+					<?php image_displayCarousel("proyecto_tierra"); ?>
 				</div>
 				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-0 news-v3">
 					<div class="news-v3-in-sm no-padding">
@@ -61,7 +62,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
-					<img class="img-responsive" src="assets/img/passivhaus_bio/mancor_de_la_vall.jpg" alt="">
+					<?php image_displayCarousel("mancor_de_la_vall"); ?>
 				</div>
 				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-0 news-v3">
 					<div class="news-v3-in-sm no-padding">
@@ -84,7 +85,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
-					<img class="img-responsive" src="assets/img/passivhaus_bio/santanyi.jpg" alt="">
+					<?php image_displayCarousel("santanyi"); ?>
 				</div>
 				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-0 news-v3">
 					<div class="news-v3-in-sm no-padding">

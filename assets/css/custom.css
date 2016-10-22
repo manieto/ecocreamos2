@@ -306,6 +306,10 @@ blockquote:hover {
 	margin-bottom: 5px;
 }
 
+.carousel-v1 .carousel-arrow a i {
+	opacity: 0.3
+}
+
 
 /** Mapa **/
 

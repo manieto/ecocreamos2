@@ -67,7 +67,7 @@
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
 			$alt = $image["alt"];
 			$desc = $image["desc"];
-			$claseDisplay = ($display)?"zzz":"yyy cbp-item-off";
+			$claseDisplay = ($display)?"":"cbp-item-off";
 ?>
 				<div class="cbp-item <?=$id ?> <?=$claseDisplay ?>">
 					<div class="cbp-caption margin-bottom-20">
@@ -124,8 +124,7 @@
 		global $images;
 		$carousel = $images["carousels"][$id];
 ?>
-				<!-- Carousel -->
-				<div class="col-md-7 margin-bottom-20">
+					<!-- Carousel -->
 					<div class="carousel slide carousel-v1" id="myCarousel">
 						<div class="carousel-inner">
 
@@ -137,9 +136,7 @@
 ?>
 							<div class="item<?=$active ?>">
 								<img alt="<?=$alt ?>" src="<?=$src ?>">
-								<div class="carousel-caption">
-									<p><?=$alt ?></p>
-								</div>
+								<?php if ($alt) { ?><div class="carousel-caption"><p><?=$alt ?></p></div><?php } ?>
 							</div>
 <?php
 			$active = "";
@@ -155,8 +152,7 @@
 							</a>
 						</div>
 					</div>
-				</div>
-				<!-- End Carousel -->
+					<!-- End Carousel -->
 <?php
 	}
 ?>

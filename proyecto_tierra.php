@@ -16,7 +16,9 @@
 		<!--=== Content Part ===-->
 		<div class="container content">
 			<div class="row portfolio-item margin-bottom-30">
-				<?php image_displayCarousel("tierra"); ?>
+				<div class="col-md-7 margin-bottom-20">
+					<?php image_displayCarousel("proyecto_tierra"); ?>
+				</div>
 
 				<!-- Content Info -->
 				<div class="col-md-5">
