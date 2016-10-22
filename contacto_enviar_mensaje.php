@@ -26,10 +26,10 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 			       "Reply-To: "     . $email_replay . "\r\n" .
 			       "X-Mailer: PHP/" . \phpversion();
 
-	$enviado = mail($to, $subject, $message, $headers);
+	$enviado1 = mail($to, $subject, $message, $headers);
 	
 	// Si lo solicita, le enviamos una copia
-	if ($enviado && $copia=="si" && $email!=FALSE)	{
+	if ($enviado1 && $copia=="si" && $email!=FALSE)	{
 		$subject2 = "Web Ecocreamos - Mensaje enviado";
 		$headers2 = "From: "         . $email_ecocreamos . "\r\n" .
 			          "Reply-To: "     . $email_ecocreamos . "\r\n" .
@@ -38,11 +38,23 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 	}
 }
 ?>
-$nombre: <?=$nombre ?>
-$email: <?=$email ?>
-$telefono: <?=$telefono ?>
-$mensaje: <?=$mensaje ?>
-$copia: <?=$copia ?>
-$email_ecocreamos: <?=$email_ecocreamos ?>
-$email_replay: <?=$email_replay ?>
-Enviado: <?=$enviado ?>
+<html>
+	<body>
+		$nombre: <?=$nombre ?><br/>
+		$email: <?=$email ?><br/>
+		$telefono: <?=$telefono ?><br/>
+		$mensaje: <?=$mensaje ?><br/>
+		$copia: <?=$copia ?><br/>
+		$email_ecocreamos: <?=$email_ecocreamos ?><br/>
+		$email_replay: <?=$email_replay ?><br/>
+		Enviado 1: <?=$enviado1 ?><br/>
+		Enviado 2: <?=$enviado2 ?><br/>
+		<script>
+			<?php if ($enviado1==1) { ?>parent.mensaje1OK  ();<?php } 
+						else					    { ?>parent.mensaje1FAIL();<?php } ?>
+			<?php if ($copia=="si") {
+			        if ($enviado2==1) { ?>parent.mensaje2OK  ();<?php }
+						  else              { ?>parent.mensaje2FAIL();<?php } } ?>
+		</script>
+	</body>
+</html>
