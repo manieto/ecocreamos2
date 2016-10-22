@@ -43,7 +43,7 @@
 				<div class="col-sm-6 col-md-7 col-lg-6 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Proyecto Tierra</a></h2>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears. Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 						<p>
 							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large">Leer noticia completa</a>
 							<a href="proyecto_tierra.php" class="btn-u btn-u-large">Ver ficha del proyecto</a>

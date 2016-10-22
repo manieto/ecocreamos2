@@ -14,7 +14,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-6 col-lg-6 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> ofrece una amplia variedad de servicios orientados a la... ???</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece una amplia gama de servicios especializados en construcciones ecológicas y biopasivas:</p>
 					<p>
 						<ul class="list-unstyled who">
 							<li><i class="fa fa-check"></i>Asesoramiento de construcciones pasivas

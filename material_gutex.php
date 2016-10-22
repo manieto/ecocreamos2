@@ -20,7 +20,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-7 padding-left-30 padding-right-30 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://gutex-espana.eu/" target="_blank">Gutex</a> en las Illes Balears.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://gutex-espana.eu/" target="_blank">Gutex</a> en las Illes Balears.</p>
 					<p>Los tableros de fibra de madera alemanes <em>Gutex</em> responden a las mayores exigencias en materia de aislamiento: es ecológico y económico en todas sus aplicaciones. </p>
 					<p>Sus ventajas en el campo de la física de la construcción dan como resultado un agradable clima interior: la estructura porosa de sus fibras, favorece la difusión de vapor; los tableros "respiran", evitan el efecto de pared fría y regulan la humedad. Gracias a su estructura de poros abiertos son capaces de absorber las ondas sonoras. Del mismo modo, también mejoran considerablemente la amortiguación del ruido de impacto.</p>
 					<p>Su excelente protección frente al calor estival y el frío invernal distingue a los tableros de fibra de madera <em>Gutex</em> de los demás aislantes. Su inercia térmica (capacidad de absorción de calor) es la más alta de todos los aislantes. Los tableros de fibra de madera son totalmente reciclables y compostables, por lo que no producen residuos.</p>
@@ -30,6 +30,11 @@
 				<div class="col-md-5 col-lg-offset-1 col-lg-4">
 					<a href="http://gutex-espana.eu/" target="_blank"><img src="assets/img/logos/gutex.png" class="img-responsive padding-bottom-20" alt="Gutex" /></a>
 					<img src="assets/img/materiales/gutex_interior.jpg" class="img-responsive padding-bottom-20" alt="Gutex" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="padding-left-30 padding-right-30">
+					<blockquote><p><em><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de formación y asesoramiento, incluidos con el suministro de nuestros materiales y productos.</em></p></blockquote>
 				</div>
 			</div>
 			

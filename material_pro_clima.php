@@ -20,7 +20,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-8 padding-bottom-20 padding-left-30 padding-right-30">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="https://proclima.com/" target="_blank">pro clima</a> en las Illes Balears.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="https://proclima.com/" target="_blank">pro clima</a> en las Illes Balears.</p>
 					<p>¡El aire aísla! Pero, ¿cómo?</p>
 					<p>En cualquier aislamiento, el aire tiene un papel sumamente importante porque es lo que realmente aísla, siempre y cuando se trate de aire compartimentado en múltiples espacios pequeños y de forma estanca. ¡Tanto en las plumas del pato, como en nuestro aislamiento de la vivienda!</p>
 					<p>Esta estanqueidad la conseguimos con las pantallas <a href="https://proclima.com/" target="_blank">pro clima</a>. Tras una fuerte apuesta por el I+D, <em>pro clima</em> ha conseguido unas láminas únicas en el mercado que realmente hacen efectivo el aislamiento. Igual que un jersey de punto no nos calienta cuando corre el viento porque traspasa el tejido, en el momento en el que nos colocamos una tela que no deja pasar el aire, el jersey vuelve a calentarnos. Este efecto lo consigue <a href="https://proclima.com/" target="_blank">pro clima</a>, y además funciona como barrera reguladora de vapor.</p>
@@ -31,6 +31,11 @@
 					<a href="https://proclima.com/" target="_blank"><img src="assets/img/logos/pro_clima.jpg" class="img-responsive padding-bottom-20" alt="pro clima" /></a>
 					<!--<img src="assets/img/materiales/pro_clima_1.jpg" class="img-responsive padding-bottom-20" />
 					<img src="assets/img/materiales/pro_clima_2.jpg" class="img-responsive padding-bottom-20" />-->
+				</div>
+			</div>
+			<div class="row">
+				<div class="padding-left-30 padding-right-30">
+					<blockquote><p><em><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de formación y asesoramiento, incluidos con el suministro de nuestros materiales y productos.</em></p></blockquote>
 				</div>
 			</div>
 			<div class="row">

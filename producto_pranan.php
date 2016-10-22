@@ -20,7 +20,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 col-md-5 col-lg-6 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo en las Illes Balears de los productos <a target="_blank" href="http://www.pranan.com/">PRANAN</a>.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo en las Illes Balears de los productos <a target="_blank" href="http://www.pranan.com/">PRANAN</a>.</p>
 					<p>Pranan Technologies es una empresa dedicada a la investigación y desarrollo de dispositivos destinados a favorecer el bienestar.</p>
 					<p>Nuestra tecnología está basada en los principios matemáticos de la Física cuántica y radiónica solar. Funcionan como convertidores pasivos de banda ancha de los campos "físicos finos". Es decir, son estructuras geométricas complejas de aleaciones de metales nobles.</p>
 				</div>

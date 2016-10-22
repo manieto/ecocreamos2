@@ -20,7 +20,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-7 padding-bottom-20">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://naturhaus.net/" target="_blank">Naturhaus</a> en las Illes Balears.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://naturhaus.net/" target="_blank">Naturhaus</a> en las Illes Balears.</p>
 					<p><em>"Los materiales naturales se tratan de forma natural."</em></p>
 					<p>¿Le importa que las superficies de madera tengan el máximo de su textura natural?</p>
 					<p>Nosotros sabemos lo que necesita su madera. Los productos <em>Naturhaus</em> protegen, conservan, limpian, cuidan y reavivan la superficie de madera de forma absolutamente adecuada; esto quiere decir de manera totalmente natural (como la propia madera).</p>
@@ -28,6 +28,11 @@
 				</div>
 				<div class="col-xs-6 col-xs-offset-3 col-md-5 col-md-offset-0 col-lg-4 col-lg-offset-1">
 					<a href="http://naturhaus.net/" target="_blank"><img src="assets/img/logos/naturhaus.jpg" class="img-responsive margin-bottom-10" alt="Naturhaus" /></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<blockquote><p><em><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de formación y asesoramiento, incluidos con el suministro de nuestros materiales y productos.</em></p></blockquote>
 				</div>
 			</div>
 			

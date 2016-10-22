@@ -19,6 +19,11 @@
 		<!-- News v3 Alternative -->
 		<div class="container content">
 			<div class="row" class="padding-bottom-20">
+				<div class="col-sm-10 col-lg-offset-1 sm-margin-bottom-20">
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de gestión y supervisión en los diferentes procesos de edificación de un proyecto pasivo, tanto en obra nueva como rehabilitación. <a href="servicios.php">Consulte nuestros servicios</a>.</p>
+				</div>
+			</div>
+			<div class="row" class="padding-bottom-20">
 				<div class="col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
 					<h2 class="title-v2">OBRA NUEVA</h2>
 				</div>
@@ -31,7 +36,7 @@
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Proyecto Tierra</a></h2>
 						<p>Es el resultado de varios años de trabajo que reúne en sí mismo un ejemplo de vivienda singular en la que se demuestra que un proyecto ecológico, sostenible, con la mayor eficiencia energética y económicamente viable, es posible.</p>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también la primera a nivel nacional en obtener la calificación Plus.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también la primera a nivel nacional e internacional en obtener la calificación <span class="ecocreamos-logo-sm-sm">Premium</span> construida en tierra.</p>
 					</div>
 				</div>
 			</div>
@@ -41,15 +46,15 @@
 						<h4>Características principales</h4>
 						<p>Diseño del proyecto por la arquitecta Neus García Iñesta, especialista en construcción vernacular, en el que conjuga un diseño típico de la zona con proporciones de geometría natural y bioclimática.</p>
 						<p>Siendo su principal característica como bien indica su nombre la estructura, realizada con tierra, bloque BTC (bloque de tierra comprimida) proveniente de la misma finca. Envolvente realizada con láminas <a href="material_pro_clima.php">Proclima</a> y aislamiento de madera <a href="material_gutex.php">Gutex</a>, revestimiento con mortero de cal en el exterior y mortero de barro en el interior.</p>
-						<p>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos, que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</p>
+						<p>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</p>
 						<p>Tratamiento de aguas grises, aprovechamiento de pluviales y sistema de ecológico de tratamiento de agua para piscina.</p>
 						<p class="text-align-left">
-							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver galería</a>
-							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Ver dossier (???)</a>
-							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Leer noticia</a>
-							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver artículo técnico</a>
-							<a href="assets/pdf/proyecto_tierra/articulo_conferencia.pdf" alt="Proyecto Tierra - Artículo conferencia Plataforma Passivhaus - Madrid 2014 " target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver artículo Passivhaus Madrid 2014 (???)</a>
-							<a href="#" class="btn-u btn-u-large margin-bottom-5">Ver certificación (???)</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Galería</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Dossier</a>
+							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
+							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
+							<a href="assets/pdf/proyecto_tierra/articulo_passivhaus_madrid.pdf" alt="Proyecto Tierra - Artículo conferencia Plataforma Passivhaus - Madrid 2014 " target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo Passivhaus Madrid 2014</a>
+							<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
 						</p>
 					</div>
 				</div>
@@ -63,7 +68,7 @@
 						<h2><a href="#">Mancor de la Vall</a></h2>
 						<p>Vivienda unifamiliar aislada, construida con criterios Passivhaus-Bio. Es la primera vivienda construida en las Illes Balears en la que Bioconstrucción y la eficiencia energética del estándar Passivhaus se unen, obteniendo un proyecto altamente eficiente y ecológico.</p>
 						<p>
-							<a href="galeria.php?id=mancor_de_la_vall" class="btn-u btn-u-large">Ver galería</a>
+							<a href="galeria.php?id=mancor_de_la_vall" class="btn-u btn-u-large">Galería de imágenes</a>
 						</p>
 					</div>
 				</div>
@@ -84,9 +89,9 @@
 				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-0 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Santanyí</a></h2>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> realiza la primera rehabilitación ecológica que se realiza en el término municipal de Santanyí, aplicando los conceptos de la construcción <em>Passivhaus</em>, respetando la tipología y el carácter de la construcción existente en exteriores, así como integrando un sistema de recuperación de aire y biomasa en el proceso constructivo.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> realiza la primera rehabilitación ecológica que se realiza en el término municipal de Santanyí, aplicando los conceptos de la construcción <em>Passivhaus</em>, respetando la tipología y el carácter de la construcción existente en exteriores, así como integrando un sistema de recuperación de aire y biomasa en el proceso constructivo.</p>
 						<p>
-							<a href="galeria.php?id=santanyi" class="btn-u btn-u-large">Ver galería</a>
+							<a href="galeria.php?id=santanyi" class="btn-u btn-u-large">Galería de imágenes</a>
 						</p>
 					</div>
 				</div>

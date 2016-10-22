@@ -16,10 +16,31 @@ body {
   src: url("../fonts/Dakota.ttf");
 }
 
+.btn-u {
+	background: #b09b82;
+}
+
+blockquote {
+	border-left-color:#9c8061;
+}
+
+blockquote:hover {
+	border-left-color:green;
+}
+
 .ecocreamos-logo {
 	font-family: "Dakota";
 	color: #601b21; /*#663300; #9d2812;*/
 	font-size: 14px;
+	font-weight: 900;
+	vertical-align: middle;
+	padding-right: 2px;
+}
+
+.ecocreamos-logo-sm {
+	font-family: "Dakota";
+	color: #601b21; /*#663300; #9d2812;*/
+	font-size: 12px;
 	font-weight: 900;
 	vertical-align: middle;
 	padding-right: 2px;

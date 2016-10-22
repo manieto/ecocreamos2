@@ -20,11 +20,16 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-7 padding-bottom-20 padding-left-30 padding-right-30">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://www.ecoclay.es/" target="_blank">ecoclay</a> en las Illes Balears.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://www.ecoclay.es/" target="_blank">ecoclay</a> en las Illes Balears.</p>
 					<p>Los morteros de arcilla para bioconstrución y arquitectura ecológica <a href="http://www.ecoclay.es/" target="_blank">ecoclay</a> están desarrollados con una cuidada combinación de arcillas naturales sin aditivos y arenas seleccionadas de su yacimiento de Teruel.</p>
 				</div>
 				<div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 col-md-offset-1">
 					<a href="http://www.ecoclay.es/" target="_blank"><img src="assets/img/logos/ecoclay.gif" class="img-responsive margin-bottom-10" alt="Ecoclay" /></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="padding-left-30 padding-right-30">
+					<blockquote><p><em><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de formación y asesoramiento, incluidos con el suministro de nuestros materiales y productos.</em></p></blockquote>
 				</div>
 			</div>
 			

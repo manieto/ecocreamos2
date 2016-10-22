@@ -48,7 +48,7 @@
 	<div class="container">
 		<div class="call-action-v1-box">
 			<div class="call-action-v1-in">
-				<p>En <span class="ecocreamos-logo">EcoCreamos</span>, nos enorgullecemos de asesorar, promover, construir y rehabilitar viviendas y edificios de... aaa aaaa aaaaaaa aa aaaaa aaa aaaaaaa aaa aaa aaaaaa aaa aa a aaaaa.</p>
+				<p>En <span class="ecocreamos-logo-sm">EcoCreamos</span>, nos enorgullecemos de asesorar, promover, construir y rehabilitar viviendas y edificios de... aaa aaaa aaaaaaa aa aaaaa aaa aaaaaaa aaa aaa aaaaaa aaa aa a aaaaa.</p>
 			</div>
 			<div class="call-action-v1-in inner-btn page-scroll">
 				<a href="#portfolio" class="btn-u btn-brd btn-brd-hover btn-u-dark btn-u-block">Consulta nuestra galería</a>
@@ -62,7 +62,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-6">
-					<p><span class="ecocreamos-logo">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
 					<ul class="list-unstyled">
 						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Promoción ecológica y bioconstrucción</li>
 						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Asesoramiento en aaaa</li>
@@ -88,15 +88,15 @@
 					<h2>Nuestras <span class="color-green">&nbsp;distribuciones</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
-					<li><img src="assets/img/logos/gutex.png" alt="Gutex"></li>
-					<li><img src="assets/img/logos/pro_clima.jpg" alt="pro clima"></li>
-					<li><img src="assets/img/logos/naturhaus.jpg" alt="Naturhaus"></li>
-					<li><img src="assets/img/logos/biohaus.gif" alt="Biohaus"></li>
-					<li><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></li>
-					<li><img src="assets/img/logos/ecoclay.gif" alt="Ecoclay"></li>
-					<li><img src="assets/img/logos/agua_viva.jpg" alt="Agua Viva"></li>
-					<li><img src="assets/img/logos/lacunza.png" alt="Lacunza"></li>
-					<li><img src="assets/img/logos/pranan.jpg" alt="Pranan"></li>
+					<li><a href="http://gutex-espana.eu/"           alt="Gutex España"       target="_blank"><img src="assets/img/logos/gutex.png"              alt="Gutex"             ></a></li>
+					<li><a href="https://proclima.com/"             alt="pro clima"          target="_blank"><img src="assets/img/logos/pro_clima.jpg"          alt="pro clima"         ></a></li>
+					<li><a href="http://www.naturhaus.net/"         alt="Naturhaus"          target="_blank"><img src="assets/img/logos/naturhaus.jpg"          alt="Naturhaus"         ></a></li>
+					<li><a href="http://www.biohaus.es/"            alt="Biohaus"            target="_blank"><img src="assets/img/logos/biohaus.gif"            alt="Biohaus"           ></a></li>
+					<li><a href="http://www.amorimisolamentos.com/" alt="Amorim Isolamentos" target="_blank"><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></a></li>
+					<li><a href="http://www.ecoclay.es/"            alt="Ecoclay"            target="_blank"><img src="assets/img/logos/ecoclay.gif"            alt="Ecoclay"           ></a></li>
+					<li><a href="http://www.agua-viva.info/"        alt="Agua Viva"          target="_blank"><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
+					<li><a href="http://www.lacunza.net/"           alt="Lacunza"            target="_blank"><img src="assets/img/logos/lacunza.png"            alt="Lacunza"           ></a></li>
+					<li><a href="http://www.pranan.com/"            alt="Pranan"             target="_blank"><img src="assets/img/logos/pranan.jpg"             alt="Pranan"            ></a></li>
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

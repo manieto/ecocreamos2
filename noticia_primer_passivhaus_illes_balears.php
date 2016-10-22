@@ -27,7 +27,7 @@
 							<li>Diciembre de 2015</li>
 						</ul>
 						<h2><a href="#">Primera Certificación de edificio <em>Passivhaus</em> de las Illes Balears</a></h2>
-						<p><span class="ecocreamos-logo">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de edificio <strong><em>Passivhaus</em></strong> de las Illes Balears.</p>
 						<p>Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 					</div>
 				</div>
@@ -40,7 +40,7 @@
 					<img class="img-responsive" src="assets/img/logos/passivhaus.jpg" style="max-height: 260px;" alt="Passivhaus">
 				</div>
 				<div class="col-xs-12 col-md-8 col-lg-7 news-v3">
-					<p>Es por ello que <span class="ecocreamos-logo">EcoCreamos</span> quiere reconocer al equipo técnico que ha participado y asesorado en el proyecto, empezando por el arquitecto de la certificación, <b>Amarante Barambio</b>, el arquitecto técnico y especialista en bioconstrucción, <b>Joan Brunet</b>, el asesor energético <b>Miquel Arbona</b>, de Nord Arbona Piza, suministrador el sistema de ventilación Zehnder, y a <b>Neus García</b>, arquitecta del proyecto y especialista en arquitectura tradicional.</p>
+					<p>Es por ello que <span class="ecocreamos-logo-sm">EcoCreamos</span> quiere reconocer al equipo técnico que ha participado y asesorado en el proyecto, empezando por el arquitecto de la certificación, <b>Amarante Barambio</b>, el arquitecto técnico y especialista en bioconstrucción, <b>Joan Brunet</b>, el asesor energético <b>Miquel Arbona</b>, de Nord Arbona Piza, suministrador el sistema de ventilación Zehnder, y a <b>Neus García</b>, arquitecta del proyecto y especialista en arquitectura tradicional.</p>
 					<p>Y, cómo no, a los responsables de la implementación, instalación y programación <b>Gabriel Amengual</b> y <b>Alberto García</b> de Instal 3.0, a <b>Roselló e Hijos</b>, expertos en protecciones solares, <b>Biohaus Goierri</b>, distribuidor de materiales ecológicos, <b>Unicmall</b>, como fabricante y suministrador de productos de cal, <b>Laboratorios BlauQ</b>, por los ensayos realizados y <b>Jordi Ribas</b>, por sus trabajos de carpintería.</p>
 				</div>
 			</div>
