@@ -4,7 +4,7 @@
 		return json_decode($json, true);
 	}
 	$texts = text_readJson();
-	console_log($texts);
+	//console_log($texts);
 ?>
 
 <?php

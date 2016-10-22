@@ -103,21 +103,21 @@
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<label style="width: 60px;">Nombre <span class="color-red">*</span></label> <input type="text" name="nombre" id="nombre" class="form-control" style="display: inline; width: 250px;">
+										<label style="width: 70px;">Nombre <span class="color-red">*</span></label> <input type="text" name="nombre" id="nombre" class="form-control" style="display: inline; width: 250px;">
 									</div>
 								</div>
 							</div>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<label style="width: 60px;">E-mail</label> <input type="text" name="email" id="email" class="form-control" style="display: inline; width: 250px;">
+										<label style="width: 70px;">E-mail</label> <input type="text" name="email" id="email" class="form-control" style="display: inline; width: 250px;">
 									</div>
 								</div>
 							</div>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<label style="width: 60px;">Teléfono</label> <input type="text" name="telefono" id="telefono" class="form-control" style="display: inline; width: 150px;">
+										<label style="width: 70px;">Teléfono</label> <input type="text" name="telefono" id="telefono" class="form-control" style="display: inline; width: 150px;">
 									</div>
 								</div>
 							</div>

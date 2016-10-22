@@ -16,16 +16,21 @@ body {
   src: url("../fonts/Dakota.ttf");
 }
 
-.btn-u {
-	background: #b09b82;
-}
-
 blockquote {
 	border-left-color:#9c8061;
 }
 
 blockquote:hover {
 	border-left-color:green;
+}
+
+label {
+	font-weight: 100;
+  color: #666;
+}
+
+input[type="checkbox"], input[type="radio"] {
+	vertical-align: top;
 }
 
 .ecocreamos-logo {
@@ -308,6 +313,14 @@ blockquote:hover {
 
 .carousel-v1 .carousel-arrow a i {
 	opacity: 0.3
+}
+
+.form-control {
+	height: 25px;
+}
+
+.btn-u {
+	background: #b09b82;
 }
 
 
