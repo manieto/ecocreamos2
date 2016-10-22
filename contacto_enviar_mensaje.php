@@ -29,6 +29,7 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 	$enviado1 = mail($to, $subject, $message, $headers);
 	
 	// Si lo solicita, le enviamos una copia
+	$enviado = "";
 	if ($enviado1 && $copia=="si" && $email!=FALSE)	{
 		$subject2 = "Web Ecocreamos - Mensaje enviado";
 		$headers2 = "From: "         . $email_ecocreamos . "\r\n" .
@@ -50,11 +51,7 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 		Enviado 1: <?=$enviado1 ?><br/>
 		Enviado 2: <?=$enviado2 ?><br/>
 		<script>
-			<?php if ($enviado1==1) { ?>parent.mensaje1OK  ();<?php } 
-						else					    { ?>parent.mensaje1FAIL();<?php } ?>
-			<?php if ($copia=="si") {
-			        if ($enviado2==1) { ?>parent.mensaje2OK  ();<?php }
-						  else              { ?>parent.mensaje2FAIL();<?php } } ?>
+			parent.mailCallback("<?=$enviado1 ?>", "<?=$enviado2 ?>");
 		</script>
 	</body>
 </html>

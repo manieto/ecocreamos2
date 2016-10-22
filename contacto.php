@@ -41,14 +41,28 @@
 					return false;
 				}
 				else {
+					clearMessage("message_ok");
+					clearMessage("message_fail");
 					document.forms["enviar_mensaje"].submit();
 					return true;
 				}
 			}
-			function mensaje1OK  () { alert("Mensaje enviado correctamente."); }
-			function mensaje2OK  () { alert("Copia enviada correctamente."); }
-			function mensaje1FAIL() { alert("Mensaje no enviado debido a un error en el servidor."); }
-			function mensaje2FAIL() { alert("Copia no enviado debido a un error en el servidor."); }
+			function clearMessage(div) {
+				document.getElementById(div).style.display = "none";
+				document.getElementById(div+"_message").innerHTML = "";
+			}
+			function showMessage(div, message) {
+				var div2 = document.getElementById(div+"_message");
+				div2.innerHTML = message;
+				document.getElementById(div).style.display = "";
+			}
+			function mailCallback(return1, return2) {
+				if      (return1==="1" && return2==="1")	{ showMessage("message_ok"  , "Mensajes enviados correctamente."); }
+				else if (return1==="0" && return2==="0")	{ showMessage("message_fail", "ERROR: Los mensajes no han podido ser enviados. Por favor, vuelva a intentarlo más tarde."); }
+				else if (return1==="1")										{ showMessage("message_ok"  , "Mensaje enviado correctamente."); }
+				else if (return1==="0")										{ showMessage("message_fail", "ERROR: El mensaje no ha podido ser enviado. Por favor, vuelva a intentarlo más tarde."); }
+				if      (return1==="1" && return2==="0")	{ showMessage("message_fail", "ERROR: La copia del mensaje no ha podido ser enviada."); }
+			}
 		</script>
 
 		<!--=== Content Part ===-->
@@ -93,7 +107,6 @@
 									</div>
 								</div>
 							</div>
-
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
@@ -101,7 +114,6 @@
 									</div>
 								</div>
 							</div>
-
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
@@ -109,7 +121,6 @@
 									</div>
 								</div>
 							</div>
-
 							<label>Mensaje <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-11 col-md-offset-0">
@@ -120,22 +131,17 @@
 							</div>
 
 							<p><label>Deseo recibir una copia</label> <input type="checkbox" name="copia" id="copia" value="si" /></p>
-							<p><button onclick="enviarMensaje();" class="btn-u">Enviar mensaje</button>
-								<span id="message_ok" class="alert alert-success fade in">
-									<i class="rounded-x fa fa-check"></i> Mensaje enviado correctamente
+							<p><button onclick="enviarMensaje();return false;" class="btn-u">Enviar mensaje</button>
+								<span id="message_ok" class="alert alert-success fade in" style="display:none;">
+									<i class="rounded-x fa fa-check"></i> <span id="message_ok_message"></span>
 								</span>
-								<span id="message_fail" class="alert alert-danger">
-									<i class="rounded-x fa fa-times"></i> Mensaje no enviado por problemas en el servidor
+								<span id="message_fail" class="alert alert-danger" style="display:none;">
+									<i class="rounded-x fa fa-times"></i> <span id="message_fail_message"></span>
 								</span>
 							</p>
 						</fieldset>
-
-						<div id="message_fail" class="message">
-							<i class="rounded-x fa fa-thumbs-o-down"></i>
-							<p>Mensaje no enviado por problemas en el servidor</p>
-						</div>
 					</form>
-					<iframe id="ifrm_enviar_mensaje" name="ifrm_enviar_mensaje" style="display:;" />
+					<iframe id="ifrm_enviar_mensaje" name="ifrm_enviar_mensaje" style="display:none;" />
 				</div>
 			</div><!--/row-->
 		</div><!--/container-->
