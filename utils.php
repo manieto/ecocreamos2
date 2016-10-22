@@ -12,7 +12,6 @@ function includePlugin($plugins, $id) {
 				
 ?>
 
-
 <?php
   function datasheet_readJson() {
 		$json = file_get_contents("datasheet.json");

@@ -1,7 +1,6 @@
 <?php include "utils.php"; ?>
 <?php include "config.php"; ?>
 <?php include "image.php"; ?>
-<?php include "text.php"; ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
@@ -56,6 +55,9 @@
 
 		<!-- CSS Customization -->
 		<link rel="stylesheet" href="assets/css/custom.css">
+		
+		<!-- Scripts -->
+		<?php include "text.php"; ?>
 	</head>
 
 	<body>

@@ -243,8 +243,8 @@ blockquote:hover {
 .tp-bannertimer , .tp-bottom { visibility: hidden; }
 
 .breadcrumbs-v1 {
-	padding: 20px 0; /* 0px; */
-	/*height: 100px; */
+	padding: 20px 0;
+  background: none;
 }
 
 .breadcrumbs-v1 h1 {

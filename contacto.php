@@ -1,7 +1,7 @@
 <?php $title       = "Ecocreamos - Contacto"; ?>
 <?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: aaaaa , formulario de contacto."; ?>
 <?php $menu        = "contacto"; ?>
-<?php $plugins     = "maps,forms"; ?>
+<?php $plugins     = "maps"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -141,7 +141,7 @@
 							</p>
 						</fieldset>
 					</form>
-					<iframe id="ifrm_enviar_mensaje" name="ifrm_enviar_mensaje" style="display:none;" />
+					<iframe id="ifrm_enviar_mensaje" name="ifrm_enviar_mensaje" style="display:none;"></iframe>
 				</div>
 			</div><!--/row-->
 		</div><!--/container-->
