@@ -90,15 +90,13 @@
 	},
 	"sliders": {
 		"inicio": [
-			{ "src": "sliders/inicio/flores_cerezo.jpg",
-				"alt": "Logo de Ecocreamos"
-			},
-			{ "src": "sliders/inicio/exterior_construccion_biologica.jpg",
-				"alt": "Nombre de Ecocreamos"
-			},
-			{ "src": "sliders/inicio/proyecto_tierra.jpg",
-				"alt": "Nombre de Ecocreamos"
-			}
+			{ "src": "sliders/inicio/flores_cerezo.jpg"    },
+			{ "src": "sliders/inicio/proyecto_tierra1.jpg" , "alt": "Proyecto Tierra"},
+			{ "src": "sliders/inicio/santanyi.jpg"         , "alt": "Santanyí"},
+			{ "src": "sliders/inicio/logo_ecocreamos.jpg"  , "alt": "Logo de EcoCreamos"},
+			{ "src": "sliders/inicio/mancor_de_la_vall.jpg", "alt": "Mancor de la vall"},
+			{ "src": "sliders/inicio/proyecto_tierra2.jpg" , "alt": "Proyecto Tierra"},
+			{ "src": "sliders/inicio/btc.jpg"              , "alt": "Bloques de tierra compactada"}
 		],
 		"tierra": [
 			{ "src": "logos/ecocreamos.jpg",

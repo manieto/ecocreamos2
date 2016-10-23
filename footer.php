@@ -17,7 +17,7 @@
 								<dl class="dl-horizontal">
 									<dt><a href="servicios.php"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
 									<dd>
-										<p><a href="servicios.php">Eduardo Ramos inicia su camino como asesor en bioconstrucción y promoción de proyectos de construcción ecológica y <em>Passivhaus</em></a></p>
+										<p><a href="servicios.php">Eduardo Ramos inicia una nueva etapa como asesor en bioconstrucción y promoción de proyectos de construcción ecológica y <em>Passivhaus</em></a></p>
 									</dd>
 								</dl>
 							</div>
@@ -123,6 +123,15 @@
 		<script src="assets/plugins/html5shiv.js"></script>
 		<script src="assets/plugins/placeholder-IE-fixes.js"></script>
 	<![endif]-->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-73796847-1', 'auto');
+		ga('send', 'pageview', document.location.pathname);
+	</script>
 
 </body>
 </html>

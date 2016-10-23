@@ -101,7 +101,7 @@
 		$slider = $images["sliders"][$id];
 ?>
 <!--=== Slider ===-->
-<div id="layerslider" style="width: 100%; height: 350px;">
+<div id="layerslider" style="width: 100%; height: 400px;">
 <?php
 		foreach ($slider as $image) {
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];

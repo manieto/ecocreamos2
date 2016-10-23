@@ -60,27 +60,17 @@
 
 	<div class="one-page-inner one-default">
 		<div class="container content">
-			<div class="row">
-				<div class="col-md-6">
-					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> nace a partir de una empresa constructora convencional que, desde que se fundó en el año 1997, no ha parado de modificarse y renovarse, para finalmente ser una simbiosis de diferentes tendencias y tipologías de construcción respetuosas con el ser humano y con el medio ambiente.</p>
-					<ul class="list-unstyled">
-						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Promoción ecológica y bioconstrucción</li>
-						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Asesoramiento en aaaa</li>
-						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Estudios aaaaaa</li>
-						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Distribución de productos aaaaaa</li>
-						<li><i class="fa fa-check color-green"></i>&nbsp;&nbsp;Distribución de materiales aaaaa</li>
-					</ul><br />
+			<div class="row margin-bottom-40">
+				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es una empresa constructora y promotora fundada en 1997, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva y distribución de materiales ecológicos.</p>
+					<p>Con la experiencia adquirida en estos casi 20 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
+					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia práctica que nos permite garantizar su correcta utilización en cualquier solución constructiva.</p>
+				</div>
 
-					<!-- Blockquotes -->
-					<blockquote class="hero-unify">
-						<p>Nuestro propósito es aaa aaaa a aaaa aa aaaaa aaa aaaaaaaa aaa a aaaaa aaaa aa aaaaaaaaaa aaa aaa, aaaa aaaaaa aaaaa.</p>
-						<small>Eduardo Ramos, Promotor Ecológico</small>
-					</blockquote>
+				<div class="col-md-3 col-md-offset-1 md-margin-bottom-40">
+					<img src="assets/img/eduardo_ramos.gif" />
 				</div>
-				<div class="col-md-6">
-					<img src="assets/img/proyecto_tierra.jpg" class="img-responsive margin-bottom-10" alt="">
-				</div>
-			</div>
+			</div><!--/row-->
 			
 			<!--=== Job Partners ===-->
 			<div class="container content job-partners">
