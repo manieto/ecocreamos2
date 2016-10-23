@@ -81,8 +81,8 @@
 					<!-- End Toggle -->
 
 					<!-- Topbar -->
-					<div class="topbar">
-						<ul class="loginbar pull-right" style="text-align: left;">
+					<!--<div class="topbar">
+						<ul class="loginbar pull-right" style="text-align: left;">-->
 							<!--<li class="hoverSelector">
 								<i class="fa fa-globe"></i>
 								<a>Idioma</a>
@@ -94,11 +94,11 @@
 								</ul>
 							</li>
 							<li class="topbar-devider"></li>-->
-							<li><a href="quienes_somos.php">Quiénes somos</a></li>
+							<!--<li><a href="quienes_somos.php">Quiénes somos</a></li>
 							<li class="topbar-devider"></li>
-							<li><a href="contacto.php">Contacto</a></li>
-						</ul>
-					</div>
+							<li><a href="contacto.php">Contacto</a></li>-->
+						<!--</ul>
+					</div>-->
 					<!-- End Topbar -->
 				</div><!--/end container-->
 
@@ -135,6 +135,7 @@
 									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos en prensa</a></li>
 								</ul>
 							</li>
+							<li class="dropdown-none <?php if ($menu=="contacto"           ) { echo "active"; } ?>"><a href="contacto.php"><?= text("menu/contacto") ?></a></li>
 						</ul>
 					</div><!--/end container-->
 				</div><!--/navbar-collapse-->

@@ -4,9 +4,14 @@
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
-		<div class="breadcrumbs-v1">
+		<div class="breadcrumbs-v1"
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabeceras/noticias.jpg') no-repeat scroll center center / cover ;">
 			<div class="container">
-				<h1>Servicios</h1>
+				<div class="row">
+					<div class="col-xs-10 col-xs-offset-1">
+						<h1>Servicios</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!--=== End Breadcrumbs v1 ===-->
@@ -18,8 +23,8 @@
 					<p>
 						<ul class="list-unstyled who">
 							<li><i class="fa fa-check"></i>Asesoramiento de construcciones pasivas
-								<p class="padding-left-40">Desde el año 2010, llevamos realizando proyectos con el “standard passivhaus” en obra nueva y rehabilitación, registrados como como viviendas pasivas en la Plataforma Passivhaus España.</p>
-								<p class="padding-left-40">Contamos con una amplia experiencia para dar solución a los problemas habituales en los procesos de construcción con el standard “passivhaus”.</p>
+								<p class="padding-left-40">Desde el año 2010, llevamos realizando proyectos con el estándar <em><strong>Passivhaus</strong></em> en obra nueva y rehabilitación, registrados como como viviendas pasivas en la Plataforma Passivhaus España.</p>
+								<p class="padding-left-40">Contamos con una amplia experiencia para dar solución a los problemas habituales en los procesos de construcción con el estándar <em><strong>Passivhaus</strong></em>.</p>
 							</li>
 							<li><i class="fa fa-check"></i>Asesoramiento en hermeticidad de edificios
 							<ul>
@@ -55,6 +60,9 @@
 							</li>
 						</ul>
 					</p>
+				</div>
+				<div class="col-xs-10 col-xs-offset-1 col-md-offset-0 col-md-4 col-lg-4 padding-bottom-20">
+					<img src="assets/img/servicios/gutex.jpg" class="img-responsive" />
 				</div>
 			</div>
 		</div>

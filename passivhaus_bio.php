@@ -37,24 +37,34 @@
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Proyecto Tierra</a></h2>
 						<p>Es el resultado de varios años de trabajo que reúne en sí mismo un ejemplo de vivienda singular en la que se demuestra que un proyecto ecológico, sostenible, con la mayor eficiencia energética y económicamente viable, es posible.</p>
-						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también la primera a nivel nacional e internacional en obtener la calificación <span class="ecocreamos-logo-sm-sm">Premium</span> construida en tierra.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también <strong>la primera a nivel nacional e internacional</strong> en obtener la calificación <strong><em>Premium</em></strong> construida en tierra.</p>
 					</div>
 				</div>
 			</div>
-			<div class="row padding-top-20 padding-bottom-20">
-				<div class="col-sm-12 col-lg-10 col-lg-offset-1 news-v3">
+			<div class="row padding-top-20">
+				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-1 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<h4>Características principales</h4>
 						<p>Diseño del proyecto por la arquitecta Neus García Iñesta, especialista en construcción vernacular, en el que conjuga un diseño típico de la zona con proporciones de geometría natural y bioclimática.</p>
 						<p>Siendo su principal característica como bien indica su nombre la estructura, realizada con tierra, bloque BTC (bloque de tierra comprimida) proveniente de la misma finca. Envolvente realizada con láminas <a href="material_pro_clima.php">Proclima</a> y aislamiento de madera <a href="material_gutex.php">Gutex</a>, revestimiento con mortero de cal en el exterior y mortero de barro en el interior.</p>
 						<p>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</p>
 						<p>Tratamiento de aguas grises, aprovechamiento de pluviales y sistema de ecológico de tratamiento de agua para piscina.</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 margin-top-20 sm-margin-bottom-20">
+					<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank">
+						<img src="assets/img/logos/passivhaus_premium_certificado_mediano.jpg" alt="Proyecto Tierra - Certificación Passivhaus Premium" class="img-responsive" />
+					</a>
+				</div>
+			</div>
+			<div class="row padding-top-20 padding-bottom-20">
+				<div class="col-sm-12 col-lg-10 col-lg-offset-1 news-v3">
+					<div class="news-v3-in-sm no-padding">
 						<p class="text-align-left">
-							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Galería</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Galería de imágenes</a>
 							<a href="galeria.php?id=proyecto_tierra_dossier" class="btn-u btn-u-large">Dossier</a>
 							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
 							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
-							<a href="assets/pdf/proyecto_tierra/articulo_passivhaus_madrid.pdf" alt="Proyecto Tierra - Artículo conferencia Plataforma Passivhaus - Madrid 2014 " target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo Passivhaus Madrid 2014</a>
 							<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
 						</p>
 					</div>

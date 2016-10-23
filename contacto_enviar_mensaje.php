@@ -7,8 +7,8 @@ $telefono = trim($_POST['telefono']);
 $mensaje  = trim($_POST['mensaje']);
 $copia    = trim($_POST['copia']);
 
-//$email_ecocreamos = "info@ecocreamos.com";
-$email_ecocreamos = "manieto@gmail.com";
+//$email_ecocreamos = "manieto@gmail.com"; // E-mail de prueba
+$email_ecocreamos = "info@ecocreamos.com";
 $email_from   = "info@ecocreamos.com";
 $email_replay = ($email!=FALSE)?$email:$email_ecocreamos;
 

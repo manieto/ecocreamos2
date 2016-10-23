@@ -28,10 +28,10 @@
 							<div class="headline"><h2>Enlaces destacados</h2></div>
 							<ul class="list-unstyled link-list">
 								<li><a href="proyecto_tierra.php">Proyecto Tierra</a><i class="fa fa-angle-right"></i></li>
-								<li><a href="passivhaus_bio.php">Passivhaus</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="passivhaus_bio.php">Passivhaus-Bio</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" target="_blank">Certificación Passivhaus Premium</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="servicios.php">Asesoramiento en bioconstrucción</a><i class="fa fa-angle-right"></i></li>
-								<li><a href="material_corcho_negro.php">Materiales - Corcho negro</a><i class="fa fa-angle-right"></i></li>
-								<li><a href="material_gutex.php">Materiales - Gutex</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="noticias.php">Noticias y eventos</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="contacto.php">Contacto</a><i class="fa fa-angle-right"></i></li>
 							</ul>
 						</div><!--/col-md-4-->

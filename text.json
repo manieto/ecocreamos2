@@ -26,5 +26,9 @@
 	"menu/noticias": {
 		"es": "Noticias",
 		"en": "News"
+	},
+	"menu/contacto": {
+		"es": "Contacto",
+		"en": "Contact us"
 	}
 }
