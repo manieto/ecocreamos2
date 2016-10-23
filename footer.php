@@ -9,15 +9,15 @@
 							<div class="posts">
 								<div class="headline"><h2>Últimas actualizaciones</h2></div>
 								<dl class="dl-horizontal">
-									<dt><a href="noticia_primer_passivhaus_illes_balears.php"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
+									<dt><a href="noticia_primer_passivhaus_premium_tierra_internacional.php"><img src="assets/img/ultimas_actualizaciones/proyecto_tierra.jpg" alt="Proyecto Tierra" /></a></dt>
 									<dd>
-										<p><a href="noticia_primer_passivhaus_illes_balears.php">Este diciembre de 2015, <em>Proyecto Tierra</em> ha conseguido la Primera Certificación de edificio <em>Passivaus</em> de las Illes Balears</a></p>
+										<p><a href="noticia_primer_passivhaus_premium_tierra_internacional.php">Este octubre de 2016, <em>Proyecto Tierra</em> se ha convertido en la primera vivienda a nivel nacional e internacional certificada como <strong><em>Passivhaus Premium</em></strong> construida en tierra</a></p>
 									</dd>
 								</dl>
 								<dl class="dl-horizontal">
-									<dt><a href="servicios.php"><img src="assets/img/proyecto_tierra.jpg" alt="" /></a></dt>
+									<dt><a href="servicios.php"><img src="assets/img/ultimas_actualizaciones/eduardo_ramos.gif" alt="" /></a></dt>
 									<dd>
-										<p><a href="servicios.php">Eduardo Ramos inicia una nueva etapa como asesor en bioconstrucción y promoción de proyectos de construcción ecológica y <em>Passivhaus</em></a></p>
+										<p><a href="servicios.php">Ecocreamos y su nueva etapa en la gestión de proyectos ecológicos pasivos. Eduardo Ramos impulsa el concepto <em>Bio-Pasivo</em>.</a></p>
 									</dd>
 								</dl>
 							</div>
@@ -27,7 +27,7 @@
 						<div class="col-md-4 md-margin-bottom-40">
 							<div class="headline"><h2>Enlaces destacados</h2></div>
 							<ul class="list-unstyled link-list">
-								<li><a href="proyecto_tierra.php">Proyecto Tierra</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="passivhaus_bio.php">Proyecto Tierra</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="passivhaus_bio.php">Passivhaus-Bio</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" target="_blank">Certificación Passivhaus Premium</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="servicios.php">Asesoramiento en bioconstrucción</a><i class="fa fa-angle-right"></i></li>
