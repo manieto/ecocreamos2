@@ -57,10 +57,18 @@
 			<div class="row">
 				<div class="col-xs-12 padding-left-30 padding-right-30 padding-bottom-20">
 					<h2 class="title-v2 padding-top-20">Accesorios</h2>
+					<ul class="list-unstyled who">
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/fijacion-tirafondos/" target="_blank">Fijación / Tirafondos (12 elementos)</a></li>
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/perfileria-listones/" target="_blank">Perfilería / Listones (19 elementos)</a></li>
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/sellado-adhesivo/"    target="_blank">Sellado / Adhesivo (8 elementos)</a></li>
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/revoque-pintura/"     target="_blank">Revoque / Pintura (8 elementos)</a></li>
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/herramienta/"         target="_blank">Herramienta (2 elementos)</a></li>
+						<li><i class="fa fa-file-pdf-o"></i> <a href="http://gutex-espana.eu/gama-de-productos/accesorios/varios/"              target="_blank">Varios (6 elementos)</a></li>
+					</ul>
 				</div>
 			</div>
 		
-			<?php datasheet_displayCollection("material_gutex_accesorios"); ?>
+			<!--?php datasheet_displayCollection("material_gutex_accesorios"); ?-->
 			
 		</div>
 

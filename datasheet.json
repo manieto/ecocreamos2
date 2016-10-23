@@ -260,6 +260,36 @@
 	],
 	"material_gutex_sistemas_url": "http://gutex-espana.eu/gama-de-productos/sistemas/",
 	"material_gutex_sistemas": [
+		{ "src": "materiales/gutex_durio.jpg",
+			"alt": "GUTEX Durio<sup>&reg;</sup>",
+			"title": "GUTEX Durio<sup>&reg;</sup>",
+			"description": "Sistema de aislamiento de fachadas ecológico configurable según el gusto personal <ul><li>GUTEX Thermowall<sup>&reg;</sup> Durio</li><li>GUTEX Thermofibre<sup>&reg;</sup></li><li>GUTEX Thermoflex<sup>&reg;</sup></li></ul>",
+			"link": "http://gutex-espana.eu/gama-de-productos/sistemas/sistema/sys/gutex-durio/"
+		},
+		{ "src": "materiales/gutex_dachsanierung.jpg",
+			"alt": "GUTEX Saneamiento de cubierta",
+			"title": "GUTEX Saneamiento de cubierta",
+			"description": "El bajo-teja seguro a prueba de lluvias y granizos con función regulador de humedad del aislamiento entre cabios <ul><li>GUTEX Multiplex-top<sup>&reg;</sup></li><li>GUTEX Thermofibre<sup>&reg;</sup></li><li>GUTEX Thermoflex<sup>&reg;</sup></li><li>GUTEX Ultratherm<sup>&reg;</sup></li></ul>",
+			"link": "http://gutex-espana.eu/gama-de-productos/sistemas/sistema/sys/gutex-dachsanierung/"
+		},
+		{ "src": "materiales/gutex_sate_thermowall.jpg",
+			"alt": "GUTEX SATE Thermowall<sup>&reg;</sup>",
+			"title": "GUTEX SATE Thermowall<sup>&reg;</sup>",
+			"description": "Sistema de Aislamiento Térmico por el Exterior ecológico <ul><li>GUTEX Thermowall<sup>&reg;</sup></li><li>GUTEX Thermowall<sup>&reg;</sup>-gf</li><li>GUTEX Thermosafe-nf<sup>&reg;</sup></li></ul>",
+			"link": "http://gutex-espana.eu/gama-de-productos/sistemas/sistema/sys/gutex-thermowall-wdvs/"
+		},
+		{ "src": "materiales/gutex_aislamiento_interior.jpg",
+			"alt": "GUTEX Aislamiento interior",
+			"title": "GUTEX Aislamiento interior",
+			"description": "Sistema de aislamiento interior con GUTEX Thermoroom<sup>&reg;</sup> <ul><li>GUTEX Thermoroom<sup>&reg;</sup></li></ul>",
+			"link": "http://gutex-espana.eu/gama-de-productos/sistemas/sistema/sys/gutex-innendaemmung/"
+		},
+		{ "src": "materiales/gutex_implio.jpg",
+			"alt": "GUTEX Implio<sup>&reg;</sup>",
+			"title": "GUTEX Implio<sup>&reg;</sup>",
+			"description": "Sistema de conexión con ventanas <ul><li>GUTEX Thermowall<sup>&reg;</sup></li><li>GUTEX Thermowall<sup>&reg;</sup>-gf</li></ul>",
+			"link": "http://gutex-espana.eu/gama-de-productos/sistemas/sistema/sys/gutex-implio/"
+		}
 	],
 	"material_gutex_productos_url" : "http://gutex-espana.eu/gama-de-productos/productos/",
 	"material_gutex_productos": [
@@ -292,6 +322,84 @@
 			"title": "GUTEX Thermosafe-homogen<sup>&reg;</sup>",
 			"description": "El tablero universal aislante de densidad homogénea<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 40 / 60 / 80 / 100 / 120 / 140 / 160 / 180 / 200 / 220 / 240 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x625 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,037",
 			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermosafe-homogen/"
+		},
+		{ "src": "materiales/gutex_thermosafe.jpg",
+			"alt": "GUTEX Thermosafe<sup>&reg;</sup>",
+			"title": "GUTEX Thermosafe<sup>&reg;</sup>",
+			"description": "El tablero universal aislante multicapa<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 20 / 40 / 60 / 80 / 100 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x625 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,037",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermosafe/"
+		},
+		{ "src": "materiales/gutex_thermofibre.jpg",
+			"alt": "GUTEX Thermofibre<sup>&reg;</sup>",
+			"title": "GUTEX Thermofibre<sup>&reg;</sup>",
+			"description": "Fibra de madera – aislante para insuflar<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermofibre/"
+		},
+		{ "src": "materiales/gutex_thermoflex.jpg",
+			"alt": "GUTEX Thermoflex<sup>&reg;</sup>",
+			"title": "GUTEX Thermoflex<sup>&reg;</sup>",
+			"description": "Tablero aislante flexible de fibra de madera<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 40 / 50 / 60 / 80 / 100 / 120 / 140 / 160 / 180 / 200 / 220 / 240 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1350x575 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,038",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermoflex/"
+		},
+		{ "src": "materiales/gutex_thermoflat.jpg",
+			"alt": "GUTEX Thermoflat<sup>&reg;</sup>",
+			"title": "GUTEX Thermoflat<sup>&reg;</sup>",
+			"description": "Tablero aislante resistente a compresión para cubiertas planas<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 100 / 120 / 140 / 160 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1230x600 mm mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermoflat/"
+		},
+		{ "src": "materiales/gutex_thermoinstal.jpg",
+			"alt": "GUTEX Thermoinstal<sup>&reg;</sup>",
+			"title": "GUTEX Thermoinstal<sup>&reg;</sup>",
+			"description": "Tablero aislante resistente a compresión para planos de instalaciones<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 50 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1250x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermoinstal/"
+		},
+		{ "src": "materiales/gutex_thermoroom.jpg",
+			"alt": "GUTEX Thermoroom<sup>&reg;</sup>",
+			"title": "GUTEX Thermoroom<sup>&reg;</sup>",
+			"description": "Tablero especial para el aislamiento interior de una pared exterior<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 20 / 40 / 60 / 80 / 100 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x500 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermoroom/"
+		},
+		{ "src": "materiales/gutex_thermosafe_wd.jpg",
+			"alt": "GUTEX Thermosafe-wd<sup>&reg;</sup>",
+			"title": "GUTEX Thermosafe-wd<sup>&reg;</sup>",
+			"description": "Tablero aislante resistente a la compresión para suelos y paredes<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 20 / 30 / 40 / 60 / 80 / 100 / 120 / 140 / 160 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermosafe-wd/"
+		},
+		{ "src": "materiales/gutex_thermosafe_nf.jpg",
+			"alt": "GUTEX Thermosafe-nf<sup>&reg;</sup>",
+			"title": "GUTEX Thermosafe-nf<sup>&reg;</sup>",
+			"description": "Tablero aislante de soporte para suelos de madera maciza, tarima o tableros<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 40 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1190x380 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,037",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermosafe-nf/"
+		},
+		{ "src": "materiales/gutex_thermofloor.jpg",
+			"alt": "GUTEX Thermofloor<sup>&reg;</sup>",
+			"title": "GUTEX Thermofloor<sup>&reg;</sup>",
+			"description": "Tablero de aislamiento de sonido para disminuir el ruido por impacto<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 21 / 31 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 1200x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermofloor/"
+		},
+		{ "src": "materiales/gutex_happy_step.jpg",
+			"alt": "GUTEX Happy Step<sup>&reg;</sup>",
+			"title": "GUTEX Happy Step<sup>&reg;</sup>",
+			"description": "Tablero de base para pavimentos de suelo<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 4 / 6 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 860x590 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,046",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-happy-step/"
+		},
+		{ "src": "materiales/gutex_thermowall.jpg",
+			"alt": "GUTEX Thermowall<sup>&reg;</sup>",
+			"title": "GUTEX Thermowall<sup>&reg;</sup>",
+			"description": "Tablero aislante soporte de revoque para el SATE de GUTEX<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 20 / 40 / 60 / 80 / 100 / 120 / 140 / 160 / 180 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 830x600 / 2600x1250 / 2800x1250 / 1250x590 / 1300x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,039",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermowall/"
+		},
+		{ "src": "materiales/gutex_thermowall_gf.jpg",
+			"alt": "GUTEX Thermowall<sup>&reg;</sup>-gf",
+			"title": "GUTEX Thermowall<sup>&reg;</sup>-gf",
+			"description": "Tablero aislante soporte de revoque para el SATE de GUTEX<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 40 / 60 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 2600x1250 / 2800x1250 / 1300x600 / 1800x600 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,043",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-thermowall-gff90/"
+		},
+		{ "src": "materiales/gutex_standard_n.jpg",
+			"alt": "GUTEX Standard-n<sup>&reg;</sup>",
+			"title": "GUTEX Standard-n<sup>&reg;</sup>",
+			"description": "Tablero aislante de utilidad múltiple para interiores<br/>&nbsp;&nbsp;<i class='fa fa-arrows-h'></i>&nbsp;&nbsp;Grosor: 6 / 8 / 10 / 12 / 15 / 18 mm<br/>&nbsp;&nbsp;<i class='fa fa-clone'></i>&nbsp;&nbsp;Formato: 2500x1000 / 2500x1500 mm<br/>&nbsp;&nbsp;<i class='fa fa-sun-o'></i>&nbsp;&nbsp;Conductividad térmica: λ<sub>D</sub> (W/mK) 0,046",
+			"link": "http://gutex-espana.eu/gama-de-productos/productos/producto/prod/gutex-standard-n/"
 		}
 	],
 	"material_gutex_accesorios_url" : "http://gutex-espana.eu/gama-de-productos/productos/",
