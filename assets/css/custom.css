@@ -33,6 +33,10 @@ input[type="checkbox"], input[type="radio"] {
 	vertical-align: top;
 }
 
+.table > tbody > tr > td {
+	text-align: left;
+}
+
 .ecocreamos-logo {
 	font-family: "Dakota";
 	color: #601b21; /*#663300; #9d2812;*/

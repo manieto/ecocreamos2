@@ -95,3 +95,25 @@ function includePlugin($plugins, $id) {
 <?php
 	}
 ?>
+<?php
+	function product_table_row($id, $col1, $col2, $col3, $description, $link) {
+?>
+									<tr>
+										<?php if (isset($col1 )) { ?><td onclick="$('#desc<?=$id ?>').toggleClass('hidden');" class="hidden-xs"><?=$col1 ?></td><?php } ?>
+										<?php if (isset($col2 )) { ?><td onclick="$('#desc<?=$id ?>').toggleClass('hidden');" class="text-align-center"><?=$col2 ?></td><?php } ?>
+										<?php if (isset($col3 )) { ?><td onclick="$('#desc<?=$id ?>').toggleClass('hidden');"><?=$col3 ?></td><?php } ?>
+										<?php if (isset($description) or isset($link )) { ?><td>
+											<?php if (isset($description )) { ?><a onclick="$('#desc<?=$id ?>').toggleClass('hidden');" class="btn-u btn-u-xs hidden-xs">Descripción</a><?php } ?>
+											<?php if (isset($link        )) { ?>&nbsp;<a href="<?=$link ?>" class="btn-u btn-u-xs" target="_blank">Ficha técnica</a><?php } ?>
+										</td><?php } ?>
+									</tr>
+									<?php if (isset($description )) { ?><tr id="desc<?=$id ?>" class="hidden" onclick="$('#desc<?=$id ?>').toggleClass('hidden');">
+										<td class="hidden-xs"></td>
+										<td></td>
+										<td colspan="2" class="text-justify">
+											<p><?=$description ?></p>
+										</td>
+									</tr><?php } ?>
+<?php
+	}
+?>
