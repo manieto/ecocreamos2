@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Proyectos Passivhaus-Bio"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Proyectos Passivhaus-Bio de obra nueva y de rehabilitación"; ?>
 <?php $menu        = "passivhaus_bio"; ?>
 <?php $plugins     = "carousel"; ?>
 <?php include "header.php";?>

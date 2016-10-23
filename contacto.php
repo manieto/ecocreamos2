@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Contacto"; ?>
-<?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: aaaaa , formulario de contacto."; ?>
+<?php $description = "Información de contacto con Ecocreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Gremi de Tintorers, 18 , formulario de contacto."; ?>
 <?php $menu        = "contacto"; ?>
 <?php $plugins     = "maps"; ?>
 <?php include "header.php";?>

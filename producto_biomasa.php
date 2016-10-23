@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Productos - Biomasa: Lacunza"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos - Biomasa: Lacunza"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "biomasa"; ?>
 <?php include "header.php";?>

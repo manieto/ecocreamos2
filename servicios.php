@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Servicios"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Catálogo de servicios ofrecidos por EcoCreamos"; ?>
 <?php $menu        = "servicios"; ?>
 <?php include "header.php";?>
 

@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Materiales - pro clima"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos de pro clima"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "pro_clima"; ?>
 <?php include "header.php";?>

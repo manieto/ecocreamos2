@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Materiales - Gutex"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos de Gutex"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "gutex"; ?>
 <?php include "header.php";?>

@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Artículos en prensa"; ?>
-<?php $description = "Artículos de..."; ?>
+<?php $description = "Artículos en prensa publicados por, o en relación a, EcoCreamos"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "articulos"; ?>
 <?php include "header.php";?>

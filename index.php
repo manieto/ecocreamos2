@@ -1,5 +1,5 @@
-<?php $title       = "Ecocreamos, vivienda bioecológica aaaaaa aaaa"; ?>
-<?php $description = "Bioconstrucción, construcción ecológica, estudios biológicos, materiales ecológicos"; ?>
+<?php $title       = "Ecocreamos"; ?>
+<?php $description = "Empresa constructora y promotora fundada en 1997 y orientada al asesoramiento en bioconstrucción y materiales ecológicos"; ?>
 <?php $menu        = "inicio"; ?>
 <?php $plugins     = "slider"; ?>
 <?php include "header.php"; ?>

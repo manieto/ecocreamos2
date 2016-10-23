@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Materiales - Corcho negro"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos de Amorim Isolamentos"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "corcho_negro"; ?>
 <?php include "header.php";?>

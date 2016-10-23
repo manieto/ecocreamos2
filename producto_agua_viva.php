@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Productos - Agua Viva"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos - Agua Viva"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "agua_viva"; ?>
 <?php include "header.php";?>

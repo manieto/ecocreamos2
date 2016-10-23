@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Materiales - Ecoclay"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos de Ecoclay"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "ecoclay"; ?>
 <?php include "header.php";?>

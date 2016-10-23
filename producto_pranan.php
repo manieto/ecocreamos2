@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Productos - Pranan"; ?>
-<?php $description = "............"; ?>
+<?php $description = "Productos - Pranan"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "pranan"; ?>
 <?php include "header.php";?>

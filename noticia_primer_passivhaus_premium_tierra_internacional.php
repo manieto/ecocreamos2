@@ -1,5 +1,5 @@
-<?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
-<?php $description = "Noticias de..."; ?>
+<?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus Premium construida en tierra a nivel nacional e internacional"; ?>
+<?php $description = "Proyecto Tierra es la primera vivienda con Certificación Passivhaus Premium construida en tierra a nivel nacional e internacional"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "noticias"; ?>
 <?php include "header.php";?>

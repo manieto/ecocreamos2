@@ -1,7 +1,7 @@
 <?php $title       = "Ecocreamos - Galería de imágenes"; ?>
-<?php $description = "Galería de imágenes"; ?>
-<?php $menu        = "fotos"; ?>
-<?php $submenu     = "fotos"; ?>
+<?php $description = "Galería de imágenes de algunos proyectos de Ecocreamos"; ?>
+<?php $menu        = "galeria"; ?>
+<?php $submenu     = "galeria"; ?>
 <?php $plugins     = "portfolio"; ?>
 <?php $idGaleria   = $_GET["id"]; ?>
 <?php include "header.php";?>

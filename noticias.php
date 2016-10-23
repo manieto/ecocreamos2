@@ -1,5 +1,5 @@
 <?php $title       = "Ecocreamos - Noticias"; ?>
-<?php $description = "Noticias de..."; ?>
+<?php $description = "Noticias y eventos relacionados con Ecocreamos"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "noticias"; ?>
 <?php include "header.php";?>
