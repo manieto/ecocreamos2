@@ -14,7 +14,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="<?=$description ?>">
 		<meta name="author" content="Eduardo Ramos">
-        <meta property="og:image" content="http://ecocreamos.com/assets/img/logos/ecocreamos_pequenyo.png"/>
+		<meta property="og:image" content="http://ecocreamos.com/assets/img/logos/ecocreamos_pequenyo.png"/>
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="favicon.ico">
