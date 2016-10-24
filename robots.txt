@@ -4,3 +4,4 @@ Disallow: /footer.php
 Disallow: /text.php
 Disallow: /gallery.php
 Disallow: /carrousel.php
+Sitemap: http://www.ecocreamos.com/sitemap.txt
