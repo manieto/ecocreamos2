@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos"; ?>
+<?php $title       = "EcoCreamos"; ?>
 <?php $description = "Empresa constructora y promotora fundada en 1997 y orientada al asesoramiento en bioconstrucción y materiales ecológicos"; ?>
 <?php $menu        = "inicio"; ?>
 <?php $plugins     = "slider"; ?>

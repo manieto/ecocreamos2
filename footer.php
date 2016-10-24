@@ -17,7 +17,7 @@
 								<dl class="dl-horizontal">
 									<dt><a href="servicios.php"><img src="assets/img/ultimas_actualizaciones/eduardo_ramos.gif" alt="" /></a></dt>
 									<dd>
-										<p><a href="servicios.php">Ecocreamos y su nueva etapa en la gestión de proyectos ecológicos pasivos. Eduardo Ramos impulsa el concepto <em>Bio-Pasivo</em>.</a></p>
+										<p><a href="servicios.php">EcoCreamos y su nueva etapa en la gestión de proyectos ecológicos pasivos. Eduardo Ramos impulsa el concepto <em>Bio-Pasivo</em>.</a></p>
 									</dd>
 								</dl>
 							</div>
@@ -64,7 +64,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<p>
-								2016 &copy; Ecocreamos. Todos los derechos reservados.
+								2016 &copy; EcoCreamos. Todos los derechos reservados.
 								<!--<a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>-->
 							</p>
 						</div>

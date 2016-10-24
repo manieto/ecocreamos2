@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
+<?php $title       = "EcoCreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
 <?php $description = "Proyecto Tierra es la primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "noticias"; ?>

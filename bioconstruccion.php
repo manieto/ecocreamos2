@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Bioconstrucción"; ?>
+<?php $title       = "EcoCreamos - Bioconstrucción"; ?>
 <?php $description = "Bioconstrucción"; ?>
 <?php $menu        = "bioconstruccion"; ?>
 <?php include "header.php";?>

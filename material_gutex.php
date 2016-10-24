@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Materiales - Gutex"; ?>
+<?php $title       = "EcoCreamos - Materiales - Gutex"; ?>
 <?php $description = "Productos de Gutex"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "gutex"; ?>

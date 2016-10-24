@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Noticias - Primera vivienda con Certificación Passivhaus Premium construida en tierra a nivel nacional e internacional"; ?>
+<?php $title       = "EcoCreamos - Noticias - Primera vivienda con Certificación Passivhaus Premium construida en tierra a nivel nacional e internacional"; ?>
 <?php $description = "Proyecto Tierra es la primera vivienda con Certificación Passivhaus Premium construida en tierra a nivel nacional e internacional"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "noticias"; ?>
@@ -42,8 +42,8 @@
 					</a>
 				</div>
 				<div class="col-xs-12 col-md-8 col-lg-7 news-v3">
-					<p>Es por ello que <span class="ecocreamos-logo-sm">EcoCreamos</span> quiere reconocer al equipo técnico que ha participado y asesorado en el proyecto, empezando por el arquitecto de la certificación, <b>Amarante Barambio</b>, el arquitecto técnico y especialista en bioconstrucción, <b>Joan Brunet</b>, el asesor energético <b>Miquel Arbona</b>, de Nord Arbona Piza, suministrador el sistema de ventilación Zehnder, y a <b>Neus García</b>, arquitecta del proyecto y especialista en arquitectura tradicional.</p>
-					<p>Y, cómo no, a los responsables de la implementación, instalación y programación <b>Gabriel Amengual</b> y <b>Alberto García</b> de Instal 3.0, a <b>Roselló e Hijos</b>, expertos en protecciones solares, <b>Biohaus Goierri</b>, distribuidor de materiales ecológicos, <b>Unicmall</b>, como fabricante y suministrador de productos de cal, <b>Laboratorios BlauQ</b>, por los ensayos realizados y <b>Jordi Ribas</b>, por sus trabajos de carpintería.</p>
+					<p>Es por ello que <span class="ecocreamos-logo-sm">EcoCreamos</span> quiere reconocer al equipo técnico que ha participado y asesorado en el proyecto, empezando por el arquitecto de la certificación, <b>Amarante Barambio</b>, el arquitecto técnico y especialista en bioconstrucción, <b>Joan Brunet</b>, el asesor energético <b>Miquel Arbona</b>, de Nord Arbona Piza, suministrador del sistema de ventilación Zehnder y sistema de climatización Panasonic y a <b>Neus García</b>, arquitecta del proyecto y especialista en arquitectura tradicional.</p>
+					<p>Y, cómo no, a los responsables de la implementación, instalación y programación <b>Gabriel Amengual</b> y <b>Alberto García</b> de Instal 3.0, a <b>Roselló e Hijos</b>, expertos en protecciones solares, <b>Biohaus Goierri</b>, distribuidor de materiales ecológicos, <b>Comercial Garcías</b>, suministrador de Husqvarna, <b>Unicmall</b>, como fabricante y suministrador de productos de cal, <b>Laboratorios BlauQ</b>, por los ensayos realizados y <b>Jordi Ribas</b>, por sus trabajos de carpintería.</p>
 				</div>
 			</div>
 			<div class="row">

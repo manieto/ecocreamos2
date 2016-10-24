@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Productos - Agua Viva"; ?>
+<?php $title       = "EcoCreamos - Productos - Agua Viva"; ?>
 <?php $description = "Productos - Agua Viva"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "agua_viva"; ?>

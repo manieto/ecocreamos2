@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Materiales - Lana"; ?>
+<?php $title       = "EcoCreamos - Materiales - Lana"; ?>
 <?php $description = "Fabricación y distribución de oveja de lana"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "lana"; ?>

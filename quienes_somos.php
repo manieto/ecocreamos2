@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Quiénes somos"; ?>
+<?php $title       = "EcoCreamos - Quiénes somos"; ?>
 <?php $description = "Somos una empresa de..."; ?>
 <?php $menu        = "quienes_somos"; ?>
 <?php include "header.php";?>

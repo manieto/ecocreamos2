@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Materiales - Ecoclay"; ?>
+<?php $title       = "EcoCreamos - Materiales - Ecoclay"; ?>
 <?php $description = "Productos de Ecoclay"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "ecoclay"; ?>

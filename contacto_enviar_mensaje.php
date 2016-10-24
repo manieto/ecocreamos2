@@ -17,7 +17,7 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 {
 	
 	$to      = $email_ecocreamos;
-	$subject = "Web Ecocreamos - Nuevo mensaje";
+	$subject = "Web EcoCreamos - Nuevo mensaje";
 	$message = "- Nombre: "   . $nombre . "\r\n" .
 						 "- E-mail: "   . $email . "\r\n" .
 						 "- Telefono: " . $telefono . "\r\n" . 
@@ -31,7 +31,7 @@ if ($nombre!=FALSE && $mensaje!=FALSE)
 	// Si lo solicita, le enviamos una copia
 	$enviado = "";
 	if ($enviado1 && $copia=="si" && $email!=FALSE)	{
-		$subject2 = "Web Ecocreamos - Mensaje enviado";
+		$subject2 = "Web EcoCreamos - Mensaje enviado";
 		$headers2 = "From: "         . $email_ecocreamos . "\r\n" .
 			          "Reply-To: "     . $email_ecocreamos . "\r\n" .
 			          "X-Mailer: PHP/" . \phpversion();

@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Productos - Pranan"; ?>
+<?php $title       = "EcoCreamos - Productos - Pranan"; ?>
 <?php $description = "Productos - Pranan"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "pranan"; ?>

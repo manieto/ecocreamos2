@@ -1,4 +1,4 @@
-<?php $title       = "Ecocreamos - Materiales - Naturhaus"; ?>
+<?php $title       = "EcoCreamos - Materiales - Naturhaus"; ?>
 <?php $description = "Productos de Naturhaus"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "naturhaus"; ?>

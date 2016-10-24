@@ -1,5 +1,5 @@
-<?php $title       = "Ecocreamos - Galería de imágenes"; ?>
-<?php $description = "Galería de imágenes de algunos proyectos de Ecocreamos"; ?>
+<?php $title       = "EcoCreamos - Galería de imágenes"; ?>
+<?php $description = "Galería de imágenes de algunos proyectos de EcoCreamos"; ?>
 <?php $menu        = "galeria"; ?>
 <?php $submenu     = "galeria"; ?>
 <?php $plugins     = "portfolio"; ?>
