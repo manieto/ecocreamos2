@@ -10,8 +10,6 @@
 	"portfolios": {
 		"proyecto_tierra": [
 			{ "src": "galerias/proyecto_tierra/001.jpg"},
-			{ "src": "galerias/proyecto_tierra/002.jpg"},
-			{ "src": "galerias/proyecto_tierra/003.jpg"},
 			{ "src": "galerias/proyecto_tierra/004.jpg"},
 			{ "src": "galerias/proyecto_tierra/005.jpg"},
 			{ "src": "galerias/proyecto_tierra/006.jpg"},
@@ -26,7 +24,6 @@
 			{ "src": "galerias/proyecto_tierra/015.jpg"},
 			{ "src": "galerias/proyecto_tierra/016.jpg"},
 			{ "src": "galerias/proyecto_tierra/017.jpg"},
-			{ "src": "galerias/proyecto_tierra/018.jpg"},
 			{ "src": "galerias/proyecto_tierra/019.jpg"},
 			{ "src": "galerias/proyecto_tierra/020.jpg"},
 			{ "src": "galerias/proyecto_tierra/021.jpg"},

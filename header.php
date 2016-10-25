@@ -107,16 +107,16 @@
 				<div class="collapse navbar-collapse navbar-responsive-collapse">
 					<div class="container">
 						<ul class="nav navbar-nav">
-							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php"><?= text("menu/bioconstruccion") ?></a></li>
-							<li class="dropdown-none <?php if ($menu=="passivhaus_bio"     ) { echo "active"; } ?>"><a href="passivhaus_bio.php"><?= text("menu/passivhaus_bio") ?></a></li>
-							<li class="dropdown-none <?php if ($menu=="servicios"          ) { echo "active"; } ?>"><a href="servicios.php"><?= text("menu/servicios") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="bioconstruccion"    ) { echo "active"; } ?>"><a href="bioconstruccion.php" alt="<?= text("menu/bioconstruccion") ?>"><?= text("menu/bioconstruccion") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="passivhaus_bio"     ) { echo "active"; } ?>"><a href="passivhaus_bio.php" alt="<?= text("menu/passivhaus_bio") ?>"><?= text("menu/passivhaus_bio") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="servicios"          ) { echo "active"; } ?>"><a href="servicios.php" alt="<?= text("menu/servicios") ?>"><?= text("menu/servicios") ?></a></li>
 							<li class="dropdown      <?php if ($menu=="materiales"         ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/materiales") ?></a>
 								<ul class="dropdown-menu">
 									<li <?php if ($submenu=="lana"        ) { echo "class=\"active\""; } ?>><a href="material_lana.php">Lana</a></li>
 									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho negro</a></li>
-									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">ecoclay</a></li>
-									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">pro clima</a></li>
+									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Ecoclay</a></li>
+									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">Pro clima</a></li>
 									<li <?php if ($submenu=="gutex"       ) { echo "class=\"active\""; } ?>><a href="material_gutex.php">Gutex</a></li>
 									<li <?php if ($submenu=="naturhaus"   ) { echo "class=\"active\""; } ?>><a href="material_naturhaus.php">Naturhaus</a></li>
 								</ul>
@@ -130,13 +130,13 @@
 								</ul>
 							</li>
 							<li class="dropdown      <?php if ($menu=="noticias"           ) { echo "active"; } ?>">
-								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/noticias") ?></a>
+								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" alt="<?= text("menu/noticias") ?>"><?= text("menu/noticias") ?></a>
 								<ul class="dropdown-menu">
-									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php">Noticias y eventos</a></li>
-									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php">Artículos en prensa</a></li>
+									<li <?php if ($submenu=="noticias" ) { echo "class=\"active\""; } ?>><a href="noticias.php" alt="Noticias y eventos">Noticias y eventos</a></li>
+									<li <?php if ($submenu=="articulos") { echo "class=\"active\""; } ?>><a href="articulos.php" alt="Artículos en prensa">Artículos en prensa</a></li>
 								</ul>
 							</li>
-							<li class="dropdown-none <?php if ($menu=="contacto"           ) { echo "active"; } ?>"><a href="contacto.php"><?= text("menu/contacto") ?></a></li>
+							<li class="dropdown-none <?php if ($menu=="contacto"           ) { echo "active"; } ?>"><a href="contacto.php" alt="<?= text("menu/contacto") ?>"><?= text("menu/contacto") ?></a></li>
 						</ul>
 					</div><!--/end container-->
 				</div><!--/navbar-collapse-->

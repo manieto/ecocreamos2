@@ -17,7 +17,7 @@
 		global $images;
 		$portfolio_list = $images["portfolio_list"];
 ?>
-		<!--=== Cube-Portfdlio ===-->
+		<!--=== Cube-Portfolio ===-->
 		<div class="cube-portfolio container margin-bottom-60">
 			<div class="content-xs">
 				<div id="filters-container" class="cbp-l-filters-text content-xs">
@@ -26,7 +26,7 @@
 			$activo = ($idDefault===$portfolio["id"]);
 			$clasePortfolio = ($activo)?"cbp-filter-item-active":"";
 ?>
-					<div data-filter=".<?=$portfolio["id"] ?>" class="<?=$clasePortfolio ?> cbp-filter-item"> <?=$portfolio["nombre"] ?> </div> |
+					<a href="?id=<?=$portfolio["id"] ?>"><div class="<?=$clasePortfolio ?> cbp-filter-item"> <?=$portfolio["nombre"] ?> </div></a> |
 <?php
 		}
 ?>
@@ -36,7 +36,7 @@
 <?php
 			foreach ($portfolio_list as $portfolio) {
 				$activo = ($idDefault===$portfolio["id"]);
-				image_displayPortfolio($portfolio["id"], $activo, FALSE);
+				if ($activo) { image_displayPortfolio($portfolio["id"], $activo, FALSE); }
 			}
 ?>
 			</div><!--/end Grid Container-->

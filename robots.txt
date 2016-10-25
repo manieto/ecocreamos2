@@ -1,7 +1,3 @@
 User-agent: *
-Disallow: /header.php
-Disallow: /footer.php
-Disallow: /text.php
-Disallow: /gallery.php
-Disallow: /carrousel.php
+Disallow: /404.php
 Sitemap: http://www.ecocreamos.com/sitemap.txt
