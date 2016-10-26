@@ -65,6 +65,9 @@
 <?php
 		foreach ($portfolio as $image) {
 			$src = $images["basedir"] . /* $id . "/" . */ $image["src"];
+			if (isset($image["thumb"])) { $thumb = $images["basedir"] . /* $id . "/" . */ $image["thumb"]; }
+			else                        { $thumb = $src; }
+			
 			$alt = $image["alt"];
 			$desc = $image["desc"];
 			$claseDisplay = ($display)?"":"cbp-item-off";
@@ -73,7 +76,7 @@
 					<div class="cbp-caption margin-bottom-20">
 						<div class="cbp-caption-defaultWrap">
 							<a href="<?=$src ?>" class="cbp-lightbox" data-title="<?=$alt ?>">
-							<img src="<?=$src ?>" alt="<?=$alt ?>">
+							<img src="<?=$thumb ?>" alt="<?=$alt ?>">
 							</a>
 						</div>
 					</div>
