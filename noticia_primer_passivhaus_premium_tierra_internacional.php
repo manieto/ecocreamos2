@@ -26,8 +26,8 @@
 							<li>Llucmajor</li>
 							<li>Octubre de 2016</li>
 						</ul>
-						<h2><a href="#">Primera Certificación de edificio <em>Passivhaus Premium</em> construida en tierra a nivel nacional e internacional</a></h2>
-						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de España <strong><em>Passivhaus Premium</em></strong>, siendo, a su vez, la primera vivienda unifamiliar aislada certificada a nivel internacional <strong><em>Passivhaus Premium</em></strong> construida con tierra, certificado emitido por el <a href="http://www.passivehouse.com/" target="_blank">Instituto Passivhaus alemán</a>.</p>
+						<h2>Primera Certificación de edificio <em>Passivhaus Premium</em> construida en tierra a nivel nacional e internacional</h2>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de España <strong><em><a href="http://passivehouse-database.org/index.php?lang=en#d_4717" target="_blank">Passivhaus Premium</a></em></strong>, siendo, a su vez, la primera vivienda unifamiliar aislada certificada a nivel internacional <strong><em><a href="http://passivehouse-database.org/index.php?lang=en#d_4717" target="_blank">Passivhaus Premium</a></em></strong> construida con tierra, certificado emitido por el <a href="http://www.passivehouse.com/" target="_blank">Instituto Passivhaus alemán</a>.</p>
 						<p>Además de los más estrictos controles sobre eficiencia energética y aislamiento propios de los edificios de consumo casi nulo, <em>Proyecto Tierra</em> es un proyecto realizado con criterios de bioconstrucción, sostenible y cuidado del medio ambiente. Siendo así, que ha sido la primera vivienda Certificada, realizada con BTC (bloque de tierra compactada), con tierra del mismo solar que se ha construido en España.</p>
 					</div>
 				</div>

@@ -37,7 +37,7 @@
 					<div class="news-v3-in-sm no-padding">
 						<h2><a href="#">Proyecto Tierra</a></h2>
 						<p>Es el resultado de varios años de trabajo que reúne en sí mismo un ejemplo de vivienda singular en la que se demuestra que un proyecto ecológico, sostenible, con la mayor eficiencia energética y económicamente viable, es posible.</p>
-						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también <strong>la primera a nivel nacional e internacional</strong> en obtener la calificación <strong><em>Premium</em></strong> construida en tierra.</p>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ha conseguido que el “Proyecto Tierra” sea la primera vivienda certificada Passivhaus de las Islas Baleares, siendo también <strong>la primera a nivel nacional e internacional</strong> en obtener la calificación <strong><em><a href="http://passivehouse-database.org/index.php?lang=en#d_4717" target="_blank">Premium</a></em></strong> construida en tierra.</p>
 					</div>
 				</div>
 			</div>
@@ -63,7 +63,7 @@
 						<p class="text-align-left">
 							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Galería de imágenes</a>
 							<a href="galeria.php?id=proyecto_tierra_dossier" class="btn-u btn-u-large">Dossier</a>
-							<a href="noticia_primer_passivhaus_illes_balears.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
+							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
 							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
 							<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
 						</p>
