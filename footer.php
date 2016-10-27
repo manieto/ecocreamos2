@@ -77,13 +77,14 @@
 	</div><!--/wrapper-->
 
 	<!-- JS Global Compulsory -->
-	<script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
+	<!--<script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/jquery/jquery-migrate.min.js"></script>
-	<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>-->
 	<!-- JS Implementing Plugins -->
-	<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+	<!--<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
 	<script type="text/javascript" src="assets/plugins/smoothScroll.js"></script>
-	<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>-->
+	<script type="text/javascript" src="dist/ecocreamos-basic-1.js"></script>
 
 	<?php   if (includePlugin($plugins, "slider")) { ?>
 		<script type="text/javascript" src="assets/plugins/layer-slider/layerslider/js/greensock.js"></script>
@@ -98,8 +99,6 @@
 	<?php } if (includePlugin($plugins, "portfolio")) { ?>
 		<script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 	<?php } ?>
-	<!-- JS Customization -->
-	<script type="text/javascript" src="assets/js/custom.js"></script>
 	<!-- JS Page Level -->
 	<script type="text/javascript" src="assets/js/app.js"></script>
 	<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
