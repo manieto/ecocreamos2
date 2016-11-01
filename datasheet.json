@@ -93,6 +93,13 @@
 	],
 	
 	"articulos": [
+		{ "src": "articulos/diariodemallorca20161029.jpg",
+			"alt": "Una casa nacida de la tierra",
+			"title": "Una casa nacida de la tierra",
+			"link": "assets/pdf/articulos/diariodemallorca20161029.pdf",
+			"extra1": "Diario de Mallorca",
+			"extra2": "29 de octubre de 2016"
+		},
 		{ "src": "articulos/ecohabitar43.jpg",
 			"alt": "Rehabilitación ecológica pasiva en Mallorca",
 			"title": "Rehabilitación ecológica pasiva en Mallorca",

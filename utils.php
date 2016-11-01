@@ -48,11 +48,7 @@ function includePlugin($plugins, $id) {
 						<?php if (isset($description2)) { ?><p class="text-align-left"><?=$description2 ?></p><?php } ?>
 						<?php if (isset($extra1) or isset($extra2) or isset($extra3)) { ?>
 						<ul class="list-inline news-v1-info">
-							<li><span><?=$extra1 ?></span></li>
-							<?php if (isset($extra2)) { ?><li>|</li>
-							<li><i class="fa fa-clock-o"></i>&nbsp;&nbsp;<?=$extra2 ?></li><?php } ?>
-							<?php if (isset($extra3)) { ?><li>|</li>
-							<li><?=$extra3 ?></li><?php } ?>
+							<li><span><?=$extra1 ?></span></li><?php if (isset($extra2)) { ?><li>|</li><li><!--<i class="fa fa-clock-o"></i>&nbsp;&nbsp;--><?=$extra2 ?></li><?php } ?><?php if (isset($extra3)) { ?><li>|</li><li><?=$extra3 ?></li><?php } ?>
 						</ul>
 						<?php } else { ?>
 						<div class="padding-top-5"></div>

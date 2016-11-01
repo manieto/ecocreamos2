@@ -112,6 +112,7 @@
 			{ "src": "sliders/inicio/logo_ecocreamos.jpg"  , "alt": "Logo de EcoCreamos"},
 			{ "src": "sliders/inicio/mancor_de_la_vall.jpg", "alt": "Mancor de la vall"},
 			{ "src": "sliders/inicio/proyecto_tierra2.jpg" , "alt": "Proyecto Tierra"},
+			{ "src": "sliders/inicio/placa_passivhaus.jpg" , "alt": "Placa Passivhaus para Proyecto Tierra"},
 			{ "src": "sliders/inicio/btc.jpg"              , "alt": "Bloques de tierra compactada"}
 		],
 		"tierra": [
