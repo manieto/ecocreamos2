@@ -35,7 +35,8 @@
 			{ "src": "galerias/proyecto_tierra/027.jpg", "thumb": "galerias/proyecto_tierra/thumbs/027.jpg"},
 			{ "src": "galerias/proyecto_tierra/028.jpg", "thumb": "galerias/proyecto_tierra/thumbs/028.jpg"},
 			{ "src": "galerias/proyecto_tierra/029.jpg", "thumb": "galerias/proyecto_tierra/thumbs/029.jpg"},
-			{ "src": "galerias/proyecto_tierra/030.jpg", "thumb": "galerias/proyecto_tierra/thumbs/030.jpg"}
+			{ "src": "galerias/proyecto_tierra/030.jpg", "thumb": "galerias/proyecto_tierra/thumbs/030.jpg"},
+			{ "src": "galerias/proyecto_tierra/031.jpg", "thumb": "galerias/proyecto_tierra/thumbs/031.jpg"}
 		],
 		"proyecto_tierra_dossier": [
 			{ "src": "galerias/proyecto_tierra_dossier/00_portada_principal.jpg"								, "thumb": "galerias/proyecto_tierra_dossier/thumbs/00_portada_principal.jpg"},
