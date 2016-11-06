@@ -93,12 +93,21 @@
 	],
 	
 	"articulos": [
+		{ "src": "articulos/mallorcazeitung20161103.jpg",
+			"alt": "Lehm, Luft und Sonne reichen aus",
+			"title": "Lehm, Luft und Sonne reichen aus",
+			"link": "assets/pdf/articulos/mallorcazeitung20161103.pdf",
+			"extra1": "Mallorca Zeitung",
+			"extra2": "3 de noviembre de 2016",
+			"extra3": "<a href='http://www.mallorcazeitung.es/immobilien/2016/11/05/passivhaus-premiere-mallorca-lehm-luft/46985.html' target='_blank' style='color:blue;'>Ver en web</a>"
+		},
 		{ "src": "articulos/diariodemallorca20161029.jpg",
 			"alt": "Una casa nacida de la tierra",
 			"title": "Una casa nacida de la tierra",
 			"link": "assets/pdf/articulos/diariodemallorca20161029.pdf",
 			"extra1": "Diario de Mallorca",
-			"extra2": "29 de octubre de 2016"
+			"extra2": "29 de octubre de 2016",
+			"extra3": "<a href='http://www.diariodemallorca.es/part-forana/2016/10/29/casa-nacida-tierra/1161271.html' target='_blank' style='color:blue;'>Ver en web</a>"
 		},
 		{ "src": "articulos/ecohabitar43.jpg",
 			"alt": "Rehabilitación ecológica pasiva en Mallorca",
