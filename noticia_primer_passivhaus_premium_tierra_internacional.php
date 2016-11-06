@@ -47,10 +47,11 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6 col-lg-5 col-lg-offset-1 sm-margin-bottom-20">
-					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" target="_blank" class="btn-u btn-u-large">Artículo técnico</a>
+				<div class="col-sm-12 col-lg-offset-1 sm-margin-bottom-20 text-align-left">
+					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
 					<a href="passivhaus_bio.php" class="btn-u btn-u-large">Ficha del proyecto</a>
-					<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
+					<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large">Certificación</a>
+					<a href="https://www.youtube.com/watch?v=TIgZK5qWQTk?cc_load_policy=1&cc_lang_pref=es" class="btn-u btn-u-large" target="_blank"><i class="fa fa-television"></i> Reportaje en IB3 TV</a>
 				</div>
 			</div>
 		</div>

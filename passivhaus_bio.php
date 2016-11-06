@@ -42,26 +42,38 @@
 				</div>
 			</div>
 			<div class="row padding-top-20">
-				<div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-1 news-v3">
+				<div class="col-sm-12 col-lg-10 col-lg-offset-1 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<h4>Características principales</h4>
-						<p>Diseño del proyecto por la arquitecta Neus García Iñesta, especialista en construcción vernacular, en el que conjuga un diseño típico de la zona con proporciones de geometría natural y bioclimática.</p>
-						<p>Siendo su principal característica como bien indica su nombre la estructura, realizada con tierra, bloque BTC (bloque de tierra comprimida) proveniente de la misma finca. Envolvente realizada con láminas <a href="material_pro_clima.php">Proclima</a> y aislamiento de madera <a href="material_gutex.php">Gutex</a>, revestimiento con mortero de cal en el exterior y mortero de barro en el interior.</p>
-						<p>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</p>
-						<p>Tratamiento de aguas grises, aprovechamiento de pluviales y sistema de ecológico de tratamiento de agua para piscina.</p>
+						<ul class="list-unstyled who padding-left-30">
+							<li><i class="fa fa-check"></i>Diseño del proyecto por la arquitecta Neus García Iñesta, especialista en construcción vernacular, en el que conjuga un diseño típico de la zona con proporciones de geometría natural y bioclimática.</li>
+							<li><i class="fa fa-check"></i>Siendo su principal característica como bien indica su nombre la estructura, realizada con tierra, bloque BTC (bloque de tierra comprimida) proveniente de la misma finca. Envolvente realizada con láminas <a href="material_pro_clima.php">Proclima</a> y aislamiento de madera <a href="material_gutex.php">Gutex</a>, revestimiento con mortero de cal en el exterior y mortero de barro en el interior.</li>
+							<li><i class="fa fa-check"></i>Vivienda autosuficiente energéticamente mediante energía solar, complementada con tecnología domótica para la optimización de la demanda energética y control de los diferentes procesos climáticos que inciden en la vivienda. Además de un sistema de recuperación de aire <a href="http://www.zehnder.es/" target="_blank">Zendher</a> combinado con un pozo canadiense.</li>
+							<li><i class="fa fa-check"></i>Tratamiento de aguas grises, aprovechamiento de pluviales y sistema de ecológico de tratamiento de agua para piscina.</li>
+						</ul>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 margin-top-20 sm-margin-bottom-20">
+			</div>
+			<div class="row padding-top-20 row padding-bottom-20">
+				<div class="col-sm-7 col-lg-6 col-lg-offset-1 news-v3">
+					<div class="news-v3-in-sm no-padding">
+						<div class="responsive-video">
+							<iframe width="100%" src="https://www.youtube.com/embed/TIgZK5qWQTk?cc_load_policy=1&cc_lang_pref=es" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+					<div><p class="padding-top-10"><em>Reportaje en IB3 Notícies Vespre (1 de noviembre de 2016)</em></p></div>
+				</div>
+				<div class="col-sm-5 col-lg-4">
 					<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank">
 						<img src="assets/img/logos/passivhaus_premium_certificado_mediano.jpg" alt="Proyecto Tierra - Certificación Passivhaus Premium" class="img-responsive" />
 					</a>
 				</div>
 			</div>
-			<div class="row padding-top-20 padding-bottom-20">
+			<div class="row padding-bottom-20">
 				<div class="col-sm-12 col-lg-10 col-lg-offset-1 news-v3">
 					<div class="news-v3-in-sm no-padding">
 						<p class="text-align-left">
-							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large">Galería de imágenes</a>
+							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large margin-bottom-5">Galería de imágenes</a>
 							<a href="galeria.php?id=proyecto_tierra_dossier" class="btn-u btn-u-large">Dossier</a>
 							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
 							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
@@ -70,7 +82,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row padding-top-20">
 				<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1 sm-margin-bottom-20">
 					<?php image_displayCarousel("mancor_de_la_vall"); ?>
 				</div>

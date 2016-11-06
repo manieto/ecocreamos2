@@ -50,17 +50,17 @@
 			<div class="row">
 				<div class="col-md-6 padding-bottom-40 padding-left-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/jm-2Wp9F2ps&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/jm-2Wp9F2ps" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-md-6 padding-bottom-40 padding-left-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/MBePQIotjuM&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/MBePQIotjuM" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-md-6 padding-bottom-40 padding-left-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/t7RmJr1LyWY&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/t7RmJr1LyWY" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>

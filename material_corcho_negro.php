@@ -64,7 +64,7 @@
 				</div>
 				<div class="col-md-6 padding-bottom-20 padding-left-30 padding-right-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/oXdumRapcC0?cc_load_policy=1&cc_lang_pref=en&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/oXdumRapcC0?cc_load_policy=1&cc_lang_pref=en" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>

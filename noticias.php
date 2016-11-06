@@ -31,9 +31,10 @@
 						</ul>
 						<h2><a href="noticia_primer_passivhaus_premium_tierra_internacional.php">Primera Certificación de edificio <em>Passivhaus Premium</em> construida en tierra a nivel nacional e internacional</a></h2>
 						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se honra en comunicar que el <em>Proyecto Tierra</em> ha obtenido la primera Certificación de España <strong><em><a href="http://passivehouse-database.org/index.php?lang=en#d_4717" target="_blank">Passivhaus Premium</a></em></strong>, siendo, a su vez, la primera vivienda unifamiliar aislada certificada a nivel internacional <strong><em><a href="http://passivehouse-database.org/index.php?lang=en#d_4717" target="_blank">Passivhaus Premium</a></em></strong> construida con tierra, certificado emitido por el <a href="http://www.passivehouse.com/" target="_blank">Instituto Passivhaus alemán</a>.</p>
-						<p>
-							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large">Noticia completa</a>
+						<p class="text-align-left">
+							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large margin-bottom-5">Noticia completa</a>
 							<a href="passivhaus_bio.php" class="btn-u btn-u-large">Ficha del proyecto</a>
+							<a href="https://www.youtube.com/watch?v=TIgZK5qWQTk?cc_load_policy=1&cc_lang_pref=es" class="btn-u btn-u-large" target="_blank"><i class="fa fa-television"></i> Reportaje en IB3 TV</a>
 						</p>
 					</div>
 				</div>

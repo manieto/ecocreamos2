@@ -54,12 +54,12 @@
 			<div class="row">
 				<div class="col-md-6 padding-bottom-40 padding-left-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/skoIcOXWuNs?cc_load_policy=1&cc_lang_pref=en&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/skoIcOXWuNs?cc_load_policy=1&cc_lang_pref=en" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-md-6 padding-bottom-40 padding-left-30">
 					<div class="responsive-video">
-						<iframe width="100%" src="https://www.youtube.com/embed/aTdJYcXiTdI?cc_load_policy=1&cc_lang_pref=en&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" src="https://www.youtube.com/embed/aTdJYcXiTdI?cc_load_policy=1&cc_lang_pref=en" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
