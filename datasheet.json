@@ -93,6 +93,14 @@
 	],
 	
 	"articulos": [
+		{ "src": "articulos/granempresa115.jpg",
+			"alt": "Proyecto Tierra, un ejemplo de eficiencia a nivel mundial",
+			"title": "Proyecto Tierra, un ejemplo de eficiencia a nivel mundial",
+			"link": "assets/pdf/articulos/granempresa115.pdf",
+			"extra1": "Gran empresa nº 115",
+			"extra2": "Noviembre de 2016",
+			"extra3": "Pág. 16"
+		},
 		{ "src": "articulos/mallorcazeitung20161103.jpg",
 			"alt": "Lehm, Luft und Sonne reichen aus",
 			"title": "Lehm, Luft und Sonne reichen aus",
