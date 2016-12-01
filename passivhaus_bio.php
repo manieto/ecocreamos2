@@ -74,10 +74,11 @@
 					<div class="news-v3-in-sm no-padding">
 						<p class="text-align-left">
 							<a href="galeria.php?id=proyecto_tierra" class="btn-u btn-u-large margin-bottom-5">Galería de imágenes</a>
-							<a href="galeria.php?id=proyecto_tierra_dossier" class="btn-u btn-u-large">Dossier</a>
+							<a href="galeria.php?id=proyecto_tierra_dossier" class="btn-u btn-u-large margin-bottom-5">Dossier</a>
 							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large margin-bottom-5">Noticia</a>
 							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
 							<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
+                                                        <a href="https://www.youtube.com/channel/UCPe4N8330B4l2WlJHlLXnGQ" class="btn-u btn-u-large margin-bottom-5" target="_blank"><i class="fa fa-television"></i> Canal en YouTube</a>
 						</p>
 					</div>
 				</div>
