@@ -34,7 +34,7 @@
 						<p class="text-align-left">
 							<a href="noticia_primer_passivhaus_premium_tierra_internacional.php" class="btn-u btn-u-large margin-bottom-5">Noticia completa</a>
 							<a href="passivhaus_bio.php" class="btn-u btn-u-large">Ficha del proyecto</a>
-							<a href="https://www.youtube.com/watch?v=TIgZK5qWQTk?cc_load_policy=1&cc_lang_pref=es" class="btn-u btn-u-large" target="_blank"><i class="fa fa-television"></i> Reportaje en IB3 TV</a>
+							<a href="https://www.youtube.com/watch?v=2eoopb3oQv0?cc_load_policy=1&cc_lang_pref=es" class="btn-u btn-u-large" target="_blank"><i class="fa fa-television"></i> Reportaje en IB3 TV</a>
 						</p>
 					</div>
 				</div>
