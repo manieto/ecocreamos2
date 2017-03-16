@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Contacto"; ?>
 <?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Gremi de Tintorers, 18 , formulario de contacto."; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Contacto"; ?>
 <?php $menu        = "contacto"; ?>
 <?php $plugins     = "maps"; ?>
 <?php include "header.php";?>

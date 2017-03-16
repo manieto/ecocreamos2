@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Galería de imágenes"; ?>
 <?php $description = "Galería de imágenes de algunos proyectos de EcoCreamos"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Galería de imágenes"; ?>
 <?php $menu        = "galeria"; ?>
 <?php $submenu     = "galeria"; ?>
 <?php $plugins     = "portfolio"; ?>

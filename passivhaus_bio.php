@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Proyectos Passivhaus-Bio"; ?>
 <?php $description = "Proyectos Passivhaus-Bio de obra nueva y de rehabilitación"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Passivhaus, Passivhaus-Bio"; ?>
 <?php $menu        = "passivhaus_bio"; ?>
 <?php $plugins     = "carousel"; ?>
 <?php include "header.php";?>
@@ -79,6 +80,7 @@
 							<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" alt="Proyecto Tierra - Artículo técnico" target="_blank" class="btn-u btn-u-large margin-bottom-5">Artículo técnico</a>
 							<a href="assets/pdf/proyecto_tierra/certificacion_passivhaus_premium.pdf" alt="Proyecto Tierra - Certificación Passivhaus Premium" target="_blank" class="btn-u btn-u-large margin-bottom-5">Certificación</a>
                                                         <a href="https://www.youtube.com/channel/UCPe4N8330B4l2WlJHlLXnGQ" class="btn-u btn-u-large margin-bottom-5" target="_blank"><i class="fa fa-television"></i> Canal en YouTube</a>
+                                                        <a href="http://www.plataforma-pep.org/noticias/723-primera-certificacion-de-edificio-passivhaus-premium-construido-en-tierra-a-nivel-nacional-e-internacional" target="_blank" class="btn-u btn-u-large margin-bottom-5">Nota de prensa en PEP</a>
 						</p>
 					</div>
 				</div>

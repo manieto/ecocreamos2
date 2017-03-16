@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Materiales - Naturhaus"; ?>
 <?php $description = "Productos de Naturhaus"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Naturhaus"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "naturhaus"; ?>
 <?php include "header.php";?>

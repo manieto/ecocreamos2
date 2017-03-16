@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Materiales - Corcho negro"; ?>
 <?php $description = "Productos de Amorim Isolamentos"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Corcho negro, Amorim"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "corcho_negro"; ?>
 <?php include "header.php";?>

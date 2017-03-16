@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Productos - Biomasa: Lacunza"; ?>
 <?php $description = "Productos - Biomasa: Lacunza"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Biomasa, Lacunza"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "biomasa"; ?>
 <?php include "header.php";?>

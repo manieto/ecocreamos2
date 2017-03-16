@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Productos - Agua Viva"; ?>
 <?php $description = "Productos - Agua Viva"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Agua Viva"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "agua_viva"; ?>
 <?php include "header.php";?>

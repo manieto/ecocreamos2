@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Artículos en prensa"; ?>
 <?php $description = "Artículos en prensa publicados por, o en relación a, EcoCreamos"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Artículos"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "articulos"; ?>
 <?php include "header.php";?>

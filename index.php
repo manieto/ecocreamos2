@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos"; ?>
 <?php $description = "Empresa constructora y promotora fundada en 1997 y orientada al asesoramiento en bioconstrucción y materiales ecológicos"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Casa biopasiva, Proyecto Passivhaus ecológico, Gestor biopasivo, Gestor de proyectos biopasivo, Bioconstrucción"; ?>
 <?php $menu        = "inicio"; ?>
 <?php $plugins     = "slider"; ?>
 <?php include "header.php"; ?>
@@ -13,7 +14,7 @@
 	"legalName": "EcoCreamos",
 	"isicV4": "410", // Page 52 in http://www.bundesbank.de/Redaktion/EN/Downloads/Service/Meldewesen/Bankenstatistik/Kundensystematik/isic_rev_4.pdf?__blob=publicationFile
 	"url": "http://www.ecocreamos.com",
-	"description": "Empresa de promoción, construcción bioecológica, asesoramiento,...",
+	"description": "Empresa de asesoramiento, construcción y promoción de bioconstrucción y casa sana pasiva; con la primera certificación Passivhaus de las Islas Baleares y la primera a nivel nacional e internacional en obtener la calificación Premium construida en tierra.",
 	"logo": "http://www.ecocreamos.com/assets/img/ecocreamos_logo.jpg",
 	"member": [{
 		"@type": "Person",
@@ -63,7 +64,7 @@
 			<div class="row margin-bottom-40">
 				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
 					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es una empresa constructora y promotora fundada en 1997, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva y distribución de materiales ecológicos.</p>
-					<p>Con la experiencia adquirida en estos casi 20 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
+					<p>Con la experiencia adquirida en estos 20 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
 					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia práctica que nos permite garantizar su correcta utilización en cualquier solución constructiva.</p>
 				</div>
 

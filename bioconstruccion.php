@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Bioconstrucción"; ?>
 <?php $description = "Bioconstrucción"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Bioconstrucción, Proyecto Tierra"; ?>
 <?php $menu        = "bioconstruccion"; ?>
 <?php include "header.php";?>
 

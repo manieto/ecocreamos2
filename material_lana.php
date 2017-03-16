@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Materiales - Lana"; ?>
 <?php $description = "Fabricación y distribución de oveja de lana"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Lana de oveja"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "lana"; ?>
 <?php include "header.php";?>

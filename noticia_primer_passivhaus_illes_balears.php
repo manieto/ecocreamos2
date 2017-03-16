@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Noticias - Primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
 <?php $description = "Proyecto Tierra es la primera vivienda con Certificación Passivhaus en las Illes Balears"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Passivhaus, Passivhaus"; ?>
 <?php $menu        = "noticias"; ?>
 <?php $submenu     = "noticias"; ?>
 <?php include "header.php";?>
@@ -47,7 +48,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-5 col-lg-offset-1 sm-margin-bottom-20">
 					<a href="assets/pdf/proyecto_tierra/articulo_tecnico.pdf" target="_blank" class="btn-u btn-u-large">Artículo técnico</a>
-					<a href="passivhaus_bio.php" class="btn-u btn-u-large">Ficha del proyecto</a>
+					<a href="passivhaus_bio.php" class="btn-u btn-u-large">Passivhaus-Bio</a>
 				</div>
 			</div>
 		</div>

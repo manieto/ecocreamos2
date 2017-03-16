@@ -1,5 +1,6 @@
 <?php $title       = "Error 404 - Página no encontrada"; ?>
 <?php $description = "Error 404 - Página no encontrada"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva"; ?>
 <?php $menu        = "404"; ?>
 <?php $submenu     = "404"; ?>
 <?php include "header.php";?>

@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Productos - Pranan"; ?>
 <?php $description = "Productos - Pranan"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Pranan"; ?>
 <?php $menu        = "productos"; ?>
 <?php $submenu     = "pranan"; ?>
 <?php include "header.php";?>

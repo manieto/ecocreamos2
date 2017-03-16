@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Servicios"; ?>
 <?php $description = "Catálogo de servicios ofrecidos por EcoCreamos"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Asesoramiento, Gestión, Instalación, Promoción, Construcción"; ?>
 <?php $menu        = "servicios"; ?>
 <?php include "header.php";?>
 

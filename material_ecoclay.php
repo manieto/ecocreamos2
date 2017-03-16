@@ -1,5 +1,6 @@
 <?php $title       = "EcoCreamos - Materiales - Ecoclay"; ?>
 <?php $description = "Productos de Ecoclay"; ?>
+<?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Ecoclay"; ?>
 <?php $menu        = "materiales"; ?>
 <?php $submenu     = "ecoclay"; ?>
 <?php include "header.php";?>
