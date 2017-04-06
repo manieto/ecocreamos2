@@ -93,6 +93,14 @@
 	],
 	
 	"articulos": [
+		{ "src": "articulos/ultimahora20161127.jpg",
+			"alt": "El consumo de las casas, asignatura suspensa",
+			"title": "El consumo de las casas, asignatura suspensa",
+			"link": "assets/pdf/articulos/ultimahora20161127.pdf",
+			"extra1": "Última Hora",
+			"extra2": "27 de noviembre de 2016",
+			"extra3": "Pág. 2 (A)"
+		},
 		{ "src": "articulos/granempresa115.jpg",
 			"alt": "Proyecto Tierra, un ejemplo de eficiencia a nivel mundial",
 			"title": "Proyecto Tierra, un ejemplo de eficiencia a nivel mundial",
@@ -102,8 +110,8 @@
 			"extra3": "Pág. 16"
 		},
 		{ "src": "articulos/mallorcazeitung20161103.jpg",
-			"alt": "Lehm, Luft und Sonne reichen aus",
-			"title": "Lehm, Luft und Sonne reichen aus",
+			"alt": "Tierra, aire y sol son suficientes",
+			"title": "Tierra, aire y sol son suficientes",
 			"link": "assets/pdf/articulos/mallorcazeitung20161103.pdf",
 			"extra1": "Mallorca Zeitung",
 			"extra2": "3 de noviembre de 2016",
