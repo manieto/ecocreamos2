@@ -1,5 +1,5 @@
 <?php $title       = "EcoCreamos - Contacto"; ?>
-<?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Gremi de Tintorers, 18 , formulario de contacto."; ?>
+<?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Celleters, 30, polígono de Marratxí, 07141 , formulario de contacto."; ?>
 <?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Contacto"; ?>
 <?php $menu        = "contacto"; ?>
 <?php $plugins     = "maps"; ?>
@@ -72,7 +72,9 @@
 			<div class="row margin-bottom-30">
 				<div class="col-md-9">
 					<!-- Google Map -->
-					<div id="map" class="map map-box map-box-space margin-bottom-20"></div>
+					<!--<div id="map" class="map map-box map-box-space margin-bottom-20"></div>-->
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.2216953808847!2d2.7182737153719057!3d39.622211879465304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297eb3459baaa09%3A0x757d8c1777deabc6!2sCarrer+Celleters%2C+30%2C+07141+Marratx%C3%AD%2C+Illes+Balears!5e0!3m2!1ses!2ses!4v1537299304950"
+					        width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 					<!-- End Google Map -->
 				</div><!--/col-md-9-->
 
@@ -82,7 +84,7 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-12">
 								<ul class="list-unstyled who">
-									<li><a href="https://www.google.es/maps/place/Carrer+Gremi+de+Tintorers,+18,+07009+Palma,+Illes+Balears" target="_blank"><i class="fa fa-home"></i>Gremi de Tintorers, 18<br><span style="padding-left: 24px;">Palma, Illes Balears</span></a></li>
+									<li><a href="https://www.google.es/maps/place/Carrer+Celleters,+30,+07141+Marratxí,+07141,+Illes+Balears" target="_blank"><i class="fa fa-home"></i>Celleters, 30<br><span style="padding-left: 24px;">Polígon de Marratxí, Illes Balears</span></a></li>
 									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
 									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
 								</ul>

@@ -24,8 +24,8 @@
 	"address": [{
 		"addressCountry" : "ES",
 		"addressRegion" : "Illes Balears",
-		"postalCode" : "07009",
-		"streetAddress" : "Gremi de Tintorers, 18"
+		"postalCode" : "07141",
+		"streetAddress" : "Celleters, 30"
 	}],
   "contactPoint": [{
     "@type" : "ContactPoint",

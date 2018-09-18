@@ -8,13 +8,13 @@ var ContactPage = function () {
 				map = new GMaps({
 					div: '#map',
 					scrollwheel: true,
-					lat: 39.6084056,
-					lng: 2.672692
+					lat: 39.6222119,
+					lng: 2.7182737
 				});
 
 				var marker = map.addMarker({
-					lat: 39.6084056,
-					lng: 2.672692,
+					lat: 39.6222119,
+					lng: 2.7182737,
 					title: "EcoCreamos"
 				});
 			});
@@ -25,8 +25,8 @@ var ContactPage = function () {
 			$(document).ready(function () {
 				panorama = GMaps.createPanorama({
 					el: '#panorama',
-					lat: 39.6084056,
-					lng: 2.672692
+					lat: 39.6222119,
+					lng: 2.7182737
 				});
 			});
 		}

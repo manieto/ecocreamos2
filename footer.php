@@ -40,8 +40,8 @@
 							<!-- Contact Us -->
 							<div class="headline"><h2>Contacte con nosotros</h2></div>
 							<address class="md-margin-bottom-40">
-								Gremi de Tintorers, 18 <a href="https://www.google.es/maps/place/Carrer+Gremi+de+Tintorers,+18,+07009+Palma,+Illes+Balears" target="_blank" class="">(ver mapa)</a><br />
-								Palma, Illes Balears<br />
+								Celleters, 30 <a href="https://www.google.es/maps/place/Carrer+Celleters,+30,+07141+Marratxí,+07141,+Illes+Balears" target="_blank" class="">(ver mapa)</a><br />
+								Polígon de Marratxí, Illes Balears<br />
 								Tel: <a href="tel:+34629118619">629 11 86 19</a><br />
 								Email: <a href="mailto:info@ecocreamos.com" class="">info@ecocreamos.com</a>
 							</address>
