@@ -23,11 +23,11 @@
 					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece una amplia gama de servicios especializados en construcciones ecológicas y biopasivas:</p>
 					<p>
 						<ul class="list-unstyled who">
-							<li><i class="fa fa-check"></i>Asesoramiento de construcciones pasivas
+							<li><i class="fa fa-check"></i><strong>Asesoramiento de construcciones pasivas</strong>
 								<p class="padding-left-40">Desde el año 2010, llevamos realizando proyectos con el estándar <em><strong>Passivhaus</strong></em> en obra nueva y rehabilitación, registrados como como viviendas pasivas en la Plataforma Passivhaus España.</p>
 								<p class="padding-left-40">Contamos con una amplia experiencia para dar solución a los problemas habituales en los procesos de construcción con el estándar <em><strong>Passivhaus</strong></em>.</p>
 							</li>
-							<li><i class="fa fa-check"></i>Asesoramiento en hermeticidad de edificios
+							<li><i class="fa fa-check"></i><strong>Asesoramiento en hermeticidad de edificios</strong>
 							<ul>
 								<li>Aplicación de los productos Proclima</li>
 								<li>Soluciones constructivas para la hermeticidad</li>
@@ -35,7 +35,7 @@
 								<li>Gestión prueba de hermeticidad Blowerdoor</li>
 							</ul>
 							</li>
-							<li><i class="fa fa-check"></i>Asesoramiento en envolvente térmica</li>
+							<li><i class="fa fa-check"></i><strong>Asesoramiento en envolvente térmica</strong>
 							<ul>
 								<li>Aplicación de los productos Gutex</li>
 								<li>Aplicación de los productos Amorim</li>
@@ -43,7 +43,7 @@
 								<li>Seguimiento de las diferentes aplicaciones de los productos</li>
 							</ul>
 							</li>
-							<li><i class="fa fa-check"></i>Gestión y asesoramiento en la aplicación de técnicas para la bioconstrucción
+							<li><i class="fa fa-check"></i><strong>Gestión y asesoramiento en la aplicación de técnicas para la bioconstrucción</strong>
 							<ul>
 								<li>Construcción en BTC</li>
 								<li>Construcción en tapial</li>
@@ -53,7 +53,7 @@
 								<li>Tratamiento de la madera</li>
 							</ul>
 							</li>
-							<li><i class="fa fa-check"></i>Gestión de instalaciones de Biomasa
+							<li><i class="fa fa-check"></i><strong>Gestión de instalaciones de Biomasa</strong>
 							<ul>
 								<li>Instalaciones biomasa leña</li>
 								<li>Instalaciones biomasa pellet y otros</li>

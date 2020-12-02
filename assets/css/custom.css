@@ -174,6 +174,13 @@ input[type="checkbox"], input[type="radio"] {
 	/*text-transform: none;*/
 }
 
+.header .navbar-nav .seccion {
+	color: #5d4f3c;
+	padding: 6px 15px 6px 15px;
+	background-color: #e1dad0;
+	/*text-transform: none;*/
+}
+
 /*.header .navbar-nav .open .dropdown-menu > li > a {
   color: #7d684f;
 }*/

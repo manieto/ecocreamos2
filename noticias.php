@@ -22,7 +22,31 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-6 sm-margin-bottom-20">
-					<img class="img-responsive" src="assets/img/noticias/proyecto_tierra2.jpg" alt="">
+					<img class="img-responsive" src="assets/img/noticias/abtecir_2019.jpg" alt="II Congreso de Edificios de Consumo de Energía Casi Nulo">
+				</div>
+				<div class="col-md-6 col-lg-5 news-v3">
+					<div class="news-v3-in-sm no-padding">
+						<ul class="list-inline posted-info">
+							<li>Campus UIB (Palma)</li>
+							<li>Mayo de 2019</li>
+						</ul>
+						<h2>II Congreso de Edificios de Consumo de Energía Casi Nulo</h2>
+						<p><span class="ecocreamos-logo-sm">EcoCreamos</span> participa en el <a href="https://www.abtecir.org/esdeveniments/esdeveniments-abtecir/298-ii-congreso-edificios-de-consumo-de-energ%C3%ADa-casi-nulo-de-la-rehabilitaci%C3%B3n-a-la-obra-nueva.html" target="_blank">II Congreso de Edificios de Consumo de Energía Casi Nulo: De la rehabilitación a la obra nueva</a>, del 9 y 10 de mayo de 2019.</p>
+						<p class="text-align-left">
+							<a href="assets/pdf/noticias/abtecir_2019.pdf" target="_blank" class="btn-u btn-u-large margin-bottom-5">Ver tríptico</a>
+							<a href="assets/pdf/noticias/abtecir_2019_fotos.pdf" target="_blank" class="btn-u btn-u-large">Ver fotos</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End News v3 Alternative -->
+
+		<!-- News v3 Alternative -->
+		<div class="container content">
+			<div class="row">
+				<div class="col-md-6 sm-margin-bottom-20">
+					<img class="img-responsive" src="assets/img/noticias/proyecto_tierra2.jpg" alt="Proyecto Tierra">
 				</div>
 				<div class="col-md-6 col-lg-5 news-v3">
 					<div class="news-v3-in-sm no-padding">
@@ -47,7 +71,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-6 sm-margin-bottom-20">
-					<img class="img-responsive" src="assets/img/noticias/proyecto_tierra1.jpg" alt="">
+					<img class="img-responsive" src="assets/img/noticias/proyecto_tierra1.jpg" alt="Proyecto Tierra">
 				</div>
 				<div class="col-md-6 col-lg-5 news-v3">
 					<div class="news-v3-in-sm no-padding">

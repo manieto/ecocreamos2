@@ -22,7 +22,7 @@
 				<div class="sm-margin-bottom-20 col-md-10 col-md-offset-1">
 					<h2 class="title-v2">OBRA NUEVA Y REHABILITACIÓN ECOLÓGICA</h2>
 					<div class="col-sm-6" style="padding-left: 0px;">
-						<img src="assets/img/proyecto_tierra.jpg" class="img-responsive margin-bottom-10" alt="">
+					<?php image_displayCarousel("bioconstruccion"); ?>
 					</div>
 					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> ofrece servicios de gestión y asesoramiento en los diferentes procesos constructivos de rehabilitación y obra nueva, especializado en construcción pasiva, aplicando todo nuestro conocimiento y experiencia adquiridos a lo largo de toda nuestra trayectoria.</p>
 <p>Asesorando en la aplicación de todos los productos que distribuimos desde la práctica adquirida en la realización de nuestros proyectos.</p>

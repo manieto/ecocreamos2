@@ -1,5 +1,5 @@
 <?php $title       = "EcoCreamos - Contacto"; ?>
-<?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Celleters, 30, polígono de Marratxí, 07141 , formulario de contacto."; ?>
+<?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Guillem Bujosa Rosselló, 10, polígono de Son Llaüt, 07320, Santa Maria del Camí , formulario de contacto."; ?>
 <?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Contacto"; ?>
 <?php $menu        = "contacto"; ?>
 <?php $plugins     = "maps"; ?>
@@ -73,8 +73,8 @@
 				<div class="col-md-9">
 					<!-- Google Map -->
 					<!--<div id="map" class="map map-box map-box-space margin-bottom-20"></div>-->
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.2216953808847!2d2.7182737153719057!3d39.622211879465304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297eb3459baaa09%3A0x757d8c1777deabc6!2sCarrer+Celleters%2C+30%2C+07141+Marratx%C3%AD%2C+Illes+Balears!5e0!3m2!1ses!2ses!4v1537299304950"
-					        width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.766885462771!2d2.78934515137505!3d39.65496057936032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297c033b9c98dfb%3A0x462cf4949aa6b773!2sAv.%20Central%2C%2010%2C%2007320%20Santa%20Mar%C3%ADa%20del%20Camino%2C%20Islas%20Baleares!5e0!3m2!1ses!2ses!4v1605653979527!5m2!1ses!2ses"
+							width="100%" height="350" frameborder="0" style="border:0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 					<!-- End Google Map -->
 				</div><!--/col-md-9-->
 
@@ -82,14 +82,19 @@
 						<!-- Contacts -->
 						<div class="headline"><h2>Datos de contacto</h2></div>
 						<div class="row">
-							<div class="col-sm-6 col-md-12">
+							<div class="col-xs-6 col-md-12">
 								<ul class="list-unstyled who">
-									<li><a href="https://www.google.es/maps/place/Carrer+Celleters,+30,+07141+Marratxí,+07141,+Illes+Balears" target="_blank"><i class="fa fa-home"></i>Celleters, 30<br><span style="padding-left: 24px;">Polígon de Marratxí, Illes Balears</span></a></li>
+									<li><a href="https://goo.gl/maps/fgeWJrpgbGzruKWd9" target="_blank"><i class="fa fa-home"></i>Guillem Bujosa Rosselló, 10<br/>
+										<span style="padding-left: 24px;">Polígon de Son Llaüt</span><br/>
+										<span style="padding-left: 24px;">Santa Maria del Camí</span><br/>
+										<span style="padding-left: 24px;">Illes Balears</span>
+									</a></li>
+									<li><i class="fa fa-clock-o"></i> De lunes a viernes, de 9:30 a 13:30, sin cita previa; o llámenos para concertar una cita para otro momento</li>
 									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
 									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
 								</ul>
 							</div>
-							<div class="col-sm-6 col-md-12">
+							<div class="col-xs-6 col-md-12">
 								<ul class="list-unstyled who">
 									<li><a href="http://www.ecocreamos.com/"><i class="fa fa-globe"></i>www.ecocreamos.com</a></li>
 									<li><a href="https://www.facebook.com/ecocreamos"><i class="fa fa-facebook-official"></i>facebook/ecocreamos</a></li>
@@ -134,7 +139,7 @@
 								</div>
 							</div>
 
-							<p><label>Deseo recibir una copia</label> <input type="checkbox" name="copia" id="copia" value="si" /></p>
+							<p><label>Deseo recibir una copia</label>&nbsp;&nbsp;<input type="checkbox" name="copia" id="copia" value="si" /></p>
 							<p><button onclick="enviarMensaje();return false;" class="btn-u">Enviar mensaje</button>
 								<span id="message_ok" class="alert alert-success fade in" style="display:none;">
 									<i class="rounded-x fa fa-check"></i> <span id="message_ok_message"></span>

@@ -114,11 +114,19 @@
 							<li class="dropdown      <?php if ($menu=="materiales"         ) { echo "active"; } ?>">
 								<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><?= text("menu/materiales") ?></a>
 								<ul class="dropdown-menu">
-									<li <?php if ($submenu=="lana"        ) { echo "class=\"active\""; } ?>><a href="material_lana.php">Lana</a></li>
-									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho negro</a></li>
-									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Ecoclay</a></li>
+									<!--<li <?php if ($submenu=="lana"        ) { echo "class=\"active\""; } ?>><a href="material_lana.php">Lana</a></li>-->
+									<li class="seccion">> Aislamiento térmico</li>
+									<li <?php if ($submenu=="gutex"       ) { echo "class=\"active\""; } ?>><a href="material_gutex.php">Fibra de madera Gutex</a></li>
+									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho Amorim</a></li>
+									<li class="seccion">> Aislamiento acústico</li>
+									<li <?php if ($submenu=="wolf_panel"  ) { echo "class=\"active\""; } ?>><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestar">Panel acústico Phonestar WOLF</a></li>
+									<li <?php if ($submenu=="wolf_banda"  ) { echo "class=\"active\""; } ?>><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestrip/">Banda de desacoplamiento acústico Phonestar WOLF</a></li>
+									<li class="seccion">> Hermeticidad</li>
 									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">Pro clima</a></li>
-									<li <?php if ($submenu=="gutex"       ) { echo "class=\"active\""; } ?>><a href="material_gutex.php">Gutex</a></li>
+									<li class="seccion">> Morteros</li>
+									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Barro Ecoclay</a></li>
+									<li <?php if ($submenu=="ibercal"     ) { echo "class=\"active\""; } ?>><a href="http://www.grupoibercal.com/familias-de-productos/cales/">Cal Ibercal</a></li>
+									<li class="seccion">> Tratamiento para la madera</li>
 									<li <?php if ($submenu=="naturhaus"   ) { echo "class=\"active\""; } ?>><a href="material_naturhaus.php">Naturhaus</a></li>
 								</ul>
 							</li>

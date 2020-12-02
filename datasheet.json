@@ -93,6 +93,30 @@
 	],
 	
 	"articulos": [
+		{ "src": "articulos/nan133.jpg",
+			"alt": "Estándar Passivhaus",
+			"title": "Estándar Passivhaus",
+			"link": "assets/pdf/articulos/nan133.pdf",
+			"extra1": "Nan nº 133",
+			"extra2": "Mayo de 2018",
+			"extra3": "Pág. 38"
+		},
+		{ "src": "articulos/azero24.jpg",
+			"alt": "Proyecto Tierra, a Maiorca",
+			"title": "Proyecto Tierra, a Maiorca",
+			"link": "assets/pdf/articulos/azero24.pdf",
+			"extra1": "Azero nº 24",
+			"extra2": "Septiembre de 2017",
+			"extra3": "3 pág."
+		},
+		{ "src": "articulos/ecohabitar54.jpg",
+			"alt": "Vivienda pasiva certificada de BTC",
+			"title": "Vivienda pasiva certificada de BTC",
+			"link": "assets/pdf/articulos/ecohabitar54.pdf",
+			"extra1": "EcoHabitar nº 54",
+			"extra2": "Verano de 2017",
+			"extra3": "6 pág."
+		},
 		{ "src": "articulos/ultimahora20161127.jpg",
 			"alt": "El consumo de las casas, asignatura suspensa",
 			"title": "El consumo de las casas, asignatura suspensa",

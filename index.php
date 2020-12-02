@@ -24,8 +24,8 @@
 	"address": [{
 		"addressCountry" : "ES",
 		"addressRegion" : "Illes Balears",
-		"postalCode" : "07141",
-		"streetAddress" : "Celleters, 30"
+		"postalCode" : "07320",
+		"streetAddress" : "Guillem Bujosa Rosselló, 10"
 	}],
   "contactPoint": [{
     "@type" : "ContactPoint",
@@ -64,7 +64,7 @@
 			<div class="row margin-bottom-40">
 				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
 					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es una empresa constructora y promotora fundada en 1997, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva y distribución de materiales ecológicos.</p>
-					<p>Con la experiencia adquirida en estos 20 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
+					<p>Con la experiencia adquirida en estos 22 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
 					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia práctica que nos permite garantizar su correcta utilización en cualquier solución constructiva.</p>
 				</div>
 
@@ -79,15 +79,16 @@
 					<h2>Nuestras <span class="color-green">&nbsp;distribuciones</span></h2>
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
-					<li><a href="http://gutex-espana.eu/"           alt="Gutex España"       target="_blank"><img src="assets/img/logos/gutex.png"              alt="Gutex"             ></a></li>
-					<li><a href="https://proclima.com/"             alt="pro clima"          target="_blank"><img src="assets/img/logos/pro_clima.jpg"          alt="pro clima"         ></a></li>
-					<li><a href="http://www.naturhaus.net/"         alt="Naturhaus"          target="_blank"><img src="assets/img/logos/naturhaus.jpg"          alt="Naturhaus"         ></a></li>
-					<li><a href="http://www.biohaus.es/"            alt="Biohaus"            target="_blank"><img src="assets/img/logos/biohaus.gif"            alt="Biohaus"           ></a></li>
-					<li><a href="http://www.amorimisolamentos.com/" alt="Amorim Isolamentos" target="_blank"><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></a></li>
-					<li><a href="http://www.ecoclay.es/"            alt="Ecoclay"            target="_blank"><img src="assets/img/logos/ecoclay.gif"            alt="Ecoclay"           ></a></li>
-					<li><a href="http://www.agua-viva.info/"        alt="Agua Viva"          target="_blank"><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
-					<li><a href="http://www.lacunza.net/"           alt="Lacunza"            target="_blank"><img src="assets/img/logos/lacunza.png"            alt="Lacunza"           ></a></li>
-					<li><a href="http://www.pranan.com/"            alt="Pranan"             target="_blank"><img src="assets/img/logos/pranan.jpg"             alt="Pranan"            ></a></li>
+					<li><a href="material_gutex.php"           alt="Gutex España"      ><img src="assets/img/logos/gutex.png"              alt="Gutex"             ></a></li>
+					<li><a href="material_pro_clima.php"       alt="pro clima"         ><img src="assets/img/logos/pro_clima.jpg"          alt="pro clima"         ></a></li>
+					<li><a href="material_naturhaus.php"       alt="Naturhaus"         ><img src="assets/img/logos/naturhaus.jpg"          alt="Naturhaus"         ></a></li>
+					<li><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestar" alt="Phonestar"     target="_blank"><img src="assets/img/logos/wolf_bavaria.jpg"  alt="Phonestar"    ></a></li>
+					<li><a href="http://www.grupoibercal.com/"                                   alt="Ibercal Grupo" target="_blank"><img src="assets/img/logos/ibercal_grupo.png" alt="Ibercal Grupo"></a></li>
+					<li><a href="material_corcho_negro.php"    alt="Amorim Isolamentos"><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></a></li>
+					<li><a href="material_ecoclay.php"         alt="Ecoclay"           ><img src="assets/img/logos/ecoclay.gif"            alt="Ecoclay"           ></a></li>
+					<li><a href="producto_agua_viva.php"       alt="Agua Viva"         ><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
+					<li><a href="producto_biomasa.php"         alt="Lacunza"           ><img src="assets/img/logos/lacunza.png"            alt="Lacunza"           ></a></li>
+					<li><a href="producto_pranan.php"          alt="Pranan"            ><img src="assets/img/logos/pranan.jpg"             alt="Pranan"            ></a></li>
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

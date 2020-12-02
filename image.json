@@ -126,6 +126,16 @@
 		]
 	},
 	"carousels": {
+		"bioconstruccion": [
+			{ "src": "sliders/bioconstruccion/01.jpg"},
+			{ "src": "sliders/bioconstruccion/02.jpg"},
+			{ "src": "sliders/bioconstruccion/03.jpg"},
+			{ "src": "sliders/bioconstruccion/04.jpg"},
+			{ "src": "sliders/bioconstruccion/05.jpg"},
+			{ "src": "sliders/bioconstruccion/06.jpg"},
+			{ "src": "sliders/bioconstruccion/07.jpg"},
+			{ "src": "sliders/bioconstruccion/08.jpg"}
+		],
 		"proyecto_tierra": [
 			{ "src": "sliders/proyecto_tierra/01.jpg"},
 			{ "src": "sliders/proyecto_tierra/02.jpg"},
