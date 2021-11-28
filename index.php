@@ -64,12 +64,12 @@
 			<div class="row margin-bottom-40">
 				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
 					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es una empresa constructora y promotora fundada en 1997, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva y distribución de materiales ecológicos.</p>
-					<p>Con la experiencia adquirida en estos 22 años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
+					<p>Con la experiencia adquirida en estos <?php echo date('Y')-1997 ?> años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
 					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia práctica que nos permite garantizar su correcta utilización en cualquier solución constructiva.</p>
 				</div>
 
 				<div class="col-md-3 col-md-offset-1 md-margin-bottom-40">
-					<img src="assets/img/eduardo_ramos.gif" />
+					<img src="assets/img/eduardo_ramos.jpg" />
 				</div>
 			</div><!--/row-->
 			
@@ -89,6 +89,9 @@
 					<li><a href="producto_agua_viva.php"       alt="Agua Viva"         ><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
 					<li><a href="producto_biomasa.php"         alt="Lacunza"           ><img src="assets/img/logos/lacunza.png"            alt="Lacunza"           ></a></li>
 					<li><a href="producto_pranan.php"          alt="Pranan"            ><img src="assets/img/logos/pranan.jpg"             alt="Pranan"            ></a></li>
+					<li><a href="https://www.wicanders.es/"    alt="WICANDERS"         ><img src="assets/img/logos/WICANDERS.png"          alt="WICANDERS"         ></a></li>
+					<li><a href="https://www.amorimwise.es/"   alt="AMORIM WISE"       ><img src="assets/img/logos/AMORIM_WISE.png"        alt="AMORIM WISE"       ></a></li>
+					<li><a href="material_seciltek.php"        alt="SECIL_TECK"        ><img src="assets/img/logos/SecilTek.jpg"           alt="SECIL_TECK"        ></a></li>
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

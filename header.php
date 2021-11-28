@@ -13,7 +13,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="<?=$description ?>">
-                <meta name="keywords" content="<?=keywords ?>">
+		<meta name="keywords" content="<?=keywords ?>">
 		<meta name="author" content="Eduardo Ramos">
 		<meta property="og:image" content="http://ecocreamos.com/assets/img/logos/ecocreamos_pequenyo.png"/>
 
@@ -126,6 +126,7 @@
 									<li class="seccion">> Morteros</li>
 									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Barro Ecoclay</a></li>
 									<li <?php if ($submenu=="ibercal"     ) { echo "class=\"active\""; } ?>><a href="http://www.grupoibercal.com/familias-de-productos/cales/">Cal Ibercal</a></li>
+									<li <?php if ($submenu=="seciltek"    ) { echo "class=\"active\""; } ?>><a href="material_seciltek.php">SECILTEK</a></li>
 									<li class="seccion">> Tratamiento para la madera</li>
 									<li <?php if ($submenu=="naturhaus"   ) { echo "class=\"active\""; } ?>><a href="material_naturhaus.php">Naturhaus</a></li>
 								</ul>
