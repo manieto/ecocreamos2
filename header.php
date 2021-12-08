@@ -58,6 +58,11 @@
 
 		<!-- CSS Customization -->
 		<link rel="stylesheet" href="assets/css/custom.css">
+
+		<!-- JS libraries -->
+		<?php if (includePlugin($plugins, "recaptcha")) { ?>
+			<script src="https://www.google.com/recaptcha/api.js?render=6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I"></script>
+		<?php } ?>
 	</head>
 
 	<body>

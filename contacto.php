@@ -2,7 +2,7 @@
 <?php $description = "Información de contacto con EcoCreamos: teléfono: 629 11 86 19 , e-mail: info@ecocreamos.com , dirección: Guillem Bujosa Rosselló, 10, polígono de Son Llaüt, 07320, Santa Maria del Camí , formulario de contacto."; ?>
 <?php $keywords    = "EcoCreamos, Casa sana, Casa sana pasiva, Contacto"; ?>
 <?php $menu        = "contacto"; ?>
-<?php $plugins     = "maps"; ?>
+<?php $plugins     = "maps,recaptcha"; ?>
 <?php include "header.php";?>
 
 		<!--=== Breadcrumbs v1 ===-->
@@ -19,7 +19,8 @@
 				var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 				return re.test(email);
 			}
-			function enviarMensaje() {
+			function enviarMensaje(event) {
+				event.preventDefault();
 				var nombre   = document.getElementById("nombre");
 				var email    = document.getElementById("email");
 				var telefono = document.getElementById("telefono");
@@ -45,7 +46,12 @@
 				else {
 					clearMessage("message_ok");
 					clearMessage("message_fail");
-					document.forms["enviar_mensaje"].submit();
+					grecaptcha.ready(function() {
+            			grecaptcha.execute("6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I", { action: "submit" }).then(function(token) {
+							document.getElementById("token").value = token;
+							document.forms["enviar_mensaje"].submit();
+            			});
+        			});
 					return true;
 				}
 			}
@@ -61,9 +67,10 @@
 			function mailCallback(return1, return2) {
 				if      (return1==="1" && return2==="1")	{ showMessage("message_ok"  , "Mensajes enviados correctamente."); }
 				else if (return1==="0" && return2==="0")	{ showMessage("message_fail", "ERROR: Los mensajes no han podido ser enviados. Por favor, vuelva a intentarlo más tarde."); }
-				else if (return1==="1")										{ showMessage("message_ok"  , "Mensaje enviado correctamente."); }
-				else if (return1==="0")										{ showMessage("message_fail", "ERROR: El mensaje no ha podido ser enviado. Por favor, vuelva a intentarlo más tarde."); }
+				else if (return1==="1")						{ showMessage("message_ok"  , "Mensaje enviado correctamente. Gracias."); }
+				else if (return1==="0")						{ showMessage("message_fail", "ERROR: El mensaje no ha podido ser enviado. Por favor, vuelva a intentarlo más tarde."); }
 				if      (return1==="1" && return2==="0")	{ showMessage("message_fail", "ERROR: La copia del mensaje no ha podido ser enviada."); }
+				if      (return1==="9")                     { showMessage("message_fail", "ERROR: El filtro de spam ha bloqueado el mensaje. Envíenos un e-mail a <a href='mailto:info@ecocreamos.com'>info@ecocreamos.com</a> ."); }
 			}
 		</script>
 
@@ -138,9 +145,9 @@
 									</div>
 								</div>
 							</div>
-
+							<input type="hidden" id="token" name="token" />
 							<p><label>Deseo recibir una copia</label>&nbsp;&nbsp;<input type="checkbox" name="copia" id="copia" value="si" /></p>
-							<p><button onclick="enviarMensaje();return false;" class="btn-u">Enviar mensaje</button>
+							<p><button onclick="enviarMensaje(event);" class="btn-u">Enviar mensaje</button>
 								<span id="message_ok" class="alert alert-success fade in" style="display:none;">
 									<i class="rounded-x fa fa-check"></i> <span id="message_ok_message"></span>
 								</span>
