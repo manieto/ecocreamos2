@@ -7,7 +7,7 @@
 						<div class="col-md-4 md-margin-bottom-40">
 							<!-- Recent Blogs -->
 							<div class="posts">
-								<div class="headline"><h2>Últimas actualizaciones</h2></div>
+								<div class="headline"><h2>Noticias más relevantes</h2></div>
 								<dl class="dl-horizontal">
 									<dt><a href="noticia_primer_passivhaus_premium_tierra_internacional.php"><img src="assets/img/ultimas_actualizaciones/proyecto_tierra.jpg" alt="Proyecto Tierra" /></a></dt>
 									<dd>
