@@ -96,7 +96,7 @@
 										<span style="padding-left: 24px;">Santa Maria del Camí</span><br/>
 										<span style="padding-left: 24px;">Illes Balears</span>
 									</a></li>
-									<li><i class="fa fa-clock-o"></i> De lunes a viernes, de 9:30 a 13:30, sin cita previa; o llámenos para concertar una cita para otro momento</li>
+									<li><i class="fa fa-clock-o"></i> De lunes a viernes, de 8:00 a 16:00, sin cita previa; o llámenos para concertar una cita para otro momento</li>
 									<li><a href="mailto:info@ecocreamos.com"><i class="fa fa-envelope"></i>info@ecocreamos.com</a></li>
 									<li><a href="tel:+34629118619"><i class="fa fa-phone"></i>629 11 86 19</a></li>
 								</ul>

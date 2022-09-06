@@ -24,7 +24,7 @@
 					<p>
 						<ul class="list-unstyled who">
 							<li><i class="fa fa-check"></i><strong>Asesoramiento de construcciones pasivas</strong>
-								<p class="padding-left-40">Desde el año 2010, llevamos realizando proyectos con el estándar <em><strong>Passivhaus</strong></em> en obra nueva y rehabilitación, registrados como como viviendas pasivas en la Plataforma Passivhaus España.</p>
+								<p class="padding-left-40">Desde el año 2010, llevamos realizando proyectos con el estándar <em><strong>Passivhaus</strong></em> en obra nueva y rehabilitación, registrados como viviendas pasivas en la Plataforma Passivhaus España.</p>
 								<p class="padding-left-40">Contamos con una amplia experiencia para dar solución a los problemas habituales en los procesos de construcción con el estándar <em><strong>Passivhaus</strong></em>.</p>
 							</li>
 							<li><i class="fa fa-check"></i><strong>Asesoramiento en hermeticidad de edificios</strong>

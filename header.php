@@ -123,15 +123,15 @@
 									<li class="seccion">> Aislamiento térmico</li>
 									<li <?php if ($submenu=="gutex"       ) { echo "class=\"active\""; } ?>><a href="material_gutex.php">Fibra de madera Gutex</a></li>
 									<li <?php if ($submenu=="corcho_negro") { echo "class=\"active\""; } ?>><a href="material_corcho_negro.php">Corcho Amorim</a></li>
+									<li <?php if ($submenu=="isoltex"  ) { echo "class=\"active\""; } ?>><a href="material_Isoltex.php">Algodón reciclado</a></li>
 									<li class="seccion">> Aislamiento acústico</li>
 									<li <?php if ($submenu=="wolf_panel"  ) { echo "class=\"active\""; } ?>><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestar">Panel acústico Phonestar WOLF</a></li>
 									<li <?php if ($submenu=="wolf_banda"  ) { echo "class=\"active\""; } ?>><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestrip/">Banda de desacoplamiento acústico Phonestar WOLF</a></li>
 									<li class="seccion">> Hermeticidad</li>
 									<li <?php if ($submenu=="pro_clima"   ) { echo "class=\"active\""; } ?>><a href="material_pro_clima.php">Pro clima</a></li>
 									<li class="seccion">> Morteros</li>
-									<li <?php if ($submenu=="ecoclay"     ) { echo "class=\"active\""; } ?>><a href="material_ecoclay.php">Barro Ecoclay</a></li>
-									<li <?php if ($submenu=="ibercal"     ) { echo "class=\"active\""; } ?>><a href="http://www.grupoibercal.com/familias-de-productos/cales/">Cal Ibercal</a></li>
-									<li <?php if ($submenu=="seciltek"    ) { echo "class=\"active\""; } ?>><a href="material_seciltek.php">SECILTEK</a></li>
+									<li <?php if ($submenu=="seciltek"    ) { echo "class=\"active\""; } ?>><a href="material_seciltek.php">Secil Tek</a></li>
+									<li <?php if ($submenu=="naturclay"    ) { echo "class=\"active\""; } ?>><a href="material_naturclay.php">Naturclay</a></li>
 									<li class="seccion">> Tratamiento para la madera</li>
 									<li <?php if ($submenu=="naturhaus"   ) { echo "class=\"active\""; } ?>><a href="material_naturhaus.php">Naturhaus</a></li>
 								</ul>
@@ -142,6 +142,8 @@
 									<li <?php if ($submenu=="biomasa"  ) { echo "class=\"active\""; } ?>><a href="producto_biomasa.php">Biomasa</a></li>
 									<li <?php if ($submenu=="agua_viva") { echo "class=\"active\""; } ?>><a href="producto_agua_viva.php">Agua Viva</a></li>
 									<li <?php if ($submenu=="pranan"   ) { echo "class=\"active\""; } ?>><a href="producto_pranan.php">Pranan</a></li>
+									<li <?php if ($submenu=="amorim_wise"   ) { echo "class=\"active\""; } ?>><a href="producto_amorim_wise.php">Amorim Wise</a></li>
+									<li <?php if ($submenu=="wicanders"   ) { echo "class=\"active\""; } ?>><a href="producto_wicanders.php">Wicanders</a></li>
 								</ul>
 							</li>
 							<li class="dropdown      <?php if ($menu=="noticias"           ) { echo "active"; } ?>">

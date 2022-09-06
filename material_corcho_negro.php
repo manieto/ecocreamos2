@@ -21,7 +21,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-7 padding-bottom-20 padding-left-30 padding-right-30">
-					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos de <a href="http://www.amorimisolamentos.com/" target="_blank" />Amorim Isolamentos</a> en las Illes Balears. Disponemos de un amplio stock de diferentes formatos y productos.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos de <a href="http://www.amorimisolamentos.com/" target="_blank" />Amorim Isolamentos</a> en las Islas Baleares. Disponemos de un amplio stock de diferentes formatos y productos.</p>
 					<p>El corcho se obtiene de la corteza exterior del alcornoque dando lugar a un aglomerado de corcho aglutinado entre sí por su propia resina.</p>
 					<p>Este material se caracteriza por sus propiedades acústicas y térmicas. Cabe remarcar que el ensayo de resistividad específica al flujo del aire es de 5 KPa·s/m<sup>2</sup>, lo que indica su buen comportamiento acústico.</p>
 					<p>Además, posee una durabilidad ilimitada: no le atacan los insectos y presenta una gran resistencia a los agentes químicos.</p>

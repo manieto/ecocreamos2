@@ -42,7 +42,7 @@
 							<address class="md-margin-bottom-40">
 								Guillem Bujosa Rosselló, 10 <a href="https://goo.gl/maps/fgeWJrpgbGzruKWd9" target="_blank" class="">(ver mapa)</a><br />
 								Polígon de Son Llaüt, Santa Maria del Camí, Illes Balears<br />
-								<i class="fa fa-clock-o"></i> De lunes a viernes, de 9:30 a 13:30, sin cita previa; o llámenos para concertar una cita para otro momento<br />
+								<i class="fa fa-clock-o"></i> De lunes a viernes, de 8:00 a 16:00, sin cita previa; o llámenos para concertar una cita para otro momento<br />
 								Tel: <a href="tel:+34629118619">629 11 86 19</a><br />
 								Email: <a href="mailto:info@ecocreamos.com" class="">info@ecocreamos.com</a>
 							</address>

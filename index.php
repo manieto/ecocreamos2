@@ -63,9 +63,9 @@
 		<div class="container content">
 			<div class="row margin-bottom-40">
 				<div class="col-md-6 col-md-offset-1 md-margin-bottom-40">
-					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es una empresa constructora y promotora fundada en 1997, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva y distribución de materiales ecológicos.</p>
-					<p>Con la experiencia adquirida en estos <?php echo date('Y')-1997 ?> años, hemos decidido emprender una nueva etapa, centrándonos en el <strong><em>asesoramiento</em></strong> de los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
-					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia práctica que nos permite garantizar su correcta utilización en cualquier solución constructiva.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> se funda en 1997 como empresa constructora y promotora, dedicada a la Bioconstrucción, especializada en la construcción Bio-pasiva.  
+					<p>Con la experiencia adquirida en más de <?php echo date('Y')-1997 ?> años, hemos decidido emprender una nueva etapa, especializándonos en la distribución de materiales ecológicos para la construcción, ofreciendo servicios de <strong><em>asesoramiento y consultoría </em></strong>, en los diferentes procesos constructivos de obra nueva y rehabilitación ecológica que impliquen y sigan nuestra filosofía.</p>
+					<p>En el proceso de asesoramiento de los productos que distribuimos, contamos con una amplia y reconocida experiencia teórica y práctica, que nos permite garantizar su correcta utilización en cualquier solución constructiva, ofreciendo la solución más óptima y eficiente en cada caso.</p>
 				</div>
 
 				<div class="col-md-3 col-md-offset-1 md-margin-bottom-40">
@@ -80,18 +80,19 @@
 				</div>
 				<ul class="list-inline our-clients" id="effect-2">
 					<li><a href="material_gutex.php"           alt="Gutex España"      ><img src="assets/img/logos/gutex.png"              alt="Gutex"             ></a></li>
-					<li><a href="material_pro_clima.php"       alt="pro clima"         ><img src="assets/img/logos/pro_clima.jpg"          alt="pro clima"         ></a></li>
-					<li><a href="material_naturhaus.php"       alt="Naturhaus"         ><img src="assets/img/logos/naturhaus.jpg"          alt="Naturhaus"         ></a></li>
-					<li><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestar" alt="Phonestar"     target="_blank"><img src="assets/img/logos/wolf_bavaria.jpg"  alt="Phonestar"    ></a></li>
-					<li><a href="http://www.grupoibercal.com/"                                   alt="Ibercal Grupo" target="_blank"><img src="assets/img/logos/ibercal_grupo.png" alt="Ibercal Grupo"></a></li>
 					<li><a href="material_corcho_negro.php"    alt="Amorim Isolamentos"><img src="assets/img/logos/amorim_isolamentos.png" alt="Amorim Isolamentos"></a></li>
-					<li><a href="material_ecoclay.php"         alt="Ecoclay"           ><img src="assets/img/logos/ecoclay.gif"            alt="Ecoclay"           ></a></li>
-					<li><a href="producto_agua_viva.php"       alt="Agua Viva"         ><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
+					<li><a href="material_Isoltex.php"         alt="Isoltex"           ><img src="assets/img/logos/Isoltex.jpg"            alt="Isoltex"           ></a></li>
+					<li><a href="http://www.biohaus.es/productos/aislamiento-acustico/phonestar" alt="Phonestar"     target="_blank"><img src="assets/img/logos/wolf_bavaria.jpg"  alt="Phonestar"    ></a></li>
+					<li><a href="material_pro_clima.php"       alt="pro clima"         ><img src="assets/img/logos/pro_clima.jpg"          alt="pro clima"         ></a></li>
+					<li><a href="material_seciltek.php"        alt="SECIL_TECK"        ><img src="assets/img/logos/SecilTek.jpg"    	   alt="SECIL_TECK"        ></a></li>
+					<li><a href="material_naturhaus.php"       alt="Naturhaus"         ><img src="assets/img/logos/naturhaus.jpg"          alt="Naturhaus"         ></a></li>
 					<li><a href="producto_biomasa.php"         alt="Lacunza"           ><img src="assets/img/logos/lacunza.png"            alt="Lacunza"           ></a></li>
+					<li><a href="producto_agua_viva.php"       alt="Agua Viva"         ><img src="assets/img/logos/agua_viva.jpg"          alt="Agua Viva"         ></a></li>
 					<li><a href="producto_pranan.php"          alt="Pranan"            ><img src="assets/img/logos/pranan.jpg"             alt="Pranan"            ></a></li>
-					<li><a href="https://www.wicanders.es/"    alt="WICANDERS"         ><img src="assets/img/logos/WICANDERS.png"          alt="WICANDERS"         ></a></li>
-					<li><a href="https://www.amorimwise.es/"   alt="AMORIM WISE"       ><img src="assets/img/logos/AMORIM_WISE.png"        alt="AMORIM WISE"       ></a></li>
-					<li><a href="material_seciltek.php"        alt="SECIL_TECK"        ><img src="assets/img/logos/SecilTek.jpg"           alt="SECIL_TECK"        ></a></li>
+					<li><a href="producto_amorim_wise.php"	   alt="AMORIM WISE"       ><img src="assets/img/logos/AMORIM_WISE.png"        alt="AMORIM WISE"       ></a></li>					
+					<li><a href="producto_wicanders.php"	   alt="WICANDERS"         ><img src="assets/img/logos/WICANDERS.png"          alt="WICANDERS"         ></a></li>
+					
+
 				</ul>
 			</div><!--/container-->
 			<!--=== End Job Partners ===-->

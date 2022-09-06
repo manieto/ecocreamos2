@@ -21,7 +21,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-7 padding-bottom-20">
-					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://naturhaus.net/" target="_blank">Naturhaus</a> en las Illes Balears.</p>
+					<p><span class="ecocreamos-logo-sm">EcoCreamos</span> es distribuidor exclusivo de los productos <a href="http://naturhaus.net/" target="_blank">Naturhaus</a> en las Islas Baleares.</p>
 					<p><em>"Los materiales naturales se tratan de forma natural."</em></p>
 					<p>¿Le importa que las superficies de madera tengan el máximo de su textura natural?</p>
 					<p>Nosotros sabemos lo que necesita su madera. Los productos <em>Naturhaus</em> protegen, conservan, limpian, cuidan y reavivan la superficie de madera de forma absolutamente adecuada; esto quiere decir de manera totalmente natural (como la propia madera).</p>
