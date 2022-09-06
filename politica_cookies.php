@@ -7,7 +7,7 @@
 
 		<!--=== Breadcrumbs v1 ===-->
 		<div class="breadcrumbs-v1"
-				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabeceras/noticias.jpg') no-repeat scroll center center / cover ;">
+				 style="background: rgba(0, 0, 0, 0) url('assets/img/cabeceras/politica_cookies.jpg') no-repeat scroll center center / cover ;">
 			<div class="container padding-left-30">
 				<div class="row">
 					<div>
