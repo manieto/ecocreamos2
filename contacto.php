@@ -46,13 +46,19 @@
 				else {
 					clearMessage("message_ok");
 					clearMessage("message_fail");
-					grecaptcha.ready(function() {
-            			grecaptcha.execute("6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I", { action: "submit" }).then(function(token) {
-							document.getElementById("token").value = token;
-							document.forms["enviar_mensaje"].submit();
-            			});
-        			});
-					return true;
+					if (grecaptcha!==undefined) {
+						grecaptcha.ready(function() {
+							grecaptcha.execute("6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I", { action: "submit" }).then(function(token) {
+								document.getElementById("token").value = token;
+								document.forms["enviar_mensaje"].submit();
+							});
+						});
+						return true;
+					}
+					else {
+						alert("Diculpe las molestias. Para enviar un mensaje, necesita habilitar las cookies analíticas.\n\nSi lo desea, también puede enviar un correo electrónico a info@ecocreamos.com.\n\nGracias.");
+						return false;
+					}
 				}
 			}
 			function clearMessage(div) {

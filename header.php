@@ -64,6 +64,7 @@
 		
 		<!-- JS de Google Analytics y quizás Recaptcha -->
 		<script>
+			var grecaptcha = undefined;
 			document.addEventListener('gdprCookiesEnabled', function (e) {
 				if (e.detail.analytics) {
 					console.log("Cookies aceptadas");
