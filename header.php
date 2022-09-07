@@ -59,10 +59,31 @@
 		<!-- CSS Customization -->
 		<link rel="stylesheet" href="assets/css/custom.css">
 
-		<!-- JS libraries -->
-		<?php if (includePlugin($plugins, "recaptcha")) { ?>
-			<script src="https://www.google.com/recaptcha/api.js?render=6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I"></script>
-		<?php } ?>
+		<!-- CSS de aviso de cookies -->
+		<link rel="stylesheet" href="assets/css/gdpr-cookie-notice.css">
+		
+		<!-- JS de Google Analytics y quizás Recaptcha -->
+		<script>
+			document.addEventListener('gdprCookiesEnabled', function (e) {
+				if (e.detail.analytics) {
+					console.log("Cookies aceptadas");
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+					ga('create', 'UA-73796847-1', 'auto');
+					ga('send', 'pageview', document.location.pathname);
+
+					<?php if (includePlugin($plugins, "recaptcha")) { ?>
+						var script = document.createElement('script');
+						script.src = "https://www.google.com/recaptcha/api.js?render=6LePGIkdAAAAAExzljz6sYowt61N8nV6edmj857I";
+						script.async = true;
+						document.head.appendChild(script);
+					<?php } ?>
+				}
+			});
+		</script>
 	</head>
 
 	<body>

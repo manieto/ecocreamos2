@@ -66,7 +66,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<p>
-								2016 &copy; EcoCreamos. Todos los derechos reservados.
+								<?php echo date('Y') ?> &copy; EcoCreamos. Todos los derechos reservados.
 								<!--<a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>-->
 							</p>
 						</div>
@@ -125,15 +125,20 @@
 		<script src="assets/plugins/html5shiv.js"></script>
 		<script src="assets/plugins/placeholder-IE-fixes.js"></script>
 	<![endif]-->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-73796847-1', 'auto');
-		ga('send', 'pageview', document.location.pathname);
-	</script>
+	
+	<!-- Aviso de cookies -->
+    <script type="text/javascript" src="assets/js/gdpr-cookie-notice.js"></script>
+    <script>
+		gdprCookieNotice({
+			locale: 'es',
+			timeout: 1500, // tiempo de espera
+			expiration: 30,
+			domain: window.location.hostname,
+			implicit: false,
+			statement: '/politica_cookies.php',
+			analytics: ['ga']
+		});
+    </script>
 
 </body>
 </html>
