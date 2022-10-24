@@ -1,6 +1,6 @@
 <?php $title       = "EcoCreamos - Política de cookies"; ?>
 <?php $description = "Política de cookies"; ?>
-<?php $keywords    = "EcoCreamos, Cookies"; ?>
+<?php $keywords    = "EcoCreamos, Política de cookies"; ?>
 <?php $menu        = ""; ?>
 <?php $submenu     = ""; ?>
 <?php include "header.php";?>

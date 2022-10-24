@@ -33,7 +33,9 @@
 								<li><a href="servicios.php">Asesoramiento en bioconstrucción</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="noticias.php">Noticias y eventos</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="contacto.php">Contacto</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="aviso_legal.php">Aviso legal</a><i class="fa fa-angle-right"></i></li>
 								<li><a href="politica_cookies.php">Política de cookies</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="politica_privacidad.php">Política de privacidad</a><i class="fa fa-angle-right"></i></li>
 							</ul>
 						</div><!--/col-md-4-->
 

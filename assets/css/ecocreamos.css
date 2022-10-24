@@ -24,6 +24,9 @@ a.read-more:hover {
 	color:#9c8061;
 }
 
+.padding-top-30 { padding-top: 30px; }
+
+
 /* Headers Default
 ------------------------------------*/
 .header .navbar-nav > .active > a {
